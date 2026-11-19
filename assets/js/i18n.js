@@ -413,6 +413,8 @@
       'svc.ferienwohnungen': 'Holiday flats', 'svc.industriereinigung': 'Industrial cleaning',
       'label.more': 'More about this service',
       'bar.label': 'Quick contact', 'bar.call': 'Call',
+      'footer.callUs': 'Call us', 'footer.langs': 'We speak German, Turkish and English.',
+      'footer.allTowns': 'See all towns', 'footer.top': 'Back to top',
       'legal.lang': 'This legal text is only available in German.',
     },
     tr: {
@@ -425,6 +427,8 @@
       'svc.ferienwohnungen': 'Tatil daireleri', 'svc.industriereinigung': 'Sanayi temizliği',
       'label.more': 'Hizmet hakkında daha fazla',
       'bar.label': 'Hızlı iletişim', 'bar.call': 'Ara',
+      'footer.callUs': 'Bizi arayın', 'footer.langs': 'Almanca, Türkçe ve İngilizce konuşuyoruz.',
+      'footer.allTowns': 'Tüm yerleri görün', 'footer.top': 'Başa dön',
       'legal.lang': 'Bu yasal metin yalnızca Almanca olarak mevcuttur.',
     },
   };

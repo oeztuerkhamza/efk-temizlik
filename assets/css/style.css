@@ -531,24 +531,86 @@ button, input, select, textarea { font: inherit; color: inherit; }
 /* =========================================================
    FOOTER
    ========================================================= */
-.footer { background: var(--tanne); color: var(--white); overflow: hidden; padding-top: clamp(64px, 8vw, 110px); }
-.footer-grid { display: grid; gap: 36px; }
-@media (min-width: 760px) { .footer-grid { grid-template-columns: 1.6fr 1fr 1fr 1fr; } }
-.footer .brand { color: var(--white); }
-.footer-brand p { margin-top: 14px; max-width: 30ch; color: rgba(255, 255, 255, .7); }
-.footer-col h3 { font-size: .85rem; font-weight: 700; color: var(--wasser); margin-bottom: 12px; letter-spacing: .02em; }
-.footer-col ul { display: grid; gap: 6px; }
-.footer-col a { text-decoration: none; color: rgba(255, 255, 255, .88); }
-.footer-col a:hover { color: var(--white); text-decoration: underline; text-decoration-color: var(--rot); text-underline-offset: 4px; }
-.footer-bottom { position: relative; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px 24px; margin-top: 56px; padding-top: 18px; padding-bottom: 18px; font-size: .85rem; color: rgba(255, 255, 255, .6); }
-.footer-bottom::before { content: ""; position: absolute; top: 0; left: var(--gutter); right: var(--gutter); border-top: 1px solid rgba(255, 255, 255, .12); }
-.footer-bottom a:hover { color: var(--white); }
-.wordmark {
-  display: flex; justify-content: center;
-  font-weight: 900; font-stretch: 75%; font-size: 36vw; line-height: 1; letter-spacing: -.02em;
-  color: var(--tanne-2); user-select: none; margin-top: -2vw;
+.footer { position: relative; background: var(--tanne); color: var(--white); padding-top: clamp(24px, 4vw, 48px); }
+
+/* Tannenkamm als Übergang in den Fußbereich */
+.footer-ridge {
+  position: absolute; left: 0; right: 0; bottom: calc(100% - 1px);
+  height: clamp(64px, 8.5vw, 132px); pointer-events: none;
+  background: url("../img/ridge.svg") center bottom / auto 100% repeat-x;
 }
-.wordmark span { display: block; overflow: hidden; line-height: .78; padding: .04em 0 .02em; }
+.contact { padding-bottom: calc(clamp(80px, 11vw, 160px) + clamp(64px, 8.5vw, 132px)); }
+.legal { padding-bottom: calc(100px + clamp(64px, 8.5vw, 132px)); }
+
+/* Abschluss: Claim und Kontakt */
+.footer-top { display: grid; gap: 32px 64px; align-items: end; padding-bottom: clamp(44px, 6vw, 76px); }
+@media (min-width: 960px) { .footer-top { grid-template-columns: 1.6fr 1fr; } }
+.footer-claim {
+  font-weight: 850; font-stretch: 76%; font-size: clamp(44px, 6vw, 96px);
+  line-height: .88; letter-spacing: -.03em; word-spacing: .07em;
+}
+.footer-contact { display: grid; gap: 18px; justify-items: start; }
+@media (min-width: 960px) { .footer-contact { justify-items: end; text-align: right; } }
+.footer-phone { display: grid; gap: 2px; color: var(--white); text-decoration: none; }
+.footer-phone span { font-size: .9rem; font-weight: 600; color: rgba(255, 255, 255, .65); }
+.footer-phone b { font-weight: 800; font-stretch: 85%; font-size: clamp(30px, 3.2vw, 46px); line-height: 1.05; letter-spacing: -.01em; transition: color .2s; }
+.footer-phone:hover b { color: var(--wasser); }
+.footer-actions { display: flex; flex-wrap: wrap; gap: 10px; }
+@media (min-width: 960px) { .footer-actions { justify-content: flex-end; } }
+.btn--line { border-color: rgba(255, 255, 255, .4); color: var(--white); }
+.btn--line:hover { background: var(--white); border-color: var(--white); color: var(--tanne); }
+.footer-hours { display: flex; align-items: center; gap: 10px; font-size: .9rem; color: rgba(255, 255, 255, .65); }
+.footer-hours::before { content: ""; width: 8px; height: 8px; border-radius: 50%; background: var(--wasser); }
+
+/* Linkspalten */
+.footer-grid { position: relative; display: grid; grid-template-columns: 1fr 1fr; gap: 40px 24px; padding-top: clamp(44px, 5vw, 64px); }
+.footer-brand { grid-column: 1 / -1; }
+@media (max-width: 639px) { .footer-col { font-size: .95rem; } }
+.footer-grid::before, .footer-bottom::before {
+  content: ""; position: absolute; top: 0; left: var(--gutter); right: var(--gutter);
+  border-top: 1px solid rgba(255, 255, 255, .12);
+}
+@media (min-width: 1100px) { .footer-grid { grid-template-columns: 1.5fr 1fr 1fr 1fr .8fr; } .footer-brand { grid-column: auto; } }
+.footer .brand { color: var(--white); }
+.footer-brand p { margin-top: 14px; max-width: 32ch; color: rgba(255, 255, 255, .72); }
+.footer-brand .footer-langs { font-size: .9rem; font-weight: 600; color: var(--wasser); }
+.footer-col h3 { margin-bottom: 14px; font-size: .85rem; font-weight: 700; letter-spacing: .02em; color: var(--wasser); }
+.footer-col .footer-sub { margin-top: 26px; }
+.footer-col ul { display: grid; gap: 8px; }
+.footer-col a {
+  padding-bottom: 2px; color: rgba(255, 255, 255, .86); text-decoration: none;
+  background: linear-gradient(var(--rot), var(--rot)) 0 100% / 0 1.5px no-repeat;
+  transition: background-size .25s, color .2s;
+}
+.footer-col a:hover { color: var(--white); background-size: 100% 1.5px; }
+.footer-col .footer-more { display: inline-block; margin-top: 16px; font-weight: 700; color: var(--white); }
+
+/* Unterste Zeile */
+.footer-bottom {
+  position: relative; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px 28px;
+  margin-top: clamp(48px, 6vw, 72px); padding-top: 20px; padding-bottom: 20px;
+  font-size: .86rem; color: rgba(255, 255, 255, .6);
+}
+.footer-legal { display: flex; flex-wrap: wrap; gap: 6px 24px; }
+.footer-legal a { color: rgba(255, 255, 255, .78); text-decoration: none; }
+.footer-legal a:hover { color: var(--white); text-decoration: underline; text-underline-offset: 3px; }
+.to-top {
+  display: inline-flex; align-items: center; gap: 8px; padding: 8px 16px;
+  border: 1.5px solid rgba(255, 255, 255, .25); border-radius: 999px;
+  color: var(--white); font-weight: 600; text-decoration: none; transition: background-color .2s, color .2s;
+}
+.to-top svg { width: 14px; height: 14px; }
+.to-top:hover { background: var(--white); color: var(--tanne); }
+
+/* Großer Schriftzug als Kontur */
+.wordmark {
+  position: relative; display: flex; justify-content: center;
+  font-weight: 900; font-stretch: 75%; font-size: 30vw; line-height: 1; letter-spacing: -.02em;
+  color: transparent; -webkit-text-stroke: 1.5px rgba(255, 255, 255, .18);
+  user-select: none; margin-top: -1vw;
+}
+.wordmark::after { content: ""; position: absolute; inset: 0; pointer-events: none; background: linear-gradient(to top, var(--tanne) 4%, rgba(14, 42, 30, 0) 75%); }
+.wordmark span { display: block; overflow: hidden; line-height: .78; padding: .04em .06em .02em; margin: 0 -.06em; }
 .wordmark i { display: block; font-style: normal; }
 
 /* =========================================================
