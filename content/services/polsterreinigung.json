@@ -1,0 +1,195 @@
+{
+  "slug": "polsterreinigung",
+  "group": "spezial",
+  "img": "koltuk.jpg",
+  "related": ["grundreinigung", "ferienwohnungen", "bodenpflege"],
+  "de": {
+    "name": "Teppich- und Polsterreinigung",
+    "h1": "Teppich- und Polsterreinigung im Schwarzwald",
+    "metaTitle": "Teppich- und Polsterreinigung im Schwarzwald | EFK",
+    "metaDesc": "Teppich- und Polsterreinigung im Schwarzwald: Sofas, Sessel, Matratzen und Teppichböden per Sprühextraktion vor Ort reinigen. Kostenlose Besichtigung.",
+    "lead": "Wir reinigen Teppichböden, Sofas, Sessel und Matratzen direkt bei Ihnen vor Ort per Sprühextraktion, gründlich bis in die Faser und schonend für das Material.",
+    "usps": [
+      "Sprühextraktion direkt vor Ort",
+      "Materialtest vor jeder Reinigung",
+      "Vorbehandlung von Flecken und Gerüchen",
+      "Kostenlose Besichtigung vor Ort"
+    ],
+    "introTitle": "Warum Teppiche und Polster eine Tiefenreinigung brauchen",
+    "intro": [
+      "Teppiche und Polster nehmen jeden Tag Staub, Hautschuppen und Schmutz auf. Mit der Zeit setzen sich diese Rückstände tief in Fasern und Polsterung fest, zusammen mit Hausstaubmilben, Gerüchen und Flecken. Ein Staubsauger erreicht nur die Oberfläche, und Hausmittel verteilen Flecken oft nur oder hinterlassen Ränder.",
+      "Bei der Sprühextraktion sprühen wir eine Reinigungslösung in die Fasern und saugen sie im selben Arbeitsgang mit dem gelösten Schmutz wieder ab. Vorher prüfen wir das Material an einer verdeckten Stelle auf Farbechtheit und behandeln Flecken gezielt vor. Es bleibt nur wenig Feuchtigkeit zurück, deshalb sind Teppich oder Polster meist nach einigen Stunden wieder trocken.",
+      "Ob das Sofa in Ihrer Wohnung in Freiburg, der Teppichboden im Büro in Lahr oder die Matratzen Ihrer Ferienwohnung in Hinterzarten: Wir kommen mit eigenen Geräten und Mitteln zu Ihnen. Bei Ferienwohnungen planen wir die Reinigung zwischen zwei Gästen so, dass bis zur nächsten Anreise genug Zeit zum Trocknen bleibt."
+    ],
+    "scopeTitle": "Unser Leistungsumfang",
+    "scope": [
+      { "t": "Verlegte Teppichböden", "d": "Tiefenreinigung von Teppichböden in Wohnungen, Büros und Treppenhäusern per Sprühextraktion, auf Wunsch abschnittsweise." },
+      { "t": "Lose Teppiche", "d": "Läufer und Teppiche reinigen wir vor Ort, bei wertvollen handgeknüpften Stücken prüfen wir vorher die Eignung." },
+      { "t": "Sofas und Sessel", "d": "Sitzflächen, Rücken, Kissen und Armlehnen aus Stoff oder Mikrofaser gründlich reinigen, auch bei Eck- und Schlafsofas." },
+      { "t": "Bürostühle und Sitzmöbel", "d": "Bürostühle, Besucherstühle und Sitzbänke in Serie reinigen, gern abends oder am Wochenende, wenn das Büro leer ist." },
+      { "t": "Matratzen und Polsterbetten", "d": "Beide Seiten der Matratze reinigen und Hausstaub, Milben sowie deren Rückstände mit dem Schmutzwasser absaugen." },
+      { "t": "Flecken vorbehandeln", "d": "Kaffee, Rotwein, Fett oder Tinte behandeln wir mit passenden Mitteln vor, bevor die eigentliche Reinigung beginnt." },
+      { "t": "Gerüche reduzieren", "d": "Gerüche von Haustieren, Rauch oder Essen behandeln wir mit geruchsbindenden Mitteln und mindern sie so deutlich." },
+      { "t": "Materialtest vorab", "d": "Vor jeder Reinigung prüfen wir Pflegeetikett, Faser und Farbechtheit an einer verdeckten Stelle." }
+    ],
+    "forTitle": "Für wen wir Teppiche und Polster reinigen",
+    "for": [
+      "Privathaushalte",
+      "Vermieter von Ferienwohnungen",
+      "Büros und Verwaltungen",
+      "Hotels und Pensionen",
+      "Arztpraxen und Wartebereiche",
+      "Hausverwaltungen bei Mieterwechsel"
+    ],
+    "steps": [
+      { "t": "Anfrage", "d": "Sie schicken uns Fotos per WhatsApp, oder wir sehen uns Teppiche und Polster kostenlos vor Ort an." },
+      { "t": "Materialtest", "d": "Wir prüfen Stoff, Pflegeetikett und Farbechtheit und sagen Ihnen offen, was bei Flecken realistisch ist." },
+      { "t": "Reinigung", "d": "Wir behandeln Flecken vor und reinigen anschließend Fläche für Fläche per Sprühextraktion." },
+      { "t": "Trocknung", "d": "Sie erhalten Hinweise zum Lüften, und wir sagen Ihnen, ab wann Sofa, Bett oder Teppich wieder nutzbar sind." }
+    ],
+    "priceTitle": "Was kostet eine Teppich- oder Polsterreinigung?",
+    "priceIntro": "Der Preis richtet sich nach Menge, Material und Verschmutzung. Nach Besichtigung oder Fotos erhalten Sie ein schriftliches Angebot mit Festpreis.",
+    "priceFactors": [
+      { "t": "Menge und Größe", "d": "Die Zahl der Sitzplätze, Matratzen und Stühle oder die Quadratmeter Teppichboden bestimmen den Zeitaufwand." },
+      { "t": "Material und Faser", "d": "Empfindliche Stoffe wie Samt oder Naturfasern brauchen mehr Sorgfalt als robuste Mikrofaser." },
+      { "t": "Flecken und Gerüche", "d": "Viele oder alte Flecken und starke Gerüche erfordern zusätzliche Vorbehandlung und mehr Durchgänge." },
+      { "t": "Zugang und Termin", "d": "Möbelrücken, obere Stockwerke ohne Aufzug und Termine am Abend oder Wochenende fließen in die Kalkulation ein." }
+    ],
+    "priceNote": "Für Ferienwohnungen und Hotels mit mehreren Einheiten erstellen wir gern ein Rahmenangebot.",
+    "areaText": "Wir reinigen Teppiche und Polster im gesamten Schwarzwald, unter anderem in Freiburg, Lahr, Emmendingen, Titisee-Neustadt, Hinterzarten, Freudenstadt und Baden-Baden.",
+    "faq": [
+      { "q": "Gehen alle Flecken heraus?", "a": "Nicht immer. Frische Flecken lassen sich meist gut entfernen, alte Flecken aus Rotwein, Tinte oder Rost können sich dauerhaft mit der Faser verbunden haben. Wir sagen Ihnen nach dem Materialtest offen, was realistisch ist." },
+      { "q": "Wie lange dauert das Trocknen?", "a": "In der Regel einige Stunden, je nach Material, Raumtemperatur und Lüftung. Matratzen und dicke Polster brauchen länger, deshalb reinigen wir sie am besten am Vormittag." },
+      { "q": "Ist die Reinigung für jeden Stoff geeignet?", "a": "Die meisten Bezüge aus Stoff und Mikrofaser vertragen die Sprühextraktion gut. Bei Leder, Seide, Viskose oder empfindlichen Naturfasern prüfen wir vorher, ob eine Nassreinigung infrage kommt, und sagen es Ihnen offen, wenn nicht." },
+      { "q": "Hilft die Reinigung gegen Hausstaubmilben?", "a": "Die Sprühextraktion saugt Hausstaub, Milben und ihre Rückstände mit dem Schmutzwasser aus Matratzen und Polstern ab. Für eine dauerhafte Wirkung empfiehlt sich eine regelmäßige Reinigung." },
+      { "q": "Muss ich während der Reinigung zu Hause sein?", "a": "Nur zu Beginn und am Ende, damit wir den Ablauf besprechen und das Ergebnis gemeinsam ansehen können. Bei Ferienwohnungen reicht oft eine Schlüsselübergabe." },
+      { "q": "Brauchen Sie Strom und Wasser vor Ort?", "a": "Ja, einen Stromanschluss und Zugang zu Wasser. Geräte und Reinigungsmittel bringen wir selbst mit." }
+    ]
+  },
+  "en": {
+    "name": "Carpets and upholstery",
+    "h1": "Carpet and upholstery cleaning in the Black Forest",
+    "metaTitle": "Carpet and upholstery cleaning in the Black Forest | EFK",
+    "metaDesc": "Carpet and upholstery cleaning in the Black Forest: sofas, armchairs, mattresses and fitted carpets cleaned on site by spray extraction. Free site visit.",
+    "lead": "We clean fitted carpets, sofas, armchairs and mattresses at your home or premises by spray extraction, deep down into the fibres and gently on the material.",
+    "usps": [
+      "Spray extraction on site",
+      "Fabric test before cleaning",
+      "Stain and odour pre-treatment",
+      "Free on-site visit"
+    ],
+    "introTitle": "Why carpets and upholstery need a deep clean",
+    "intro": [
+      "Carpets and upholstery pick up dust, skin flakes and dirt every day. Over time these residues settle deep in the fibres and padding, together with dust mites, odours and stains. A vacuum cleaner only reaches the surface, and home remedies often just spread a stain or leave a ring behind.",
+      "With spray extraction, we spray a cleaning solution into the fibres and extract it again, together with the loosened dirt, in the same pass. Beforehand we test the material for colourfastness in a hidden spot and pre-treat stains. Only a little moisture stays behind, so carpets and upholstery are usually dry again within a few hours.",
+      "Whether it is the sofa in your flat in Freiburg, the carpet in an office in Lahr or the mattresses in your holiday flat in Hinterzarten, we bring our own equipment and products to you. For holiday flats, we schedule the cleaning between two guests so that there is enough time to dry before the next arrival."
+    ],
+    "scopeTitle": "What we do",
+    "scope": [
+      { "t": "Fitted carpets", "d": "Deep cleaning of fitted carpets in homes, offices and stairwells by spray extraction, in sections if you wish." },
+      { "t": "Loose rugs", "d": "We clean runners and rugs on site and check first whether valuable hand-knotted pieces are suitable." },
+      { "t": "Sofas and armchairs", "d": "Seats, backs, cushions and armrests in fabric or microfibre cleaned thoroughly, including corner sofas and sofa beds." },
+      { "t": "Office chairs and seating", "d": "Office chairs, visitor chairs and benches cleaned in batches, in the evening or at weekends when the office is empty." },
+      { "t": "Mattresses and upholstered beds", "d": "Both sides of the mattress cleaned, with house dust, mites and their residues extracted along with the dirty water." },
+      { "t": "Stain pre-treatment", "d": "Coffee, red wine, grease or ink are pre-treated with suitable products before the main cleaning starts." },
+      { "t": "Odour reduction", "d": "Odours from pets, smoke or cooking are treated with odour-neutralising products and noticeably reduced." },
+      { "t": "Fabric test first", "d": "Before every clean we check the care label, the fibre and colourfastness in a hidden spot." }
+    ],
+    "forTitle": "Who we clean carpets and upholstery for",
+    "for": [
+      "Private households",
+      "Holiday flat owners",
+      "Offices and administration",
+      "Hotels and guesthouses",
+      "Medical practices and waiting rooms",
+      "Property managers between tenancies"
+    ],
+    "steps": [
+      { "t": "Enquiry", "d": "Send us photos via WhatsApp, or we look at your carpets and upholstery on site free of charge." },
+      { "t": "Fabric test", "d": "We check the fabric, care label and colourfastness and tell you honestly what is realistic for the stains." },
+      { "t": "Cleaning", "d": "We pre-treat stains and then clean area by area using spray extraction." },
+      { "t": "Drying", "d": "You receive tips on airing the room, and we tell you when the sofa, bed or carpet can be used again." }
+    ],
+    "priceTitle": "How much does carpet or upholstery cleaning cost?",
+    "priceIntro": "The price depends on quantity, material and how dirty things are. After a site visit or photos, you receive a written fixed-price quote.",
+    "priceFactors": [
+      { "t": "Quantity and size", "d": "The number of seats, mattresses and chairs or the square metres of carpet determine the time needed." },
+      { "t": "Material and fibre", "d": "Delicate fabrics such as velvet or natural fibres need more care than hard-wearing microfibre." },
+      { "t": "Stains and odours", "d": "Many or old stains and strong odours require extra pre-treatment and more passes." },
+      { "t": "Access and timing", "d": "Moving furniture, upper floors without a lift and evening or weekend appointments are reflected in the quote." }
+    ],
+    "priceNote": "For holiday flats and hotels with several units, we are happy to prepare a framework quote.",
+    "areaText": "We clean carpets and upholstery throughout the Black Forest, including Freiburg, Lahr, Emmendingen, Titisee-Neustadt, Hinterzarten, Freudenstadt and Baden-Baden.",
+    "faq": [
+      { "q": "Will every stain come out?", "a": "Not always. Fresh stains can usually be removed well, but old stains from red wine, ink or rust may have bonded permanently with the fibre. After the fabric test we tell you honestly what is realistic." },
+      { "q": "How long does drying take?", "a": "Usually a few hours, depending on the material, room temperature and ventilation. Mattresses and thick upholstery take longer, so we prefer to clean them in the morning." },
+      { "q": "Is the cleaning suitable for every fabric?", "a": "Most fabric and microfibre covers handle spray extraction well. With leather, silk, viscose or delicate natural fibres we check first whether wet cleaning is possible, and tell you plainly if it is not." },
+      { "q": "Does cleaning help against dust mites?", "a": "Spray extraction removes house dust, mites and their residues from mattresses and upholstery together with the dirty water. For a lasting effect, regular cleaning is advisable." },
+      { "q": "Do I need to be at home during the cleaning?", "a": "Only at the start and the end, so we can agree the process and look at the result together. For holiday flats, handing over the key is often enough." },
+      { "q": "Do you need power and water on site?", "a": "Yes, a power socket and access to water. We bring our own machines and cleaning products." }
+    ]
+  },
+  "tr": {
+    "name": "Halı ve döşeme",
+    "h1": "Kara Orman'da halı ve döşeme temizliği",
+    "metaTitle": "Kara Orman'da halı ve döşeme temizliği | EFK",
+    "metaDesc": "Kara Orman'da halı ve döşeme temizliği: kanepe, koltuk, yatak ve halıfleks yerinde püskürtme ve emme yöntemiyle temizlenir. Ücretsiz yerinde keşif.",
+    "lead": "Halıfleks, kanepe, koltuk ve yataklarınızı püskürtme ve emme yöntemiyle (Sprühextraktion) doğrudan yerinde temizleriz: liflerin derinine kadar ve malzemeye zarar vermeden.",
+    "usps": [
+      "Yerinde püskürtme ve emme yöntemi",
+      "Temizlik öncesi kumaş testi",
+      "Leke ve koku için ön işlem",
+      "Ücretsiz yerinde keşif"
+    ],
+    "introTitle": "Halı ve döşemeler neden derin temizlik ister",
+    "intro": [
+      "Halılar ve döşemeli mobilyalar her gün toz, deri döküntüsü ve kir toplar. Zamanla bu kalıntılar ev tozu akarları, kötü kokular ve lekelerle birlikte liflerin ve dolgunun derinine yerleşir. Elektrikli süpürge yalnızca yüzeye ulaşır, ev usulü yöntemler ise lekeleri çoğu zaman sadece yayar ya da arkasında halka şeklinde iz bırakır.",
+      "Püskürtme ve emme yönteminde temizlik solüsyonunu liflere püskürtür ve aynı işlemde çözülen kirle birlikte geri emeriz. Öncesinde malzemeyi görünmeyen bir yerde renk dayanıklılığı açısından test eder, lekelere ön işlem uygularız. Geride yalnızca az miktarda nem kalır, bu yüzden halı ve döşemeler genellikle birkaç saat içinde kurur.",
+      "Freiburg'daki dairenizde duran kanepe, Lahr'da bir ofisteki halıfleks ya da Hinterzarten'deki tatil dairenizin yatakları fark etmez: Kendi cihazlarımız ve ürünlerimizle size geliriz. Tatil dairelerinde temizliği iki misafir arasına öyle planlarız ki bir sonraki misafir gelene kadar her şeyin kuruması için yeterli zaman kalır."
+    ],
+    "scopeTitle": "Hizmet kapsamımız",
+    "scope": [
+      { "t": "Halıfleks zeminler", "d": "Evlerde, ofislerde ve merdiven boşluklarında halıfleksi püskürtme ve emme yöntemiyle, isterseniz bölüm bölüm derinlemesine temizleriz." },
+      { "t": "Yolluk ve halılar", "d": "Yolluk ve halıları yerinde temizleriz, değerli el dokuması halılarda önce uygun olup olmadığını kontrol ederiz." },
+      { "t": "Kanepe ve koltuklar", "d": "Kumaş veya mikrofiber oturma yerlerini, sırtlıkları, minderleri ve kolçakları iyice temizleriz; köşe kanepe ve çekyatlar dahil." },
+      { "t": "Ofis ve bekleme sandalyeleri", "d": "Ofis sandalyelerini, misafir sandalyelerini ve bankları toplu olarak, ofis boşken akşam ya da hafta sonu temizleriz." },
+      { "t": "Yatak ve döşemeli karyolalar", "d": "Yatağın iki yüzünü temizler, ev tozunu, akarları ve kalıntılarını kirli suyla birlikte emeriz." },
+      { "t": "Lekelere ön işlem", "d": "Kahve, kırmızı şarap, yağ veya mürekkep lekelerine asıl temizlikten önce uygun ürünlerle ön işlem uygularız." },
+      { "t": "Kokuları azaltma", "d": "Evcil hayvan, sigara veya yemek kokularını koku bağlayıcı ürünlerle işler ve belirgin şekilde azaltırız." },
+      { "t": "Önce kumaş testi", "d": "Her temizlikten önce bakım etiketini, lif türünü ve renk dayanıklılığını görünmeyen bir yerde kontrol ederiz." }
+    ],
+    "forTitle": "Kimler için halı ve döşeme temizliği yapıyoruz",
+    "for": [
+      "Ev sahipleri ve kiracılar",
+      "Tatil dairesi sahipleri",
+      "Ofisler ve idari binalar",
+      "Oteller ve pansiyonlar",
+      "Muayenehaneler ve bekleme salonları",
+      "Kiracı değişiminde site yönetimleri"
+    ],
+    "steps": [
+      { "t": "Talep", "d": "WhatsApp'tan fotoğraf gönderin ya da halı ve döşemelerinize ücretsiz olarak yerinde bakalım." },
+      { "t": "Kumaş testi", "d": "Kumaşı, bakım etiketini ve renk dayanıklılığını kontrol eder, lekeler konusunda neyin gerçekçi olduğunu açıkça söyleriz." },
+      { "t": "Temizlik", "d": "Lekelere ön işlem uygular, ardından püskürtme ve emme yöntemiyle bölüm bölüm temizleriz." },
+      { "t": "Kuruma", "d": "Havalandırma için ipuçları verir, kanepeyi, yatağı ya da halıyı ne zaman yeniden kullanabileceğinizi söyleriz." }
+    ],
+    "priceTitle": "Halı ve döşeme temizliği ne kadar tutar?",
+    "priceIntro": "Fiyat miktara, malzemeye ve kirlilik derecesine bağlıdır. Keşif veya fotoğraflardan sonra sabit fiyatlı yazılı bir teklif alırsınız.",
+    "priceFactors": [
+      { "t": "Miktar ve büyüklük", "d": "Oturma yeri, yatak ve sandalye sayısı ya da halıfleksin metrekaresi gereken süreyi belirler." },
+      { "t": "Malzeme ve lif", "d": "Kadife veya doğal lifler gibi hassas kumaşlar, dayanıklı mikrofibere göre daha fazla özen ister." },
+      { "t": "Leke ve kokular", "d": "Çok sayıda ya da eski leke ve yoğun kokular ek ön işlem ve daha fazla geçiş gerektirir." },
+      { "t": "Erişim ve zamanlama", "d": "Mobilya taşıma, asansörsüz üst katlar ve akşam ya da hafta sonu randevuları fiyata yansır." }
+    ],
+    "priceNote": "Birden fazla birimi olan tatil daireleri ve oteller için memnuniyetle çerçeve teklif hazırlarız.",
+    "areaText": "Halı ve döşeme temizliğini Kara Orman'ın tamamında, örneğin Freiburg, Lahr, Emmendingen, Titisee-Neustadt, Hinterzarten, Freudenstadt ve Baden-Baden'de yapıyoruz.",
+    "faq": [
+      { "q": "Her leke çıkar mı?", "a": "Her zaman değil. Taze lekeler genellikle iyi çıkar, kırmızı şarap, mürekkep ya da pas gibi eski lekeler ise liflere kalıcı olarak işlemiş olabilir. Kumaş testinden sonra neyin gerçekçi olduğunu size açıkça söyleriz." },
+      { "q": "Kuruma ne kadar sürer?", "a": "Malzemeye, oda sıcaklığına ve havalandırmaya göre genellikle birkaç saat. Yataklar ve kalın döşemeler daha uzun sürer, bu yüzden onları tercihen sabah temizleriz." },
+      { "q": "Bu temizlik her kumaşa uygun mu?", "a": "Kumaş ve mikrofiber kılıfların çoğu bu yönteme iyi dayanır. Deri, ipek, viskon veya hassas doğal liflerde önce ıslak temizliğin mümkün olup olmadığını kontrol eder, değilse bunu size açıkça söyleriz." },
+      { "q": "Temizlik ev tozu akarlarına karşı işe yarar mı?", "a": "Püskürtme ve emme yöntemi ev tozunu, akarları ve kalıntılarını kirli suyla birlikte yataklardan ve döşemelerden emer. Kalıcı bir etki için düzenli temizlik tavsiye edilir." },
+      { "q": "Temizlik sırasında evde olmam gerekir mi?", "a": "Sadece başta ve sonda; böylece iş akışını konuşur ve sonucu birlikte görürüz. Tatil dairelerinde çoğu zaman anahtar teslimi yeterlidir." },
+      { "q": "Yerinde elektrik ve su gerekir mi?", "a": "Evet, bir priz ve suya erişim gerekir. Makineleri ve temizlik ürünlerini biz getiririz." }
+    ]
+  }
+}

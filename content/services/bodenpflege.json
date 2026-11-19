@@ -1,0 +1,195 @@
+{
+  "slug": "bodenpflege",
+  "group": "spezial",
+  "img": "zemin.jpg",
+  "related": ["grundreinigung", "unterhaltsreinigung", "industriereinigung"],
+  "de": {
+    "name": "Bodenreinigung und Bodenpflege",
+    "h1": "Bodenreinigung und Bodenpflege im Schwarzwald",
+    "metaTitle": "Bodenreinigung und Bodenpflege im Schwarzwald | EFK",
+    "metaDesc": "Bodenreinigung und Bodenpflege im Schwarzwald: Grundreinigung und Einpflege für Parkett, Naturstein, Fliesen, PVC und Linoleum. Kostenlose Besichtigung.",
+    "lead": "Wir reinigen und pflegen Ihre Böden maschinell und wählen Verfahren und Mittel passend zum Belag, damit er sauber, geschützt und lange schön bleibt.",
+    "usps": [
+      "Verfahren passend zum Belag",
+      "Grundreinigung und Einpflege",
+      "Eigene Maschinen und Pflegemittel",
+      "Kostenlose Besichtigung vor Ort"
+    ],
+    "introTitle": "Warum jeder Boden seine eigene Pflege braucht",
+    "intro": [
+      "Viele Böden sehen schon nach wenigen Jahren müde aus, obwohl sie regelmäßig gewischt werden. Schuld sind meist alte Pflegefilme, in denen sich Schmutz festgesetzt hat, Kalk und Fett in den Fugen oder Laufstraßen an Eingängen und in Fluren. Normales Wischen löst das nicht mehr, und falsch dosierte Wischpflege baut nur weitere Schichten auf.",
+      "Deshalb prüfen wir zuerst den Belag: Parkett versiegelt oder geölt, Marmor oder Granit, Linoleum, PVC oder ein beschichteter Hallenboden. Danach richten sich Maschine, Pad, Reiniger und Pflegemittel. Marmor verträgt keine Säure, Linoleum keine stark alkalischen Mittel und Parkett nur wenig Wasser. Wer das beachtet, verlängert die Lebensdauer eines Bodens deutlich.",
+      "Ob Parkett in einer Altbauwohnung in Freiburg, Linoleum in einer Arztpraxis in Offenburg oder ein beschichteter Hallenboden in Villingen-Schwenningen: Wir planen die Arbeiten so, dass Ihr Alltag oder Betrieb möglichst wenig gestört wird, auf Wunsch auch abends oder am Wochenende. Nach der Einpflege erhalten Sie Hinweise, wie Sie den Boden im Alltag richtig pflegen."
+    ],
+    "scopeTitle": "Unser Leistungsumfang",
+    "scope": [
+      { "t": "Grundreinigung und Einpflege", "d": "Alte Pflegefilme und festsitzenden Schmutz maschinell entfernen, danach eine neue Schutzschicht passend zum Belag auftragen." },
+      { "t": "Parkett und Holzböden", "d": "Versiegeltes Parkett reinigen und mit Pflegemittel auffrischen, geöltes Parkett reinigen und nachölen, immer nebelfeucht statt nass." },
+      { "t": "Marmor, Granit, Schiefer", "d": "Reinigung, Imprägnierung und Pflege mit Mitteln, die zum Gestein passen, säurefrei für Marmor und Kalkstein." },
+      { "t": "Fliesen und Fugen", "d": "Fliesenflächen und Fugen maschinell reinigen, Kalk, Fett und Grauschleier lösen, ohne den Fugenmörtel anzugreifen." },
+      { "t": "PVC, Linoleum und Designbeläge", "d": "Grundreinigung und Einpflege elastischer Beläge, bei werkseitig vergüteten Vinyl- und Designböden nach Vorgabe des Herstellers." },
+      { "t": "Beschichtete Böden", "d": "Epoxidharz- und PU-Beschichtungen in Hallen, Werkstätten und Garagen mit Scheuersaugmaschine und passenden Pads schonend reinigen." },
+      { "t": "Regelmäßige Pflege", "d": "Wischpflege und Zwischenreinigung im festen Rhythmus, damit sich Laufstraßen langsamer bilden und die Einpflege länger hält." },
+      { "t": "Möbel und Vorbereitung", "d": "Wir rücken Möbel nach Absprache, decken Sockelleisten und Türen ab und stellen nach dem Trocknen alles zurück." }
+    ],
+    "forTitle": "Für wen wir Böden reinigen und pflegen",
+    "for": [
+      "Privathaushalte und Eigentümer",
+      "Büros und Verwaltungen",
+      "Arztpraxen und Kanzleien",
+      "Hausverwaltungen und Eigentümergemeinschaften",
+      "Einzelhandel und Gastronomie",
+      "Hallen, Werkstätten und Gewerbebetriebe"
+    ],
+    "steps": [
+      { "t": "Besichtigung", "d": "Wir bestimmen Belag und Zustand vor Ort und testen das Verfahren bei Bedarf an einer kleinen Probefläche." },
+      { "t": "Festpreis", "d": "Sie erhalten ein schriftliches Angebot mit Festpreis, Ablauf und der Zeit, in der die Fläche nicht genutzt werden kann." },
+      { "t": "Behandlung", "d": "Unser Team reinigt maschinell, lässt den Boden trocknen und trägt danach die passende Einpflege auf." },
+      { "t": "Übergabe", "d": "Wir gehen die Fläche mit Ihnen ab und erklären, wie Sie den Boden im Alltag richtig pflegen." }
+    ],
+    "priceTitle": "Was kostet eine Bodenreinigung mit Einpflege?",
+    "priceIntro": "Der Preis hängt von Belag, Fläche und Zustand ab. Nach der Besichtigung erhalten Sie einen schriftlichen Festpreis.",
+    "priceFactors": [
+      { "t": "Fläche und Raumaufteilung", "d": "Große, freie Flächen gehen mit der Maschine schneller als viele kleine Räume mit Ecken und Kanten." },
+      { "t": "Belag und Zustand", "d": "Mehrere alte Pflegeschichten oder tiefe Verschmutzung erfordern mehr Durchgänge als ein gepflegter Boden." },
+      { "t": "Art der Pflege", "d": "Ob nur gereinigt, eingepflegt, imprägniert oder nachgeölt wird, bestimmt Material- und Zeitaufwand." },
+      { "t": "Möbel und Termin", "d": "Möbelrücken, Arbeit am Abend oder Wochenende und kurzfristige Einsätze fließen in die Kalkulation ein." }
+    ],
+    "priceNote": "Wenn Sie Bodenpflege und Unterhaltsreinigung kombinieren, erhalten Sie beides in einem Angebot.",
+    "areaText": "Wir reinigen und pflegen Böden im gesamten Schwarzwald, unter anderem in Freiburg, Offenburg, Lahr, Emmendingen, Baden-Baden, Villingen-Schwenningen und Rottweil.",
+    "faq": [
+      { "q": "Was bedeutet Grundreinigung mit Einpflege?", "a": "Bei der Grundreinigung entfernen wir alte Pflegefilme und tief sitzenden Schmutz bis auf den Belag. Bei der Einpflege tragen wir danach eine neue Schutzschicht auf, die den Boden vor Abnutzung schützt und die tägliche Reinigung erleichtert." },
+      { "q": "Wie oft sollte ein Boden grundgereinigt werden?", "a": "Das hängt von Belag und Nutzung ab. Stark begangene Flächen in Praxen oder Geschäften brauchen sie häufiger als ein Wohnzimmer. Mit regelmäßiger Zwischenreinigung lässt sich der Abstand deutlich verlängern." },
+      { "q": "Wird der Boden nach der Einpflege rutschig?", "a": "Nicht, wenn Pflegemittel und Verfahren zum Belag passen. Wir wählen Produkte, die die geforderte Rutschhemmung erhalten, gerade in Praxen, Eingängen und Treppenhäusern." },
+      { "q": "Wann ist der Boden wieder begehbar?", "a": "Nach der Reinigung meist sofort, nach der Einpflege erst, wenn die Schutzschicht getrocknet ist. Die genaue Zeit hängt vom Produkt ab, wir nennen sie Ihnen vorher, damit Sie planen können." },
+      { "q": "Entfernt eine Grundreinigung auch Kratzer?", "a": "Feine Laufspuren sind nach Grundreinigung und Einpflege oft deutlich weniger sichtbar. Tiefe Kratzer im Holz oder im Belag bleiben jedoch, hier helfen nur Schleifen oder eine Reparatur." },
+      { "q": "Können Sie außerhalb der Öffnungszeiten arbeiten?", "a": "Ja. In Praxen, Büros und Geschäften arbeiten wir abends, früh morgens oder am Wochenende. Große Flächen teilen wir in Abschnitte, damit ein Teil immer begehbar bleibt." }
+    ]
+  },
+  "en": {
+    "name": "Floor care",
+    "h1": "Floor cleaning and care in the Black Forest",
+    "metaTitle": "Floor cleaning and care in the Black Forest | EFK",
+    "metaDesc": "Floor cleaning and care in the Black Forest: deep cleaning and protective coating for parquet, natural stone, tiles, PVC and linoleum. Free on-site visit.",
+    "lead": "We clean and care for your floors by machine and choose the method and products to suit each material, so the floor stays clean, protected and looking good for longer.",
+    "usps": [
+      "Method matched to the material",
+      "Deep clean and protective coat",
+      "Our own machines and products",
+      "Free on-site visit"
+    ],
+    "introTitle": "Why every floor needs its own care",
+    "intro": [
+      "Many floors look tired after only a few years, even though they are mopped regularly. The cause is usually old layers of polish with dirt trapped in them, limescale and grease in the grout, or worn traffic lanes in entrances and corridors. Ordinary mopping no longer shifts this, and overdosed maintenance products only add further layers.",
+      "That is why we identify the floor first: sealed or oiled parquet, marble or granite, linoleum, PVC or a coated hall floor. This decides the machine, pad, cleaner and care product. Marble cannot take acid, linoleum cannot take strong alkaline cleaners and parquet needs as little water as possible. Getting this right makes a floor last considerably longer.",
+      "Whether it is parquet in a period flat in Freiburg, linoleum in a medical practice in Offenburg or a coated hall floor in Villingen-Schwenningen, we plan the work to disrupt your day or your business as little as possible, in the evening or at weekends if you prefer. After the protective coat, you receive advice on looking after the floor day to day."
+    ],
+    "scopeTitle": "What we do",
+    "scope": [
+      { "t": "Deep clean and recoat", "d": "Removing old polish layers and ingrained dirt by machine, then applying a new protective coat suited to the floor." },
+      { "t": "Parquet and wood floors", "d": "Cleaning sealed parquet and refreshing it with a care product, cleaning and re-oiling oiled parquet, always damp, never wet." },
+      { "t": "Marble, granite, slate", "d": "Cleaning, protective sealing and care with products that suit the stone, acid-free for marble and limestone." },
+      { "t": "Tiles and grout", "d": "Machine cleaning of tiled areas and grout lines to remove limescale, grease and haze without attacking the grout." },
+      { "t": "PVC, linoleum and vinyl", "d": "Deep cleaning and protective coating of resilient floors, following the manufacturer's instructions for factory-finished vinyl and luxury vinyl tiles." },
+      { "t": "Coated and resin floors", "d": "Gentle cleaning of epoxy and polyurethane coatings in halls, workshops and garages with scrubber-driers and suitable pads." },
+      { "t": "Regular maintenance", "d": "Damp mopping and interim cleaning at fixed intervals, so traffic lanes form more slowly and the protective coat lasts longer." },
+      { "t": "Furniture and preparation", "d": "We move furniture by arrangement, protect skirting boards and doors and put everything back once the floor is dry." }
+    ],
+    "forTitle": "Who our floor care is for",
+    "for": [
+      "Private households and owners",
+      "Offices and administration",
+      "Medical practices and law firms",
+      "Property managers and owners' associations",
+      "Shops, cafés and restaurants",
+      "Halls, workshops and businesses"
+    ],
+    "steps": [
+      { "t": "Site visit", "d": "We identify the floor and its condition on site and, if needed, test the method on a small area." },
+      { "t": "Fixed price", "d": "You receive a written fixed-price quote with the schedule and how long the area will be out of use." },
+      { "t": "Treatment", "d": "Our team cleans by machine, lets the floor dry and then applies the right protective coat." },
+      { "t": "Handover", "d": "We inspect the floor with you and explain how to look after it day to day." }
+    ],
+    "priceTitle": "How much does a deep clean with protective coat cost?",
+    "priceIntro": "The price depends on the material, the area and the condition of the floor. After the site visit you receive a written fixed-price quote.",
+    "priceFactors": [
+      { "t": "Area and layout", "d": "Large open areas are quick to do by machine, while many small rooms with corners take longer." },
+      { "t": "Material and condition", "d": "Several old layers of polish or heavy soiling need more passes than a well-kept floor." },
+      { "t": "Type of treatment", "d": "Whether the floor is cleaned, recoated, sealed or re-oiled determines the materials and time needed." },
+      { "t": "Furniture and timing", "d": "Moving furniture, evening or weekend work and short-notice jobs are reflected in the quote." }
+    ],
+    "priceNote": "If you combine floor care with our maintenance cleaning, you receive one quote for both.",
+    "areaText": "We clean and care for floors throughout the Black Forest, including Freiburg, Offenburg, Lahr, Emmendingen, Baden-Baden, Villingen-Schwenningen and Rottweil.",
+    "faq": [
+      { "q": "What is a deep clean with protective coat (Grundreinigung and Einpflege)?", "a": "In the deep clean we remove old polish layers and ingrained dirt right down to the floor surface. We then apply a new protective coat that guards against wear and makes everyday cleaning easier." },
+      { "q": "How often does a floor need a deep clean?", "a": "That depends on the material and how much use it gets. Busy areas in practices or shops need it more often than a living room. Regular interim cleaning stretches the interval considerably." },
+      { "q": "Will the floor be slippery after the treatment?", "a": "Not if the product and method suit the floor. We choose products that keep the required slip resistance, especially in practices, entrances and stairwells." },
+      { "q": "When can we walk on the floor again?", "a": "Usually straight after cleaning, and after the protective coat once it has dried. The exact time depends on the product, and we tell you beforehand so you can plan." },
+      { "q": "Does a deep clean remove scratches?", "a": "Fine scuff marks are often much less visible after a deep clean and protective coat. Deep scratches in the wood or the floor covering remain, and only sanding or repair will help there." },
+      { "q": "Can you work outside opening hours?", "a": "Yes. In practices, offices and shops we work in the evening, early in the morning or at weekends. Large areas are done in sections so that part of the floor always stays usable." }
+    ]
+  },
+  "tr": {
+    "name": "Zemin bakımı",
+    "h1": "Kara Orman'da zemin temizliği ve bakımı",
+    "metaTitle": "Kara Orman'da zemin temizliği ve bakımı | EFK",
+    "metaDesc": "Kara Orman'da zemin temizliği ve bakımı: parke, doğal taş, fayans, PVC ve linolyum için derin temizlik ve koruyucu katman. Ücretsiz yerinde keşif.",
+    "lead": "Zeminlerinizi makineyle temizler ve bakımını yaparız. Yöntemi ve ürünü her zemin türüne göre seçeriz; böylece zemin temiz, korunaklı ve uzun süre güzel kalır.",
+    "usps": [
+      "Zemine uygun yöntem ve ürün",
+      "Derin temizlik ve koruyucu katman",
+      "Kendi makinelerimiz ve ürünlerimiz",
+      "Ücretsiz yerinde keşif"
+    ],
+    "introTitle": "Her zemin neden kendine özgü bakım ister",
+    "intro": [
+      "Birçok zemin düzenli silinmesine rağmen birkaç yıl içinde yorgun görünmeye başlar. Bunun nedeni genellikle kiri içine hapseden eski bakım katmanları, derzlerde biriken kireç ve yağ ya da giriş ve koridorlarda oluşan yürüme izleridir. Normal silme bunları artık çözmez, fazla dozda kullanılan bakım ürünleri ise üstüne yeni katmanlar ekler.",
+      "Bu yüzden önce zemini tanırız: vernikli mi yağlı mı parke, mermer mi granit mi, linolyum, PVC ya da kaplamalı bir hol zemini mi. Makine, ped, temizlik maddesi ve bakım ürünü buna göre belirlenir. Mermer asite, linolyum güçlü alkali temizleyicilere dayanmaz, parke ise mümkün olduğunca az su ister. Bunlara dikkat etmek zeminin ömrünü belirgin şekilde uzatır.",
+      "Freiburg'da eski bir binadaki parke, Offenburg'da bir muayenehanedeki linolyum ya da Villingen-Schwenningen'de kaplamalı bir hol zemini: İşleri günlük yaşamınızı veya işletmenizi olabildiğince az etkileyecek şekilde planlarız, isterseniz akşam ya da hafta sonu. Koruyucu katmanın ardından zemini günlük hayatta nasıl doğru temizleyeceğinize dair bilgi alırsınız."
+    ],
+    "scopeTitle": "Hizmet kapsamımız",
+    "scope": [
+      { "t": "Derin temizlik, koruyucu katman", "d": "Eski bakım katmanlarını ve yapışmış kiri makineyle sökeriz, ardından zemine uygun yeni bir koruyucu katman uygularız." },
+      { "t": "Parke ve ahşap zeminler", "d": "Vernikli parkeyi temizleyip bakım ürünüyle tazeleriz, yağlı parkeyi temizleyip yeniden yağlarız; her zaman ıslak değil, hafif nemli bezle." },
+      { "t": "Mermer, granit, kayrak taşı", "d": "Taşa uygun ürünlerle temizlik, leke koruması ve bakım yaparız; mermer ve kireçtaşında yalnızca asitsiz ürünler kullanırız." },
+      { "t": "Fayans ve derzler", "d": "Fayans yüzeyleri ve derzleri makineyle temizler, kireç, yağ ve grimsi tabakayı derz harcına zarar vermeden çözeriz." },
+      { "t": "PVC, linolyum ve vinil", "d": "Elastik zeminlerde derin temizlik ve koruyucu bakım yaparız; fabrikada kaplanmış vinil ve dekoratif zeminlerde üretici talimatlarına uyarız." },
+      { "t": "Kaplamalı ve epoksi zeminler", "d": "Hol, atölye ve garajlardaki epoksi ve poliüretan kaplamaları zemin yıkama makinesi ve uygun pedlerle nazikçe temizleriz." },
+      { "t": "Düzenli bakım", "d": "Belirli aralıklarla nemli silme ve ara temizlik yaparız; böylece yürüme izleri daha geç oluşur, koruyucu katman daha uzun dayanır." },
+      { "t": "Mobilya ve hazırlık", "d": "Anlaşmaya göre mobilyaları kenara çeker, süpürgelik ve kapıları korur, zemin kuruyunca her şeyi yerine koyarız." }
+    ],
+    "forTitle": "Kimler için zemin bakımı yapıyoruz",
+    "for": [
+      "Evler ve mülk sahipleri",
+      "Ofisler ve idari binalar",
+      "Muayenehaneler ve hukuk büroları",
+      "Site yönetimleri ve kat malikleri",
+      "Mağazalar, kafeler ve restoranlar",
+      "Depolar, atölyeler ve işletmeler"
+    ],
+    "steps": [
+      { "t": "Keşif", "d": "Zemin türünü ve durumunu yerinde belirler, gerekirse yöntemi küçük bir deneme alanında test ederiz." },
+      { "t": "Sabit fiyat", "d": "İş akışını ve alanın ne kadar süre kullanılamayacağını gösteren, sabit fiyatlı yazılı bir teklif alırsınız." },
+      { "t": "Uygulama", "d": "Ekibimiz makineyle temizler, zeminin kurumasını bekler ve ardından uygun koruyucu katmanı uygular." },
+      { "t": "Teslim", "d": "Zemini sizinle birlikte kontrol eder, günlük bakımı nasıl yapacağınızı anlatırız." }
+    ],
+    "priceTitle": "Zemin temizliği ve bakımı ne kadar tutar?",
+    "priceIntro": "Fiyat zemin türüne, alana ve zeminin durumuna bağlıdır. Keşiften sonra sabit fiyatlı yazılı bir teklif alırsınız.",
+    "priceFactors": [
+      { "t": "Alan ve oda düzeni", "d": "Geniş ve boş alanlar makineyle hızlı biter, köşeli çok sayıda küçük oda ise daha fazla zaman alır." },
+      { "t": "Zemin türü ve durumu", "d": "Birkaç eski bakım katmanı veya yoğun kir, bakımlı bir zemine göre daha fazla geçiş gerektirir." },
+      { "t": "Bakım türü", "d": "Zeminin yalnızca temizlenmesi ya da koruyucu katman, leke koruması veya yağlama yapılması malzeme ve süreyi belirler." },
+      { "t": "Mobilya ve zamanlama", "d": "Mobilya taşıma, akşam ya da hafta sonu çalışma ve kısa süreli işler fiyata yansır." }
+    ],
+    "priceNote": "Zemin bakımını düzenli temizlikle birlikte alırsanız ikisi için tek bir teklif hazırlarız.",
+    "areaText": "Zemin temizliği ve bakımını Kara Orman'ın tamamında, örneğin Freiburg, Offenburg, Lahr, Emmendingen, Baden-Baden, Villingen-Schwenningen ve Rottweil'de yapıyoruz.",
+    "faq": [
+      { "q": "Derin temizlik ve koruyucu katman (Grundreinigung ve Einpflege) ne demek?", "a": "Derin temizlikte eski bakım katmanlarını ve derine işlemiş kiri zeminin kendisine kadar sökeriz. Ardından zemini aşınmaya karşı koruyan ve günlük temizliği kolaylaştıran yeni bir koruyucu katman uygularız." },
+      { "q": "Zemin ne sıklıkla derin temizlik ister?", "a": "Bu, zemin türüne ve kullanım yoğunluğuna bağlıdır. Muayenehane ya da mağaza gibi yoğun alanlar bir oturma odasından daha sık ister. Düzenli ara temizlikle bu süre belirgin şekilde uzar." },
+      { "q": "Bakımdan sonra zemin kaygan olur mu?", "a": "Ürün ve yöntem zemine uygunsa olmaz. Özellikle muayenehanelerde, girişlerde ve merdivenlerde gereken kaymazlık seviyesini koruyan ürünler seçeriz." },
+      { "q": "Zemin ne zaman yeniden kullanılabilir?", "a": "Temizlikten sonra çoğu zaman hemen, koruyucu katmandan sonra ise katman kuruyunca. Kesin süre ürüne göre değişir; planlama yapabilmeniz için bunu size önceden söyleriz." },
+      { "q": "Derin temizlik çizikleri de giderir mi?", "a": "İnce yürüme izleri derin temizlik ve koruyucu katmandan sonra çoğu zaman çok daha az görünür. Ahşaptaki ya da kaplamadaki derin çizikler ise kalır; bunlarda yalnızca zımparalama veya onarım işe yarar." },
+      { "q": "Mesai saatleri dışında çalışabilir misiniz?", "a": "Evet. Muayenehane, ofis ve mağazalarda akşam, sabah erken ya da hafta sonu çalışırız. Büyük alanları bölümlere ayırırız, böylece zeminin bir kısmı her zaman kullanılabilir kalır." }
+    ]
+  }
+}

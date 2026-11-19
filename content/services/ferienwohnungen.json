@@ -1,0 +1,397 @@
+{
+  "slug": "ferienwohnungen",
+  "group": "branchen",
+  "img": "ferienwohnung.jpg",
+  "related": [
+    "polsterreinigung",
+    "grundreinigung",
+    "glasreinigung"
+  ],
+  "de": {
+    "name": "Ferienwohnungen und Gastgewerbe",
+    "h1": "Reinigung für Ferienwohnungen und Gastgewerbe im Schwarzwald",
+    "metaTitle": "Reinigung für Ferienwohnungen im Schwarzwald | EFK",
+    "metaDesc": "Wechselreinigung für Ferienwohnungen, Pensionen und kleine Hotels im Schwarzwald: zwischen Check-out und Check-in, mit Fotobericht nach jedem Gästewechsel.",
+    "lead": "Zwischen Check-out und Check-in machen wir Ferienwohnungen, Pensionen und kleine Hotels wieder gästefertig, auch am Wochenende und in der Hauptsaison.",
+    "usps": [
+      "Wechselreinigung zwischen Check-out und Check-in",
+      "Kurzer Fotobericht nach jedem Wechsel",
+      "Einsätze auch am Wochenende",
+      "Fester Ansprechpartner für Gastgeber"
+    ],
+    "introTitle": "Warum Gastgeber ihre Wechselreinigung abgeben",
+    "intro": [
+      "Bei Ferienwohnungen gehört Sauberkeit zu den Punkten, die Gäste in Bewertungen besonders oft ansprechen. Ein Haar im Bad, Krümel in der Besteckschublade oder ein fehlendes Handtuch reichen schon für eine kritische Bemerkung. Gleichzeitig ist das Zeitfenster zwischen Abreise und Anreise oft nur wenige Stunden lang, und samstags wechseln in der Region viele Gäste gleichzeitig.",
+      "Wir übernehmen die komplette Wechselreinigung: Küche, Bad, Böden und Oberflächen, die Betten mit Ihrer Bettwäsche frisch beziehen, Handtücher auslegen, Inventar und Verbrauchsmaterial prüfen. Nach jedem Wechsel erhalten Sie einen kurzen Bericht mit Fotos, damit Sie auch aus der Ferne wissen, dass alles bereit ist. Schäden oder fehlende Gegenstände melden wir sofort.",
+      "Ob Ferienwohnung in Hinterzarten, Pension in Titisee-Neustadt oder kleines Hotel am Feldberg: Wir richten uns nach Ihrem Belegungsplan und arbeiten auch an Wochenenden und in der Hauptsaison. Zwischen den Saisons übernehmen wir auf Wunsch eine Grundreinigung, damit Polster, Fenster und Böden auch langfristig gepflegt bleiben."
+    ],
+    "scopeTitle": "Unser Leistungsumfang",
+    "scope": [
+      {
+        "t": "Küche und Geschirr",
+        "d": "Küche, Spüle, Kochfeld und Kühlschrank reinigen, Geschirr kontrollieren und sauber in die Schränke räumen."
+      },
+      {
+        "t": "Bad und WC",
+        "d": "Dusche, Waschbecken, WC, Spiegel und Fliesen hygienisch reinigen, Haare und Kalkflecken gründlich entfernen."
+      },
+      {
+        "t": "Betten und Handtücher",
+        "d": "Betten mit der Bettwäsche des Gastgebers frisch beziehen und Handtücher ordentlich für die nächsten Gäste auslegen."
+      },
+      {
+        "t": "Böden und Oberflächen",
+        "d": "Saugen und Wischen aller Böden, Staubwischen der Oberflächen sowie Leeren und Trennen des Mülls."
+      },
+      {
+        "t": "Inventar und Verbrauchsmaterial",
+        "d": "Kontrolle des Inventars sowie Auffüllen von Toilettenpapier, Seife, Spülmittel und Kaffee aus Ihrem Vorrat."
+      },
+      {
+        "t": "Fotobericht nach Wechsel",
+        "d": "Nach jedem Einsatz senden wir Ihnen per WhatsApp oder E-Mail Fotos der fertigen Räume und melden Schäden oder Fehlbestände."
+      },
+      {
+        "t": "Schlüssel und Zugang",
+        "d": "Wir arbeiten mit Schlüsseltresor, Codeschloss oder hinterlegtem Schlüssel und behandeln Codes und Schlüssel vertraulich."
+      },
+      {
+        "t": "Grundreinigung zwischen Saisons",
+        "d": "In ruhigen Wochen reinigen wir Fenster, Schränke innen, Polster und Böden gründlich für die nächste Saison."
+      }
+    ],
+    "forTitle": "Für wen wir Ferienwohnungen und Gastbetriebe reinigen",
+    "for": [
+      "Vermieter von Ferienwohnungen",
+      "Gastgeber auf Buchungsportalen",
+      "Pensionen und Gästehäuser",
+      "Kleine Hotels und Landgasthöfe",
+      "Ferienhausvermittler und Agenturen",
+      "Eigentümer, die nicht vor Ort wohnen"
+    ],
+    "steps": [
+      {
+        "t": "Besichtigung",
+        "d": "Wir sehen uns Ihre Unterkunft an und legen gemeinsam fest, was bei jedem Wechsel erledigt wird."
+      },
+      {
+        "t": "Checkliste",
+        "d": "Aus Ihren Wünschen entsteht eine feste Checkliste für jede Wohnung, dazu ein schriftliches Angebot pro Wechsel."
+      },
+      {
+        "t": "Wechselreinigung",
+        "d": "Nach Ihrem Belegungsplan reinigen wir zwischen Check-out und Check-in und richten alles für die neuen Gäste her."
+      },
+      {
+        "t": "Fotobericht",
+        "d": "Nach jedem Einsatz erhalten Sie Fotos und einen kurzen Bericht mit allen Auffälligkeiten."
+      }
+    ],
+    "priceTitle": "Was kostet die Reinigung einer Ferienwohnung?",
+    "priceIntro": "Wir berechnen in der Regel einen Festpreis pro Wechsel. Wie hoch er ist, hängt von Größe, Ausstattung und Umfang ab.",
+    "priceFactors": [
+      {
+        "t": "Größe und Betten",
+        "d": "Wohnfläche, Zahl der Schlafplätze und Bäder bestimmen den Zeitaufwand pro Wechsel am stärksten."
+      },
+      {
+        "t": "Leistungsumfang je Wechsel",
+        "d": "Ob nur gereinigt wird oder auch Inventar geprüft und Verbrauchsmaterial aufgefüllt wird, fließt in den Preis ein."
+      },
+      {
+        "t": "Zeitfenster und Termine",
+        "d": "Sehr knappe Zeitfenster, Wochenendeinsätze oder mehrere Wechsel am selben Tag erfordern mehr Personal."
+      },
+      {
+        "t": "Lage und Anfahrt",
+        "d": "Abgelegene Höfe und Höhenlagen im Winter bedeuten längere Anfahrtswege, die wir in die Kalkulation einbeziehen."
+      }
+    ],
+    "priceNote": "Für Gastgeber mit mehreren Wohnungen oder ganzjähriger Betreuung erstellen wir gern ein Rahmenangebot.",
+    "areaText": "Wir reinigen Ferienwohnungen und Gastbetriebe im gesamten Schwarzwald, unter anderem in Hinterzarten, Titisee-Neustadt, Feldberg, Triberg, Freudenstadt, Baden-Baden und Waldkirch.",
+    "faq": [
+      {
+        "q": "Waschen Sie auch Bettwäsche und Handtücher?",
+        "a": "Nein, einen Wäscheservice bieten wir nicht an. Wir beziehen die Betten mit Ihrer sauberen Wäsche und legen die benutzte Wäsche gesammelt für Sie oder Ihre Wäscherei bereit."
+      },
+      {
+        "q": "Wie viel Zeit brauchen Sie für einen Wechsel?",
+        "a": "Das hängt von Größe und Zustand ab. Eine typische Ferienwohnung schaffen wir in wenigen Stunden, sodass auch ein Check-in am Nachmittag nach einem Check-out am Vormittag möglich ist."
+      },
+      {
+        "q": "Arbeiten Sie auch am Wochenende und in der Hauptsaison?",
+        "a": "Ja. Gerade samstags und in den Ferien finden viele Wechsel statt. Wir planen unsere Teams nach Ihrem Belegungsplan, auch früh morgens und abends."
+      },
+      {
+        "q": "Wie funktioniert die Schlüsselübergabe?",
+        "a": "Wir arbeiten mit Schlüsseltresor, Codeschloss oder einem hinterlegten Schlüssel. Codes und Schlüssel behandeln wir vertraulich und nutzen sie nur für die vereinbarten Einsätze. Unser Betrieb ist zudem haftpflichtversichert."
+      },
+      {
+        "q": "Woher weiß ich, dass die Wohnung bereit ist?",
+        "a": "Nach jedem Wechsel erhalten Sie per WhatsApp oder E-Mail Fotos der fertigen Räume und einen kurzen Bericht. Schäden, fehlende Gegenstände oder leere Vorräte melden wir sofort."
+      },
+      {
+        "q": "Übernehmen Sie auch eine Grundreinigung zwischen den Saisons?",
+        "a": "Ja. In ruhigen Wochen reinigen wir Fenster, Schränke, Polster und Teppiche gründlich, damit die Unterkunft für die nächste Saison gepflegt ist."
+      }
+    ]
+  },
+  "en": {
+    "name": "Holiday accommodation",
+    "h1": "Holiday let and guesthouse cleaning in the Black Forest",
+    "metaTitle": "Holiday let cleaning in the Black Forest | EFK",
+    "metaDesc": "Turnover cleaning for holiday lets, guesthouses and small hotels in the Black Forest, between check-out and check-in, with photos after every changeover.",
+    "lead": "Between check-out and check-in we get holiday flats, guesthouses and small hotels ready for the next guests, including at weekends and in peak season.",
+    "usps": [
+      "Turnovers between check-out and check-in",
+      "Photo report after every changeover",
+      "Available at weekends too",
+      "One fixed contact for hosts"
+    ],
+    "introTitle": "Why hosts hand over their turnover cleaning",
+    "intro": [
+      "With holiday lets, cleanliness is something guests mention very often in reviews. A hair in the shower, crumbs in the cutlery drawer or a missing towel is enough for a critical comment. At the same time, the gap between departure and arrival is often only a few hours, and on Saturdays many guests in the region change over at once.",
+      "We take care of the whole turnover: kitchen, bathroom, floors and surfaces, making the beds with your linen, laying out towels and checking inventory and supplies. After every changeover you receive a short report with photos, so you know everything is ready even from a distance. We report damage or missing items straight away.",
+      "Whether it is a holiday flat in Hinterzarten, a guesthouse in Titisee-Neustadt or a small hotel on the Feldberg, we work to your booking calendar, including weekends and peak season. Between seasons we can also carry out a deep clean, so upholstery, windows and floors stay in good condition for the long term."
+    ],
+    "scopeTitle": "What we cover",
+    "scope": [
+      {
+        "t": "Kitchen and crockery",
+        "d": "Cleaning the kitchen, sink, hob and fridge, checking the crockery and putting it away clean."
+      },
+      {
+        "t": "Bathroom and toilet",
+        "d": "Hygienic cleaning of shower, washbasin, toilet, mirror and tiles, removing hair and limescale marks thoroughly."
+      },
+      {
+        "t": "Beds and towels",
+        "d": "Making the beds with the host's fresh linen and laying out towels neatly for the next guests."
+      },
+      {
+        "t": "Floors and surfaces",
+        "d": "Vacuuming and mopping all floors, dusting surfaces and emptying and sorting the rubbish for recycling."
+      },
+      {
+        "t": "Inventory and supplies",
+        "d": "Checking the inventory and topping up toilet paper, soap, washing-up liquid and coffee from your stock."
+      },
+      {
+        "t": "Photo report",
+        "d": "After every visit we send you photos of the finished rooms by WhatsApp or email and report damage or shortages."
+      },
+      {
+        "t": "Keys and access",
+        "d": "We work with key safes, code locks or a key held by us and treat codes and keys confidentially."
+      },
+      {
+        "t": "Off-season deep clean",
+        "d": "In quieter weeks we thoroughly clean windows, insides of cupboards, upholstery and floors for the next season."
+      }
+    ],
+    "forTitle": "Who we clean for",
+    "for": [
+      "Holiday let owners",
+      "Hosts on booking platforms",
+      "Guesthouses and bed and breakfasts",
+      "Small hotels and country inns",
+      "Holiday letting agencies",
+      "Owners who do not live locally"
+    ],
+    "steps": [
+      {
+        "t": "Site visit",
+        "d": "We look at your accommodation and agree with you what has to be done at every changeover."
+      },
+      {
+        "t": "Checklist",
+        "d": "Your wishes become a fixed checklist for each property, together with a written quote per changeover."
+      },
+      {
+        "t": "Turnover",
+        "d": "Following your booking calendar, we clean between check-out and check-in and prepare everything for the new guests."
+      },
+      {
+        "t": "Photo report",
+        "d": "After every visit you receive photos and a short report listing anything unusual."
+      }
+    ],
+    "priceTitle": "How much does holiday let cleaning cost?",
+    "priceIntro": "We usually charge a fixed price per changeover. The amount depends on size, furnishings and scope.",
+    "priceFactors": [
+      {
+        "t": "Size and beds",
+        "d": "Floor area, number of beds and number of bathrooms have the biggest effect on time per changeover."
+      },
+      {
+        "t": "Scope per changeover",
+        "d": "Whether we only clean or also check inventory and top up supplies is reflected in the price."
+      },
+      {
+        "t": "Time windows and dates",
+        "d": "Very tight time windows, weekend visits or several changeovers on the same day need more staff."
+      },
+      {
+        "t": "Location and travel",
+        "d": "Remote farmhouses and high-altitude locations in winter mean longer journeys, which we include in the calculation."
+      }
+    ],
+    "priceNote": "For hosts with several properties or year-round care we are happy to prepare a framework offer.",
+    "areaText": "We clean holiday accommodation across the Black Forest, including Hinterzarten, Titisee-Neustadt, Feldberg, Triberg, Freudenstadt, Baden-Baden and Waldkirch.",
+    "faq": [
+      {
+        "q": "Do you also wash the bed linen and towels?",
+        "a": "No, we do not offer a laundry service. We make the beds with your clean linen and gather the used linen ready for you or your laundry."
+      },
+      {
+        "q": "How long does a changeover take?",
+        "a": "That depends on size and condition. A typical holiday flat takes us a few hours, so a check-in in the afternoon after a check-out in the morning is possible."
+      },
+      {
+        "q": "Do you work at weekends and in peak season?",
+        "a": "Yes. Many changeovers take place on Saturdays and during the school holidays. We plan our teams around your booking calendar, including early mornings and evenings."
+      },
+      {
+        "q": "How does key handover work?",
+        "a": "We work with key safes, code locks or a key held by us. We treat codes and keys confidentially and use them only for agreed visits. We also carry business liability insurance."
+      },
+      {
+        "q": "How do I know the flat is ready?",
+        "a": "After every changeover you receive photos of the finished rooms and a short report by WhatsApp or email. We report damage, missing items or empty supplies straight away."
+      },
+      {
+        "q": "Do you also deep clean between seasons?",
+        "a": "Yes. In quieter weeks we thoroughly clean windows, cupboards, upholstery and carpets, so the accommodation is well kept for the next season."
+      }
+    ]
+  },
+  "tr": {
+    "name": "Turizm ve konaklama",
+    "h1": "Kara Orman'da tatil evleri ve konaklama işletmeleri için temizlik",
+    "metaTitle": "Kara Orman'da Tatil Evi Temizliği | EFK",
+    "metaDesc": "Kara Orman'da tatil evleri, pansiyonlar ve küçük oteller için check-out ile check-in arasında değişim temizliği, her değişimden sonra fotoğraflı rapor.",
+    "lead": "Check-out ile check-in arasında tatil evlerini, pansiyonları ve küçük otelleri yeni misafirler için hazırlıyoruz; hafta sonları ve yoğun sezonda da.",
+    "usps": [
+      "Check-out ile check-in arası temizlik",
+      "Her değişimden sonra fotoğraflı rapor",
+      "Hafta sonları da hizmet",
+      "Ev sahipleri için sabit muhatap"
+    ],
+    "introTitle": "Ev sahipleri değişim temizliğini neden bize bırakıyor",
+    "intro": [
+      "Tatil evlerinde temizlik, misafirlerin yorumlarında çok sık değindiği konulardandır. Duşta bir saç teli, çatal bıçak çekmecesinde kırıntılar ya da eksik bir havlu, olumsuz bir yorum için yeterlidir. Üstelik çıkış ile giriş arasındaki süre çoğu zaman sadece birkaç saattir ve cumartesi günleri bölgede birçok evde misafirler aynı anda değişir.",
+      "Değişim temizliğinin (Wechselreinigung) tamamını üstleniyoruz: mutfak, banyo, zeminler ve yüzeyler, yatakların sizin nevresimlerinizle yeniden yapılması, havluların yerleştirilmesi, demirbaş ve sarf malzemelerinin kontrolü. Her değişimden sonra fotoğraflı kısa bir rapor alırsınız; böylece uzaktan da her şeyin hazır olduğunu bilirsiniz. Hasarları veya eksik eşyaları hemen bildiririz.",
+      "Hinterzarten'de bir tatil dairesi, Titisee-Neustadt'ta bir pansiyon ya da Feldberg'de küçük bir otel olsun, rezervasyon takviminize göre çalışırız; hafta sonları ve yoğun sezonda da yanınızdayız. Sezonlar arasında isteğe bağlı olarak detaylı bir temizlik de yaparız; böylece döşemeler, pencereler ve zeminler uzun vadede bakımlı kalır."
+    ],
+    "scopeTitle": "Hizmet kapsamımız",
+    "scope": [
+      {
+        "t": "Mutfak ve tabak çanak",
+        "d": "Mutfağın, evyenin, ocağın ve buzdolabının temizlenmesi, tabak çanağın kontrol edilip temiz olarak dolaplara yerleştirilmesi."
+      },
+      {
+        "t": "Banyo ve tuvalet",
+        "d": "Duş, lavabo, klozet, ayna ve fayansların hijyenik olarak temizlenmesi, saç ve kireç lekelerinin iyice giderilmesi."
+      },
+      {
+        "t": "Yatak ve havlular",
+        "d": "Yatakların ev sahibinin temiz nevresimleriyle yeniden yapılması ve havluların yeni misafirler için düzgünce yerleştirilmesi."
+      },
+      {
+        "t": "Zeminler ve yüzeyler",
+        "d": "Tüm zeminlerin süpürülüp silinmesi, yüzeylerin tozunun alınması, çöplerin boşaltılıp geri dönüşüm için ayrıştırılması."
+      },
+      {
+        "t": "Demirbaş ve sarf malzemesi",
+        "d": "Demirbaşların kontrolü ile tuvalet kâğıdı, sabun, bulaşık deterjanı ve kahvenin sizin stoğunuzdan tamamlanması."
+      },
+      {
+        "t": "Fotoğraflı rapor",
+        "d": "Her ziyaretten sonra hazır odaların fotoğraflarını WhatsApp veya e-posta ile gönderir, hasar ve eksikleri bildiririz."
+      },
+      {
+        "t": "Anahtar ve giriş",
+        "d": "Anahtar kasası, şifreli kilit veya bize bırakılan anahtarla çalışır, şifreleri gizli tutar, anahtarları özenle saklarız."
+      },
+      {
+        "t": "Sezon arası temizlik",
+        "d": "Sakin haftalarda pencereleri, dolap içlerini, döşemeleri ve zeminleri yeni sezon için detaylı olarak temizleriz."
+      }
+    ],
+    "forTitle": "Kimler için çalışıyoruz",
+    "for": [
+      "Tatil evi sahipleri",
+      "Rezervasyon platformlarındaki ev sahipleri",
+      "Pansiyonlar ve konukevleri",
+      "Küçük oteller ve Gasthof'lar",
+      "Tatil evi kiralama ajansları",
+      "Bölgede yaşamayan mülk sahipleri"
+    ],
+    "steps": [
+      {
+        "t": "Keşif",
+        "d": "Konaklama yerinizi inceler ve her değişimde neler yapılacağını sizinle birlikte belirleriz."
+      },
+      {
+        "t": "Kontrol listesi",
+        "d": "İsteklerinizden her ev için sabit bir kontrol listesi ve değişim başına yazılı bir teklif hazırlarız."
+      },
+      {
+        "t": "Değişim temizliği",
+        "d": "Rezervasyon takviminize göre check-out ile check-in arasında temizler ve her şeyi yeni misafirler için hazırlarız."
+      },
+      {
+        "t": "Fotoğraflı rapor",
+        "d": "Her ziyaretten sonra fotoğraflar ve dikkat çeken her şeyi içeren kısa bir rapor alırsınız."
+      }
+    ],
+    "priceTitle": "Tatil evi temizliği ne kadar tutar?",
+    "priceIntro": "Genellikle değişim başına sabit bir fiyat uygularız. Fiyat, büyüklüğe, donanıma ve kapsama göre belirlenir.",
+    "priceFactors": [
+      {
+        "t": "Büyüklük ve yatak sayısı",
+        "d": "Alan, yatak sayısı ve banyo sayısı, değişim başına süreyi en çok etkileyen unsurlardır."
+      },
+      {
+        "t": "Değişim başına kapsam",
+        "d": "Sadece temizlik mi yapılacağı, yoksa demirbaş kontrolü ve sarf malzemesi tamamlamanın da isteneceği fiyata yansır."
+      },
+      {
+        "t": "Zaman aralığı ve tarihler",
+        "d": "Çok dar zaman aralıkları, hafta sonu ziyaretleri veya aynı gün birden fazla değişim daha fazla personel gerektirir."
+      },
+      {
+        "t": "Konum ve yol",
+        "d": "Uzak çiftlik evleri ve kışın yüksek rakımlı yerler daha uzun yol demektir ve hesaba katılır."
+      }
+    ],
+    "priceNote": "Birden fazla evi olan veya yıl boyu hizmet isteyen ev sahipleri için çerçeve teklif hazırlıyoruz.",
+    "areaText": "Kara Orman'ın tamamında, başta Hinterzarten, Titisee-Neustadt, Feldberg, Triberg, Freudenstadt, Baden-Baden ve Waldkirch olmak üzere tatil evlerini ve konaklama işletmelerini temizliyoruz.",
+    "faq": [
+      {
+        "q": "Nevresim ve havluları da yıkıyor musunuz?",
+        "a": "Hayır, çamaşır yıkama hizmeti sunmuyoruz. Yatakları sizin temiz nevresimlerinizle yapıyor, kullanılmış çamaşırları sizin veya çamaşırhanenizin alması için toplu halde hazırlıyoruz."
+      },
+      {
+        "q": "Bir değişim ne kadar sürer?",
+        "a": "Bu, büyüklüğe ve duruma bağlıdır. Tipik bir tatil dairesini birkaç saatte hazırlarız; böylece sabah check-out sonrası öğleden sonra check-in mümkündür."
+      },
+      {
+        "q": "Hafta sonları ve yoğun sezonda da çalışıyor musunuz?",
+        "a": "Evet. Birçok değişim cumartesi günleri ve okul tatillerinde olur. Ekiplerimizi sabah erken ve akşam saatleri dahil rezervasyon takviminize göre planlarız."
+      },
+      {
+        "q": "Anahtar teslimi nasıl işliyor?",
+        "a": "Anahtar kasası, şifreli kilit veya bize bırakılan bir anahtarla çalışırız. Şifreleri ve anahtarları gizli tutar, yalnızca kararlaştırılan ziyaretler için kullanırız. Ayrıca işletme sorumluluk sigortamız (Betriebshaftpflicht) vardır."
+      },
+      {
+        "q": "Dairenin hazır olduğunu nereden bileceğim?",
+        "a": "Her değişimden sonra WhatsApp veya e-posta ile hazır odaların fotoğraflarını ve kısa bir rapor alırsınız. Hasarları, eksik eşyaları veya biten malzemeleri hemen bildiririz."
+      },
+      {
+        "q": "Sezonlar arasında detaylı temizlik de yapıyor musunuz?",
+        "a": "Evet. Sakin haftalarda pencereleri, dolapları, döşemeleri ve halıları detaylı olarak temizleriz; böylece konaklama yeriniz yeni sezona bakımlı girer."
+      }
+    ]
+  }
+}

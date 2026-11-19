@@ -1,0 +1,195 @@
+{
+  "slug": "industriereinigung",
+  "group": "branchen",
+  "img": "endustriyel.jpg",
+  "related": ["bodenpflege", "unterhaltsreinigung", "winterdienst"],
+  "de": {
+    "name": "Industrie- und Hallenreinigung",
+    "h1": "Industrie- und Hallenreinigung im Schwarzwald",
+    "metaTitle": "Industrie- und Hallenreinigung im Schwarzwald | EFK",
+    "metaDesc": "Industrie- und Hallenreinigung im Schwarzwald: Produktions- und Lagerhallen, Maschinen und Sozialräume, auch in Schichtpausen und Betriebsferien.",
+    "lead": "Wir reinigen Produktionshallen, Lager, Werkstätten und Maschinen mit Industrietechnik und richten uns dabei nach Ihren Schichtzeiten und Sicherheitsregeln.",
+    "usps": [
+      "Einsatz in Pausen und Stillständen",
+      "Scheuersaugmaschinen und Hochdrucktechnik",
+      "Nach Ihren Sicherheitsregeln",
+      "Kostenlose Besichtigung vor Ort"
+    ],
+    "introTitle": "Warum saubere Hallen mehr sind als Optik",
+    "intro": [
+      "In Produktion und Lager sammeln sich Späne, Öl, Staub und Reifenabrieb schneller, als es im laufenden Betrieb auffällt. Verschmutzte Böden werden rutschig, Staub setzt sich auf Maschinen und Regalen ab, und Schmutz aus der Halle wandert in Pausenräume und Sanitärbereiche. Regelmäßige Reinigung senkt das Unfallrisiko, schont Anlagen und hinterlässt bei Kunden und Auditoren einen guten Eindruck.",
+      "Wir arbeiten mit Scheuersaugmaschinen, Kehrmaschinen, Industriesaugern und Hochdruckreinigern. Vor dem ersten Einsatz nehmen unsere Mitarbeiter an Ihrer Sicherheitsunterweisung teil, tragen die vorgeschriebene Schutzausrüstung und reinigen Maschinen nur nach Abschaltung und Freigabe durch Ihr Personal. Die Sicherheitsdatenblätter unserer Reinigungsmittel stellen wir Ihnen auf Wunsch zur Verfügung.",
+      "Ob Maschinenbaubetrieb in Villingen-Schwenningen, Logistikhalle in Offenburg oder Werkstatt in Rottweil: Wir reinigen in Schichtpausen, am Wochenende oder während Betriebsferien und Revision, wenn die Anlagen stillstehen. So stören wir Ihre Produktion so wenig wie möglich, und Sie haben einen festen Ansprechpartner, der Ihre Halle und Ihre Abläufe kennt."
+    ],
+    "scopeTitle": "Unser Leistungsumfang",
+    "scope": [
+      { "t": "Hallenböden maschinell reinigen", "d": "Kehren und Nassreinigen von Produktions- und Lagerflächen mit Scheuersaugmaschinen, auch bei Öl- und Fettverschmutzung." },
+      { "t": "Maschinen und Anlagen", "d": "Außenflächen, Verkleidungen und Umfeld von Maschinen nach Abschaltung und Freigabe durch Ihr Personal reinigen." },
+      { "t": "Reinigung mit Hochdruck", "d": "Hartnäckige Verschmutzung an Rampen, Behältern, Gitterboxen und Außenflächen mit Hochdruck lösen, wo Wasser erlaubt ist." },
+      { "t": "Regale und Lagertechnik", "d": "Staub von Regalen, Fördertechnik und Lagerflächen entfernen, abgestimmt auf Ihre Ein- und Auslagerung." },
+      { "t": "Werkstätten und Nebenflächen", "d": "Werkstätten, Technikräume, Ladezonen und Treppen so reinigen, dass Wege frei und Böden trittsicher bleiben." },
+      { "t": "Sozialräume und Kantinen", "d": "Pausenräume, Umkleiden und Kantinen täglich oder im vereinbarten Rhythmus gründlich und hygienisch reinigen." },
+      { "t": "Sanitär und Duschen", "d": "Toiletten, Waschräume und Duschen reinigen und Verbrauchsmaterial wie Seife und Papier nach Absprache auffüllen." },
+      { "t": "Stillstand und Revision", "d": "Grundreinigung von Hallen und Anlagen während Betriebsferien oder Revision, wenn die Produktion ruht." }
+    ],
+    "forTitle": "Für wen wir Industrie- und Hallenreinigung übernehmen",
+    "for": [
+      "Maschinenbau und Metallverarbeitung",
+      "Produktionsbetriebe im Schichtbetrieb",
+      "Logistik- und Lagerbetriebe",
+      "Kfz- und Handwerkswerkstätten",
+      "Holz- und Kunststoffverarbeitung",
+      "Gewerbeparks und Hallenvermieter"
+    ],
+    "steps": [
+      { "t": "Begehung", "d": "Wir sehen uns Halle, Anlagen und Abläufe mit Ihnen an und klären Sicherheitsregeln und Zeitfenster." },
+      { "t": "Leistungsverzeichnis", "d": "Sie erhalten ein schriftliches Leistungsverzeichnis mit Flächen, Turnus und Festpreis oder Stundensatz." },
+      { "t": "Unterweisung", "d": "Unsere Mitarbeiter erhalten vor dem ersten Einsatz Ihre Sicherheitsunterweisung, danach reinigen wir nach festem Plan." },
+      { "t": "Abnahme", "d": "Nach jedem größeren Einsatz gehen wir die Flächen mit Ihnen ab und dokumentieren das Ergebnis." }
+    ],
+    "priceTitle": "Was kostet eine Industrie- oder Hallenreinigung?",
+    "priceIntro": "Der Preis hängt von Flächen, Verschmutzung und Einsatzzeiten ab. Nach der Begehung erhalten Sie ein schriftliches Angebot mit Festpreis oder Stundensatz.",
+    "priceFactors": [
+      { "t": "Fläche und Zugänglichkeit", "d": "Freie Hallenflächen reinigt die Maschine schnell, enge Gänge und verstellte Bereiche brauchen mehr Handarbeit." },
+      { "t": "Art der Verschmutzung", "d": "Öl, Späne oder Feinstaub verlangen andere Technik und Mittel als normaler Lagerstaub." },
+      { "t": "Turnus und Umfang", "d": "Eine regelmäßige Reinigung kalkulieren wir anders als einen einmaligen Großeinsatz während der Revision." },
+      { "t": "Zeitfenster und Termine", "d": "Arbeit am Wochenende, in kurzen Schichtpausen oder zu festen Stillstandszeiten fließt in die Kalkulation ein." }
+    ],
+    "priceNote": "Für Betriebe mit mehreren Standorten erstellen wir gern ein Rahmenangebot.",
+    "areaText": "Wir übernehmen Industrie- und Hallenreinigungen im gesamten Schwarzwald, unter anderem in Offenburg, Lahr, Villingen-Schwenningen, Rottweil, Schramberg, Donaueschingen und Pforzheim.",
+    "faq": [
+      { "q": "Können Sie während des laufenden Betriebs reinigen?", "a": "Ja, in vielen Bereichen. Flächen nahe an laufenden Maschinen reinigen wir in Schichtpausen, am Wochenende oder nach Absprache abschnittsweise, damit niemand gefährdet wird." },
+      { "q": "Reinigen Sie auch Maschinen?", "a": "Wir reinigen Außenflächen, Verkleidungen und das Umfeld von Maschinen. Gearbeitet wird nur nach Abschaltung und Freigabe durch Ihr Personal, Eingriffe in die Technik übernehmen wir nicht." },
+      { "q": "Wie läuft die Sicherheitsunterweisung ab?", "a": "Vor dem ersten Einsatz weisen Sie oder Ihre Fachkraft für Arbeitssicherheit unser Team in Gefahren, Wege und Regeln Ihres Betriebs ein. Wir halten uns an Ihre Vorgaben zu Schutzausrüstung, Zutritt und Fahrwegen." },
+      { "q": "Arbeiten Sie auch während Betriebsferien oder Revision?", "a": "Ja. Gerade dann lassen sich Hallen und Anlagen gründlich reinigen, weil die Produktion ruht. Sprechen Sie uns früh an, damit wir die Termine fest einplanen können." },
+      { "q": "Welche Maschinen setzen Sie ein?", "a": "Je nach Fläche Scheuersaugmaschinen, Kehrmaschinen, Industriesauger und Hochdruckreiniger. Geräte und Reinigungsmittel bringen wir selbst mit, Sicherheitsdatenblätter erhalten Sie auf Wunsch." },
+      { "q": "Übernehmen Sie auch Sozialräume und Sanitärbereiche?", "a": "Ja. Pausenräume, Kantinen, Umkleiden und Sanitäranlagen reinigen wir auf Wunsch im selben Vertrag, mit einem festen Ansprechpartner für alle Bereiche." }
+    ]
+  },
+  "en": {
+    "name": "Industrial cleaning",
+    "h1": "Industrial and warehouse cleaning in the Black Forest",
+    "metaTitle": "Industrial and warehouse cleaning in the Black Forest | EFK",
+    "metaDesc": "Industrial and warehouse cleaning in the Black Forest: production halls, machinery and staff areas, also during shift breaks and plant shutdowns.",
+    "lead": "We clean production halls, warehouses, workshops and machinery with industrial equipment, working around your shift times and safety rules.",
+    "usps": [
+      "Work during breaks and shutdowns",
+      "Scrubber-driers and pressure washers",
+      "Following your safety rules",
+      "Free on-site visit"
+    ],
+    "introTitle": "Why clean halls are about more than looks",
+    "intro": [
+      "In production and storage areas, swarf, oil, dust and tyre marks build up faster than anyone notices in day-to-day operations. Dirty floors become slippery, dust settles on machines and racking, and dirt from the hall is carried into break rooms and washrooms. Regular cleaning reduces the risk of accidents, protects equipment and leaves a good impression on customers and auditors.",
+      "We work with scrubber-driers, sweepers, industrial vacuums and pressure washers. Before the first job, our staff take part in your safety briefing (Unterweisung), wear the required protective equipment and only clean machines once your staff have shut them down and released them. On request, we provide the safety data sheets for our cleaning products.",
+      "Whether it is an engineering firm in Villingen-Schwenningen, a logistics hall in Offenburg or a workshop in Rottweil, we clean during shift breaks, at weekends or during company holidays and maintenance shutdowns when the plant is idle. That keeps disruption to your production to a minimum, and you have a fixed contact person who knows your site and processes."
+    ],
+    "scopeTitle": "What we do",
+    "scope": [
+      { "t": "Machine-cleaned hall floors", "d": "Sweeping and wet cleaning of production and storage areas with scrubber-driers, including oil and grease soiling." },
+      { "t": "Machinery and plant", "d": "Cleaning machine surfaces, guards and surrounding areas once your staff have shut down and released the equipment." },
+      { "t": "High-pressure cleaning", "d": "Removing stubborn dirt from loading ramps, containers, mesh pallets and outdoor areas wherever water may be used." },
+      { "t": "Racking and storage systems", "d": "Dusting racking, conveyors and storage areas, planned around your goods-in and goods-out times." },
+      { "t": "Workshops and ancillary areas", "d": "Cleaning workshops, plant rooms, loading zones and stairs so that walkways stay clear and floors stay safe underfoot." },
+      { "t": "Staff rooms and canteens", "d": "Break rooms, changing rooms and canteens cleaned thoroughly and hygienically, daily or at agreed intervals." },
+      { "t": "Washrooms and showers", "d": "Cleaning toilets, washrooms and showers and refilling soap, paper and other consumables by arrangement." },
+      { "t": "Shutdowns and maintenance", "d": "Deep cleaning of halls and plant during company holidays or maintenance shutdowns while production is at a standstill." }
+    ],
+    "forTitle": "Who we provide industrial cleaning for",
+    "for": [
+      "Engineering and metalworking",
+      "Manufacturers with shift work",
+      "Logistics and warehousing",
+      "Vehicle and trade workshops",
+      "Wood and plastics processing",
+      "Business parks and hall landlords"
+    ],
+    "steps": [
+      { "t": "Site survey", "d": "We walk through the hall, plant and processes with you and agree safety rules and time windows." },
+      { "t": "Specification", "d": "You receive a written specification (Leistungsverzeichnis) with areas, intervals and a fixed price or hourly rate." },
+      { "t": "Safety briefing", "d": "Our staff receive your safety briefing before the first job, and then we clean to a fixed plan." },
+      { "t": "Sign-off", "d": "After each larger job we inspect the areas with you and document the result." }
+    ],
+    "priceTitle": "How much does industrial or warehouse cleaning cost?",
+    "priceIntro": "The price depends on the areas, the type of soiling and the working times. After the site survey you receive a written quote with a fixed price or hourly rate.",
+    "priceFactors": [
+      { "t": "Area and access", "d": "Open hall floors are quick to clean by machine, while narrow aisles and cluttered areas need more manual work." },
+      { "t": "Type of soiling", "d": "Oil, swarf or fine dust require different equipment and products than ordinary warehouse dust." },
+      { "t": "Frequency and scope", "d": "Regular cleaning is priced differently from a one-off major job during a maintenance shutdown." },
+      { "t": "Time windows", "d": "Weekend work, short shift breaks or fixed shutdown dates are reflected in the quote." }
+    ],
+    "priceNote": "For companies with several sites, we are happy to prepare a framework quote.",
+    "areaText": "We provide industrial and warehouse cleaning throughout the Black Forest, including Offenburg, Lahr, Villingen-Schwenningen, Rottweil, Schramberg, Donaueschingen and Pforzheim.",
+    "faq": [
+      { "q": "Can you clean while production is running?", "a": "Yes, in many areas. Areas close to running machinery are cleaned during shift breaks, at weekends or in sections by arrangement, so nobody is put at risk." },
+      { "q": "Do you clean machines too?", "a": "We clean the outer surfaces, guards and surroundings of machines. We only start once your staff have shut them down and released them, and we do not work on the technical components." },
+      { "q": "How does the safety briefing work?", "a": "Before the first job, you or your safety officer brief our team on the hazards, routes and rules of your site. We follow your requirements for protective equipment, access and traffic routes." },
+      { "q": "Do you work during company holidays or maintenance shutdowns?", "a": "Yes. That is the best time to clean halls and plant thoroughly, because production is at a standstill. Contact us early so we can book the dates firmly." },
+      { "q": "What equipment do you use?", "a": "Depending on the area, scrubber-driers, sweepers, industrial vacuums and pressure washers. We bring our own machines and cleaning products, and you receive safety data sheets on request." },
+      { "q": "Do you also look after staff rooms and washrooms?", "a": "Yes. Break rooms, canteens, changing rooms and washrooms can be included in the same contract, with one fixed contact person for all areas." }
+    ]
+  },
+  "tr": {
+    "name": "Sanayi temizliği",
+    "h1": "Kara Orman'da sanayi ve depo temizliği",
+    "metaTitle": "Kara Orman'da sanayi ve depo temizliği | EFK",
+    "metaDesc": "Kara Orman'da sanayi ve depo temizliği: üretim holleri, makineler ve sosyal alanlar, vardiya aralarında ve bakım duruşlarında da. Ücretsiz keşif.",
+    "lead": "Üretim hollerini, depoları, atölyeleri ve makineleri endüstriyel cihazlarla temizleriz; bunu yaparken vardiya saatlerinize ve güvenlik kurallarınıza uyarız.",
+    "usps": [
+      "Molalarda ve duruşlarda çalışma",
+      "Zemin yıkama makinesi ve basınçlı yıkama",
+      "Güvenlik kurallarınıza uygun çalışma",
+      "Ücretsiz yerinde keşif"
+    ],
+    "introTitle": "Temiz bir hol neden görüntüden fazlasıdır",
+    "intro": [
+      "Üretim ve depo alanlarında talaş, yağ, toz ve lastik izleri, günlük işleyişte fark edildiğinden çok daha hızlı birikir. Kirli zeminler kayganlaşır, toz makinelerin ve rafların üzerine çöker, holden gelen kir mola odalarına ve tuvaletlere taşınır. Düzenli temizlik kaza riskini azaltır, tesisleri korur ve müşterilerde ve denetçilerde iyi bir izlenim bırakır.",
+      "Zemin yıkama makineleri, süpürme makineleri, endüstriyel elektrik süpürgeleri ve basınçlı yıkama cihazlarıyla çalışırız. İlk işten önce çalışanlarımız iş güvenliği eğitiminize (Unterweisung) katılır, gerekli koruyucu donanımı giyer ve makineleri yalnızca personeliniz durdurup onay verdikten sonra temizler. İsterseniz temizlik ürünlerimizin güvenlik bilgi formlarını size veririz.",
+      "Villingen-Schwenningen'de bir makine imalatçısı, Offenburg'da bir lojistik holü ya da Rottweil'de bir atölye: Vardiya aralarında, hafta sonları ya da tesisin durduğu toplu izin (Betriebsferien) ve bakım duruşu (Revision) dönemlerinde temizlik yaparız. Böylece üretiminizi olabildiğince az etkileriz ve tesisinizi ve işleyişinizi tanıyan sabit bir muhatabınız olur."
+    ],
+    "scopeTitle": "Hizmet kapsamımız",
+    "scope": [
+      { "t": "Makineyle hol zemini", "d": "Üretim ve depo alanlarını zemin yıkama makineleriyle süpürür ve ıslak temizleriz, yağ ve gres kirleri dahil." },
+      { "t": "Makine ve tesisler", "d": "Personeliniz durdurup onay verdikten sonra makinelerin dış yüzeylerini, muhafazalarını ve çevresini temizleriz." },
+      { "t": "Basınçlı yıkama", "d": "Yükleme rampaları, konteynerler, tel paletler ve dış alanlardaki inatçı kiri, suyun kullanılabildiği her yerde basınçla çözeriz." },
+      { "t": "Raflar ve depo sistemleri", "d": "Rafların, konveyörlerin ve depo alanlarının tozunu mal giriş ve çıkış saatlerinize göre alırız." },
+      { "t": "Atölye ve yan alanlar", "d": "Atölyeleri, teknik odaları, yükleme alanlarını ve merdivenleri, yollar açık ve zeminler güvenli kalacak şekilde temizleriz." },
+      { "t": "Sosyal alanlar ve kantinler", "d": "Mola odalarını, soyunma odalarını ve kantinleri her gün ya da anlaşılan aralıklarla titizlikle ve hijyenik şekilde temizleriz." },
+      { "t": "Tuvalet ve duşlar", "d": "Tuvaletleri, lavaboları ve duşları temizler, sabun ve kâğıt gibi sarf malzemelerini anlaşmaya göre tamamlarız." },
+      { "t": "Duruş ve bakım dönemleri", "d": "Toplu izin veya bakım duruşu sırasında, üretim dururken hollerin ve tesislerin derin temizliğini yaparız." }
+    ],
+    "forTitle": "Kimler için sanayi temizliği yapıyoruz",
+    "for": [
+      "Makine imalatı ve metal işleme",
+      "Vardiyalı çalışan üretim tesisleri",
+      "Lojistik ve depo işletmeleri",
+      "Oto ve zanaat atölyeleri",
+      "Ahşap ve plastik işleme",
+      "Sanayi siteleri ve hol kiraya verenler"
+    ],
+    "steps": [
+      { "t": "Keşif", "d": "Holü, tesisleri ve işleyişi sizinle birlikte gezer, güvenlik kurallarını ve zaman aralıklarını netleştiririz." },
+      { "t": "Hizmet listesi", "d": "Alanları, sıklığı ve sabit fiyatı ya da saat ücretini içeren yazılı bir hizmet listesi (Leistungsverzeichnis) alırsınız." },
+      { "t": "Güvenlik eğitimi", "d": "Çalışanlarımız ilk işten önce iş güvenliği eğitiminizi alır, ardından belirli bir plana göre temizlik yaparız." },
+      { "t": "Kontrol", "d": "Her büyük işten sonra alanları sizinle birlikte kontrol eder ve sonucu belgeleriz." }
+    ],
+    "priceTitle": "Sanayi ve depo temizliği ne kadar tutar?",
+    "priceIntro": "Fiyat alanlara, kirliliğin türüne ve çalışma saatlerine bağlıdır. Keşiften sonra sabit fiyatlı ya da saat ücretli yazılı bir teklif alırsınız.",
+    "priceFactors": [
+      { "t": "Alan ve erişim", "d": "Boş hol zeminleri makineyle hızlı temizlenir, dar koridorlar ve dolu alanlar ise daha fazla el işçiliği ister." },
+      { "t": "Kirliliğin türü", "d": "Yağ, talaş veya ince toz, normal depo tozuna göre farklı cihaz ve ürünler gerektirir." },
+      { "t": "Sıklık ve kapsam", "d": "Düzenli temizlik, bakım duruşundaki tek seferlik büyük bir işten farklı fiyatlandırılır." },
+      { "t": "Zaman aralıkları", "d": "Hafta sonu çalışması, kısa vardiya araları ya da sabit duruş tarihleri fiyata yansır." }
+    ],
+    "priceNote": "Birden fazla lokasyonu olan işletmeler için memnuniyetle çerçeve teklif hazırlarız.",
+    "areaText": "Sanayi ve depo temizliğini Kara Orman'ın tamamında, örneğin Offenburg, Lahr, Villingen-Schwenningen, Rottweil, Schramberg, Pforzheim ve Donaueschingen'de yapıyoruz.",
+    "faq": [
+      { "q": "Üretim devam ederken temizlik yapabilir misiniz?", "a": "Evet, birçok alanda. Çalışan makinelere yakın alanları kimseyi tehlikeye atmamak için vardiya aralarında, hafta sonları ya da anlaşmaya göre bölüm bölüm temizleriz." },
+      { "q": "Makineleri de temizliyor musunuz?", "a": "Makinelerin dış yüzeylerini, muhafazalarını ve çevresini temizleriz. Yalnızca personeliniz makineyi durdurup onay verdikten sonra çalışırız, teknik parçalara müdahale etmeyiz." },
+      { "q": "İş güvenliği eğitimi nasıl işliyor?", "a": "İlk işten önce siz ya da iş güvenliği uzmanınız ekibimizi işletmenizdeki tehlikeler, yollar ve kurallar hakkında bilgilendirirsiniz. Koruyucu donanım, giriş ve araç yolları konusundaki kurallarınıza uyarız." },
+      { "q": "Toplu izin veya bakım duruşu sırasında da çalışıyor musunuz?", "a": "Evet. Üretim durduğu için holleri ve tesisleri iyice temizlemenin en uygun zamanı budur. Tarihleri kesin olarak planlayabilmemiz için bize erken haber verin." },
+      { "q": "Hangi cihazları kullanıyorsunuz?", "a": "Alana göre zemin yıkama makineleri, süpürme makineleri, endüstriyel elektrik süpürgeleri ve basınçlı yıkama cihazları. Makineleri ve temizlik ürünlerini kendimiz getiririz, güvenlik bilgi formlarını isterseniz size veririz." },
+      { "q": "Sosyal alanları ve tuvaletleri de üstleniyor musunuz?", "a": "Evet. Mola odaları, kantinler, soyunma odaları ve tuvaletler aynı sözleşmeye dahil edilebilir; tüm alanlar için tek ve sabit bir muhatabınız olur." }
+    ]
+  }
+}

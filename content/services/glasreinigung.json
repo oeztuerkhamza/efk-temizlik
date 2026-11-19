@@ -1,0 +1,397 @@
+{
+  "slug": "glasreinigung",
+  "group": "laufend",
+  "img": "cam.jpg",
+  "related": [
+    "unterhaltsreinigung",
+    "bauendreinigung",
+    "grundreinigung"
+  ],
+  "de": {
+    "name": "Glas- und Fensterreinigung",
+    "h1": "Glas- und Fensterreinigung im Schwarzwald",
+    "metaTitle": "Glas- und Fensterreinigung im Schwarzwald | EFK",
+    "metaDesc": "Fensterreinigung im Schwarzwald inklusive Rahmen, Falze und Fensterbänke. Wintergärten, Schaufenster und Glasfassaden, auch mit Osmose-Reinwasser.",
+    "lead": "Wir reinigen Fenster, Wintergärten, Schaufenster und Glasfassaden streifenfrei, inklusive Rahmen und Falze, für Privathaushalte und Unternehmen.",
+    "usps": [
+      "Rahmen, Falze und Fensterbänke inklusive",
+      "Reinwasser-Technik für hohe Flächen",
+      "Feste Intervalle für Schaufenster",
+      "Für Privat und Gewerbe"
+    ],
+    "introTitle": "Warum sich eine professionelle Glasreinigung lohnt",
+    "intro": [
+      "Saubere Fenster lassen mehr Licht in Ihre Räume und prägen bei Geschäften und Büros den ersten Eindruck. Im Schwarzwald setzen Pollen, Ruß von Kaminöfen und Streusalz von der Straße dem Glas besonders zu. Wer nur die Scheibe putzt, übersieht oft Rahmen und Falze, in denen sich der Schmutz sammelt und beim nächsten Regen wieder auf das Glas läuft.",
+      "Wir reinigen Glas mit Einwascher, Abzieher und Glasschaber, je nach Fläche auch mit Teleskopstangen und Osmose-Reinwasser. Das entmineralisierte Wasser trocknet ohne Kalkränder ab und erlaubt es, hohe Fenster, Glasdächer und Fassaden sicher vom Boden aus zu erreichen, wo das baulich möglich ist. Rahmen, Falze und Fensterbänke reinigen wir immer mit.",
+      "Ob Einfamilienhaus mit Wintergarten in Emmendingen, Ladenzeile in Baden-Baden oder Bürogebäude mit Glasfassade in Offenburg: Wir kommen einmalig, saisonal im Frühjahr und Herbst oder in festen Intervallen. Schaufenster reinigen wir auf Wunsch wöchentlich oder monatlich, damit Ihre Auslage immer klar zu sehen ist."
+    ],
+    "scopeTitle": "Unser Leistungsumfang",
+    "scope": [
+      {
+        "t": "Fenster innen und außen",
+        "d": "Streifenfreie Reinigung aller Scheiben mit Einwascher und Abzieher, auch bei Sprossenfenstern und bodentiefen Verglasungen."
+      },
+      {
+        "t": "Rahmen, Falze, Fensterbänke",
+        "d": "Feuchte Reinigung von Rahmen und Falzen sowie innen- und außenliegenden Fensterbänken, damit kein Schmutz nachläuft."
+      },
+      {
+        "t": "Wintergärten und Glasdächer",
+        "d": "Innen- und Außenreinigung von Wintergärten, Terrassenüberdachungen und Glasdächern, schonend für Dichtungen und Beschichtungen."
+      },
+      {
+        "t": "Dachfenster und Oberlichter",
+        "d": "Reinigung von Dachfenstern, Lichtkuppeln und Oberlichtern, die sich im Alltag kaum erreichen lassen."
+      },
+      {
+        "t": "Schaufenster im Intervall",
+        "d": "Regelmäßige Reinigung Ihrer Schaufenster und Glastüren im festen Rhythmus, auf Wunsch vor Ladenöffnung."
+      },
+      {
+        "t": "Glasfassaden und Trennwände",
+        "d": "Reinigung von Fassadenverglasungen, Glasbrüstungen und Glastrennwänden in Bürogebäuden, Praxen und Gewerbeobjekten."
+      },
+      {
+        "t": "Reinwasser-Technik in der Höhe",
+        "d": "Teleskopstangen mit Osmose-Reinwasser für hohe Fenster und Fassaden, wo diese Technik baulich geeignet ist."
+      },
+      {
+        "t": "Rückstände entfernen",
+        "d": "Entfernen von Farbspritzern, Etiketten, Insektenschmutz und Kalkablagerungen mit passenden Werkzeugen, ohne das Glas zu verkratzen."
+      }
+    ],
+    "forTitle": "Für wen wir Glas- und Fensterreinigung übernehmen",
+    "for": [
+      "Privathaushalte und Eigentümer",
+      "Einzelhandel und Gastronomie",
+      "Büros und Arztpraxen",
+      "Hausverwaltungen und Wohnanlagen",
+      "Hotels und Ferienwohnungen",
+      "Gewerbe- und Industriebetriebe"
+    ],
+    "steps": [
+      {
+        "t": "Besichtigung",
+        "d": "Wir sehen uns Fensterflächen, Höhen und Zugänge an und klären, welche Technik sich eignet."
+      },
+      {
+        "t": "Angebot",
+        "d": "Sie erhalten ein schriftliches Angebot mit Festpreis oder Stundensatz, einmalig oder für feste Intervalle."
+      },
+      {
+        "t": "Reinigung",
+        "d": "Wir reinigen Glas, Rahmen und Falze in fester Reihenfolge und schützen Böden und Möbel mit Abdeckungen."
+      },
+      {
+        "t": "Abnahme",
+        "d": "Wir prüfen die Scheiben gemeinsam mit Ihnen im Gegenlicht, damit keine Streifen zurückbleiben."
+      }
+    ],
+    "priceTitle": "Was kostet eine Fensterreinigung?",
+    "priceIntro": "Der Preis richtet sich nach Glasfläche, Art der Fenster und Zugänglichkeit. Nach der Besichtigung erhalten Sie einen schriftlichen Festpreis.",
+    "priceFactors": [
+      {
+        "t": "Fensterart und Anzahl",
+        "d": "Sprossenfenster, Dachfenster und große Schiebeelemente brauchen unterschiedlich viel Zeit pro Quadratmeter Glas."
+      },
+      {
+        "t": "Höhe und Zugang",
+        "d": "Hohe Fenster, Glasdächer und Fassaden erfordern Teleskop- und Reinwassertechnik oder zusätzliche Sicherung."
+      },
+      {
+        "t": "Grad der Verschmutzung",
+        "d": "Lange nicht gereinigte Scheiben, Baustaub oder Farbreste verlangen mehr Arbeitsgänge als eine Intervallreinigung."
+      },
+      {
+        "t": "Intervall und Termin",
+        "d": "Feste Intervalle senken den Aufwand pro Einsatz, während Termine früh morgens oder am Wochenende in die Kalkulation einfließen."
+      }
+    ],
+    "priceNote": "Für Schaufenster und Gewerbeobjekte erstellen wir gern ein Angebot für feste Reinigungsintervalle.",
+    "areaText": "Wir reinigen Glas und Fenster im gesamten Schwarzwald, unter anderem in Freiburg, Offenburg, Emmendingen, Baden-Baden, Waldkirch, Titisee-Neustadt und Freudenstadt.",
+    "faq": [
+      {
+        "q": "Sind Rahmen und Fensterbänke im Preis enthalten?",
+        "a": "Ja. Rahmen, Falze und Fensterbänke gehören bei uns zur normalen Fensterreinigung und werden immer mitgereinigt."
+      },
+      {
+        "q": "Was ist Reinwasser- oder Osmosetechnik?",
+        "a": "Dabei wird Leitungswasser per Umkehrosmose entmineralisiert. Das reine Wasser löst Schmutz und trocknet ohne Kalkflecken, sodass wir hohe Flächen mit Teleskopstangen vom Boden aus reinigen können."
+      },
+      {
+        "q": "Wie oft sollten Fenster gereinigt werden?",
+        "a": "Für Privathaushalte empfehlen wir zwei bis vier Reinigungen im Jahr. Schaufenster und Eingangstüren brauchen je nach Lage eine wöchentliche oder monatliche Reinigung."
+      },
+      {
+        "q": "Reinigen Sie auch bei Regen oder Kälte?",
+        "a": "Leichter Regen ist meist kein Problem. Bei Frost verschieben wir die Außenreinigung, weil das Wasser sonst auf Glas und Rahmen gefriert."
+      },
+      {
+        "q": "Müssen wir bei der Reinigung zu Hause sein?",
+        "a": "Für die Innenreinigung brauchen wir Zugang zu den Räumen. Reine Außenarbeiten wie Fassaden oder Schaufenster erledigen wir nach Absprache auch ohne Ihre Anwesenheit."
+      },
+      {
+        "q": "Kann ich die Fensterreinigung steuerlich absetzen?",
+        "a": "Ja. Privathaushalte können nach § 35a EStG 20 % der Arbeitskosten direkt von der Steuerschuld abziehen, höchstens 4.000 Euro pro Jahr. Voraussetzung sind eine Rechnung und die Zahlung per Überweisung."
+      }
+    ]
+  },
+  "en": {
+    "name": "Window cleaning",
+    "h1": "Window and glass cleaning in the Black Forest",
+    "metaTitle": "Window and glass cleaning in the Black Forest | EFK",
+    "metaDesc": "Window cleaning in the Black Forest including frames, rebates and sills. Conservatories, shop windows and glass façades, also with pure-water poles.",
+    "lead": "We clean windows, conservatories, shop windows and glass façades without streaks, including frames and rebates, for private households and businesses.",
+    "usps": [
+      "Frames, rebates and sills included",
+      "Pure-water poles for high glass",
+      "Regular intervals for shop windows",
+      "For homes and businesses"
+    ],
+    "introTitle": "Why professional window cleaning pays off",
+    "intro": [
+      "Clean windows let more light into your rooms, and for shops and offices they shape the first impression. In the Black Forest, pollen, soot from wood-burning stoves and road salt are particularly hard on glass. Anyone who only wipes the pane often misses the frames and rebates, where dirt collects and runs back onto the glass with the next rain shower.",
+      "We clean glass with a washer, squeegee and glass scraper and, depending on the surface, with telescopic poles and pure water produced by reverse osmosis. Demineralised water dries without limescale marks and lets us reach high windows, glass roofs and façades safely from the ground wherever the building allows. Frames, rebates and sills are always part of the job.",
+      "Whether it is a detached house with a conservatory in Emmendingen, a row of shops in Baden-Baden or an office building with a glass façade in Offenburg, we come for a one-off clean, seasonally in spring and autumn, or at fixed intervals. On request we clean shop windows weekly or monthly so that your display is always clearly visible."
+    ],
+    "scopeTitle": "What we cover",
+    "scope": [
+      {
+        "t": "Windows inside and out",
+        "d": "Streak-free cleaning of every pane with washer and squeegee, including windows with glazing bars and floor-to-ceiling glazing."
+      },
+      {
+        "t": "Frames, rebates, sills",
+        "d": "Damp cleaning of frames, rebates and both inside and outside sills, so that no dirt runs back down."
+      },
+      {
+        "t": "Conservatories and glass roofs",
+        "d": "Cleaning conservatories, patio canopies and glass roofs inside and out, gently on seals and coatings."
+      },
+      {
+        "t": "Roof windows and skylights",
+        "d": "Cleaning roof windows, rooflight domes and fanlights that are almost impossible to reach in everyday life."
+      },
+      {
+        "t": "Shop windows on schedule",
+        "d": "Regular cleaning of your shop windows and glass doors at a fixed rhythm, before opening time if you wish."
+      },
+      {
+        "t": "Façades and glass partitions",
+        "d": "Cleaning façade glazing, glass balustrades and glass partition walls in offices, practices and commercial buildings."
+      },
+      {
+        "t": "Pure water at height",
+        "d": "Telescopic poles with pure osmosis water for high windows and façades, where the building is suitable for this technique."
+      },
+      {
+        "t": "Removing residue",
+        "d": "Removing paint splashes, labels, insect marks and limescale with suitable tools, without scratching the glass."
+      }
+    ],
+    "forTitle": "Who we clean windows and glass for",
+    "for": [
+      "Private households and homeowners",
+      "Retail and hospitality",
+      "Offices and medical practices",
+      "Property managers and residential blocks",
+      "Hotels and holiday flats",
+      "Commercial and industrial businesses"
+    ],
+    "steps": [
+      {
+        "t": "Site visit",
+        "d": "We look at the glass areas, heights and access and decide which technique is suitable."
+      },
+      {
+        "t": "Quote",
+        "d": "You receive a written quote with a fixed price or hourly rate, for a one-off clean or regular intervals."
+      },
+      {
+        "t": "Cleaning",
+        "d": "We clean glass, frames and rebates in a fixed order and protect floors and furniture with covers."
+      },
+      {
+        "t": "Sign-off",
+        "d": "We check the panes with you against the light so that no streaks are left behind."
+      }
+    ],
+    "priceTitle": "How much does window cleaning cost?",
+    "priceIntro": "The price depends on the glass area, the type of windows and how easy they are to reach. After the site visit you receive a written fixed price.",
+    "priceFactors": [
+      {
+        "t": "Window type and number",
+        "d": "Windows with glazing bars, roof windows and large sliding doors take different amounts of time per square metre of glass."
+      },
+      {
+        "t": "Height and access",
+        "d": "High windows, glass roofs and façades need telescopic and pure-water equipment or additional safety measures."
+      },
+      {
+        "t": "Level of dirt",
+        "d": "Panes that have not been cleaned for a long time, construction dust or paint residue need more passes than an interval clean."
+      },
+      {
+        "t": "Interval and timing",
+        "d": "Fixed intervals reduce the effort per visit, while early morning or weekend appointments are factored into the calculation."
+      }
+    ],
+    "priceNote": "For shop windows and commercial premises we are happy to quote for fixed cleaning intervals.",
+    "areaText": "We clean windows and glass across the Black Forest, including Freiburg, Offenburg, Emmendingen, Baden-Baden, Waldkirch, Titisee-Neustadt and Freudenstadt.",
+    "faq": [
+      {
+        "q": "Are frames and sills included in the price?",
+        "a": "Yes. Frames, rebates and sills are part of our standard window cleaning and are always cleaned as well."
+      },
+      {
+        "q": "What is pure-water or osmosis cleaning?",
+        "a": "Tap water is demineralised by reverse osmosis. The pure water lifts dirt and dries without limescale spots, so we can clean high surfaces from the ground using telescopic poles."
+      },
+      {
+        "q": "How often should windows be cleaned?",
+        "a": "For private households we recommend two to four cleans a year. Shop windows and entrance doors usually need cleaning weekly or monthly, depending on the location."
+      },
+      {
+        "q": "Do you clean in rain or cold weather?",
+        "a": "Light rain is usually not a problem. In frosty weather we postpone outside work, because the water would otherwise freeze on the glass and frames."
+      },
+      {
+        "q": "Do we need to be at home during the cleaning?",
+        "a": "We need access to the rooms for cleaning inside. Purely external work such as façades or shop windows can be done without you being there, by arrangement."
+      },
+      {
+        "q": "Can I claim window cleaning against tax?",
+        "a": "Yes. Under § 35a EStG, the German Income Tax Act, private households can deduct 20 % of the labour costs directly from their income tax bill, up to 4,000 euros a year. You need an invoice and must pay by bank transfer."
+      }
+    ]
+  },
+  "tr": {
+    "name": "Cam temizliği",
+    "h1": "Kara Orman'da cam ve pencere temizliği",
+    "metaTitle": "Kara Orman'da cam ve pencere temizliği | EFK",
+    "metaDesc": "Kara Orman'da çerçeve, kasa oluğu ve denizlik dahil pencere temizliği. Kış bahçeleri, vitrinler ve cam cepheler, gerekirse saf su tekniğiyle.",
+    "lead": "Pencereleri, kış bahçelerini, vitrinleri ve cam cepheleri çerçeve ve kasa olukları dahil iz bırakmadan temizliyoruz; hem evler hem işletmeler için.",
+    "usps": [
+      "Çerçeve, oluk ve denizlik dahil",
+      "Yüksek camlar için saf su",
+      "Vitrinler için düzenli aralıklar",
+      "Ev ve işyerleri için"
+    ],
+    "introTitle": "Profesyonel cam temizliği neden önemli?",
+    "intro": [
+      "Temiz pencereler odalarınıza daha fazla ışık girmesini sağlar ve mağaza ile ofislerde ilk izlenimi belirler. Kara Orman'da polen, sobalardan çıkan is ve yol tuzu camları özellikle hızlı kirletir. Yalnızca camı silen kişi çoğu zaman çerçeveleri ve kasa oluklarını atlar; oysa kir orada birikir ve bir sonraki yağmurda yeniden cama akar.",
+      "Camları cam yıkama pedi, çekçek ve cam kazıyıcıyla, yüzeye göre teleskopik çubuklar ve ters ozmozla elde edilen saf suyla temizliyoruz. Minerallerden arındırılmış su kireç izi bırakmadan kurur ve binanın yapısı uygunsa yüksek pencerelere, cam çatılara ve cephelere yerden güvenle ulaşmamızı sağlar. Çerçeveler, kasa olukları ve denizlikler her zaman işin bir parçasıdır.",
+      "Emmendingen'de kış bahçeli bir müstakil ev, Baden-Baden'de cadde üzerindeki bir mağaza ya da Offenburg'da cam cepheli bir ofis binası olsun; tek seferlik, ilkbahar ve sonbaharda mevsimlik ya da sabit aralıklarla geliyoruz. Vitrinlerinizi isterseniz haftalık veya aylık temizliyoruz, böylece ürünleriniz her zaman net görünür."
+    ],
+    "scopeTitle": "Hizmet kapsamımız",
+    "scope": [
+      {
+        "t": "İç ve dış camlar",
+        "d": "Tüm camların yıkama pedi ve çekçekle iz bırakmadan temizlenmesi, bölmeli pencereler ve boy camları da dahil."
+      },
+      {
+        "t": "Çerçeve, oluk, denizlik",
+        "d": "Kirin geri akmaması için çerçevelerin, kasa oluklarının ve iç ile dış denizliklerin nemli bezle temizlenmesi."
+      },
+      {
+        "t": "Kış bahçeleri, cam çatılar",
+        "d": "Kış bahçeleri, teras sundurmaları ve cam çatıların içten ve dıştan, contalara ve kaplamalara zarar vermeden temizlenmesi."
+      },
+      {
+        "t": "Çatı ve tepe pencereleri",
+        "d": "Günlük hayatta neredeyse hiç ulaşılamayan çatı pencereleri, ışıklık kubbeleri ve kapı üstü camlarının temizlenmesi."
+      },
+      {
+        "t": "Düzenli vitrin temizliği",
+        "d": "Vitrinlerinizin ve cam kapılarınızın sabit bir düzende, isterseniz mağaza açılmadan önce temizlenmesi."
+      },
+      {
+        "t": "Cam cepheler ve bölmeler",
+        "d": "Ofis binaları, muayenehaneler ve ticari binalardaki cephe camlarının, cam korkulukların ve cam bölme duvarların temizlenmesi."
+      },
+      {
+        "t": "Yüksekte saf su tekniği",
+        "d": "Binanın yapısı uygun olduğunda yüksek pencereler ve cepheler için ters ozmoz saf suyla çalışan teleskopik çubukların kullanılması."
+      },
+      {
+        "t": "Kalıntı temizliği",
+        "d": "Boya lekeleri, etiketler, böcek izleri ve kireç lekelerinin camı çizmeden, uygun aletlerle giderilmesi."
+      }
+    ],
+    "forTitle": "Kimler için cam ve pencere temizliği yapıyoruz",
+    "for": [
+      "Özel haneler ve ev sahipleri",
+      "Mağazalar ve restoranlar",
+      "Ofisler ve muayenehaneler",
+      "Bina yönetimleri ve siteler",
+      "Oteller ve tatil daireleri",
+      "Ticari ve sanayi işletmeleri"
+    ],
+    "steps": [
+      {
+        "t": "Keşif",
+        "d": "Cam alanlarını, yükseklikleri ve erişim yollarını inceliyor, hangi tekniğin uygun olduğuna karar veriyoruz."
+      },
+      {
+        "t": "Teklif",
+        "d": "Tek seferlik ya da düzenli aralıklar için sabit fiyatlı veya saat ücretli yazılı bir teklif alırsınız."
+      },
+      {
+        "t": "Temizlik",
+        "d": "Camları, çerçeveleri ve olukları sabit bir sırayla temizliyor, zemin ve mobilyaları örtülerle koruyoruz."
+      },
+      {
+        "t": "Kontrol",
+        "d": "Hiç iz kalmaması için camları sizinle birlikte ışığa karşı kontrol ediyoruz."
+      }
+    ],
+    "priceTitle": "Cam temizliği ne kadar tutar?",
+    "priceIntro": "Fiyat; cam alanına, pencere türüne ve erişim kolaylığına göre belirlenir. Keşiften sonra size yazılı bir sabit fiyat sunarız.",
+    "priceFactors": [
+      {
+        "t": "Pencere türü ve sayısı",
+        "d": "Bölmeli pencereler, çatı pencereleri ve büyük sürgülü kapılar metrekare başına farklı süre gerektirir."
+      },
+      {
+        "t": "Yükseklik ve erişim",
+        "d": "Yüksek pencereler, cam çatılar ve cepheler teleskopik saf su ekipmanı veya ek güvenlik önlemleri gerektirir."
+      },
+      {
+        "t": "Kirlilik derecesi",
+        "d": "Uzun süredir temizlenmemiş camlar, inşaat tozu veya boya kalıntıları düzenli bir temizliğe göre daha fazla iş gerektirir."
+      },
+      {
+        "t": "Sıklık ve zamanlama",
+        "d": "Sabit aralıklar ziyaret başına iş yükünü azaltır; sabah erken veya hafta sonu randevuları ise hesaplamaya dahil edilir."
+      }
+    ],
+    "priceNote": "Vitrinler ve ticari binalar için sabit temizlik aralıklarına yönelik memnuniyetle teklif hazırlarız.",
+    "areaText": "Cam ve pencere temizliğini Kara Orman genelinde, aralarında Freiburg, Offenburg, Emmendingen, Baden-Baden, Waldkirch, Titisee-Neustadt ve Freudenstadt'ın da bulunduğu birçok yerde yapıyoruz.",
+    "faq": [
+      {
+        "q": "Çerçeveler ve denizlikler fiyata dahil mi?",
+        "a": "Evet. Çerçeveler, kasa olukları ve denizlikler standart pencere temizliğimizin bir parçasıdır ve her zaman temizlenir."
+      },
+      {
+        "q": "Saf su veya ozmoz tekniği nedir?",
+        "a": "Musluk suyu ters ozmozla minerallerinden arındırılır. Bu saf su kiri çözer ve kireç lekesi bırakmadan kurur; böylece yüksek yüzeyleri teleskopik çubuklarla yerden temizleyebiliriz."
+      },
+      {
+        "q": "Pencereler ne sıklıkla temizlenmeli?",
+        "a": "Özel haneler için yılda iki ile dört temizlik öneriyoruz. Mağaza vitrinleri ve giriş kapıları ise konuma göre genellikle haftalık veya aylık temizlik gerektirir."
+      },
+      {
+        "q": "Yağmurda veya soğukta da temizlik yapıyor musunuz?",
+        "a": "Hafif yağmur genellikle sorun değildir. Don olduğunda dış temizliği erteliyoruz, çünkü su aksi halde cam ve çerçeve üzerinde donar."
+      },
+      {
+        "q": "Temizlik sırasında evde bulunmamız gerekiyor mu?",
+        "a": "İç temizlik için odalara erişmemiz gerekir. Cephe veya vitrin gibi yalnızca dış mekândaki işleri, anlaşmaya göre siz yokken de yapabiliriz."
+      },
+      {
+        "q": "Cam temizliğini vergiden düşebilir miyim?",
+        "a": "Evet. § 35a EStG (Alman Gelir Vergisi Kanunu) uyarınca özel haneler işçilik maliyetlerinin %20'sini doğrudan gelir vergisinden düşebilir; yıllık indirim en fazla 4.000 Euro'dur. Bunun için fatura ve banka havalesiyle ödeme gerekir."
+      }
+    ]
+  }
+}

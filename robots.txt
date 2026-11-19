@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://oeztuerkhamza.github.io/efk-temizlik/sitemap.xml

@@ -1,0 +1,397 @@
+{
+  "slug": "treppenhausreinigung",
+  "group": "laufend",
+  "img": "treppenhaus.jpg",
+  "related": [
+    "winterdienst",
+    "glasreinigung",
+    "unterhaltsreinigung"
+  ],
+  "de": {
+    "name": "Treppenhausreinigung",
+    "h1": "Treppenhausreinigung im Schwarzwald",
+    "metaTitle": "Treppenhausreinigung im Schwarzwald | EFK",
+    "metaDesc": "Treppenhausreinigung für Mehrfamilienhäuser im Schwarzwald: fester Turnus, Nachweis je Einsatz für die Hausverwaltung, umlagefähig als Betriebskosten.",
+    "lead": "Wir reinigen Treppenhäuser und Gemeinschaftsflächen in Mehrfamilienhäusern im festen Turnus, damit sich Mieter, Eigentümer und Hausverwaltung nicht mehr um die Kehrwoche kümmern müssen.",
+    "usps": [
+      "Wöchentlich oder vierzehntäglich im Turnus",
+      "Nachweis nach jedem Einsatz",
+      "Ein Ansprechpartner für alle Objekte",
+      "Umlagefähig als Betriebskosten"
+    ],
+    "introTitle": "Warum sich eine professionelle Treppenhausreinigung lohnt",
+    "intro": [
+      "Das Treppenhaus ist die Visitenkarte eines Hauses. Besucher, Kaufinteressenten und neue Mieter sehen es zuerst. Wenn die Kehrwoche unter den Mietern verteilt ist, wird sie oft ungleich erledigt: Einer wischt gründlich, der Nächste vergisst seinen Termin, und am Ende gibt es Streit im Haus und Beschwerden bei der Hausverwaltung.",
+      "Mit einem festen Reinigungsplan übernehmen wir diese Aufgabe vollständig. Unser Team kommt an vereinbarten Tagen, kehrt und wischt Treppen und Podeste, reinigt Handläufe, Briefkästen, Eingangstüren und Aufzug und hält auch Kellergänge und Waschküche sauber. Nach jedem Einsatz erhält die Hausverwaltung einen Nachweis, sodass jede Reinigung belegbar ist und die Kosten nachvollziehbar abgerechnet werden können.",
+      "Ob einzelnes Mehrfamilienhaus in Freiburg, Wohnanlage in Offenburg oder mehrere Objekte einer Hausverwaltung in Lahr: Sie haben einen festen Ansprechpartner, der alle Häuser kennt. Die Kosten der Treppenhausreinigung zählen nach § 2 Nr. 9 BetrKV zu den Betriebskosten und können auf die Mieter umgelegt werden, wenn der Mietvertrag dies vorsieht."
+    ],
+    "scopeTitle": "Unser Leistungsumfang",
+    "scope": [
+      {
+        "t": "Treppen und Podeste",
+        "d": "Kehren oder Saugen und anschließend Nasswischen aller Stufen, Podeste und Flure mit einem materialgerechten Reinigungsmittel."
+      },
+      {
+        "t": "Geländer und Handläufe",
+        "d": "Feuchtes Abwischen von Geländern, Handläufen und Treppenstäben, damit die am häufigsten berührten Flächen hygienisch sauber bleiben."
+      },
+      {
+        "t": "Briefkästen und Klingelanlage",
+        "d": "Abwischen der Briefkastenanlage, des Klingeltableaus, der Lichtschalter und der Fensterbänke im gesamten Treppenhaus."
+      },
+      {
+        "t": "Eingangstür und Glas",
+        "d": "Reinigung der Hauseingangstür, ihrer Glasflächen und des Eingangsbereichs, damit der erste Eindruck stimmt."
+      },
+      {
+        "t": "Kellergänge und Waschküche",
+        "d": "Kehren und Wischen von Kellerfluren, Waschküche, Trockenraum und Fahrradkeller im vereinbarten Rhythmus."
+      },
+      {
+        "t": "Aufzug, falls vorhanden",
+        "d": "Reinigung von Kabine, Spiegel, Bedientableau und Aufzugstüren sowie Aussaugen der Türschwellen auf jeder Etage."
+      },
+      {
+        "t": "Fester Turnus",
+        "d": "Reinigung wöchentlich, vierzehntäglich oder in einem anderen Rhythmus, immer an festen Wochentagen."
+      },
+      {
+        "t": "Nachweis je Einsatz",
+        "d": "Nach jeder Reinigung zeichnen wir den Aushang im Treppenhaus ab und dokumentieren Datum und Leistungen für die Hausverwaltung."
+      }
+    ],
+    "forTitle": "Für wen wir Treppenhäuser reinigen",
+    "for": [
+      "Hausverwaltungen und WEG-Verwalter",
+      "Wohnungseigentümergemeinschaften",
+      "Private Vermieter von Mehrfamilienhäusern",
+      "Wohnungsbaugesellschaften und Genossenschaften",
+      "Eigentümer von Wohn- und Geschäftshäusern",
+      "Ärzte- und Bürohäuser"
+    ],
+    "steps": [
+      {
+        "t": "Besichtigung",
+        "d": "Wir sehen uns Treppenhaus, Keller und Nebenräume an und klären mit Ihnen den gewünschten Umfang."
+      },
+      {
+        "t": "Angebot",
+        "d": "Sie erhalten ein schriftliches Angebot mit Festpreis pro Einsatz oder pro Monat und einen festen Reinigungsplan."
+      },
+      {
+        "t": "Feste Termine",
+        "d": "Unser Team reinigt immer an den vereinbarten Tagen und kennt die Besonderheiten Ihres Hauses."
+      },
+      {
+        "t": "Nachweis",
+        "d": "Nach jedem Einsatz erhält die Hausverwaltung einen Nachweis, und Mängel wie defekte Leuchten melden wir sofort."
+      }
+    ],
+    "priceTitle": "Was kostet eine Treppenhausreinigung?",
+    "priceIntro": "Der Preis hängt vor allem von der Größe des Hauses und dem gewählten Turnus ab. Nach der Besichtigung erhalten Sie einen schriftlichen Festpreis pro Einsatz oder pro Monat.",
+    "priceFactors": [
+      {
+        "t": "Etagen und Treppenläufe",
+        "d": "Die Anzahl der Geschosse, Treppenläufe und Podeste bestimmt den Zeitaufwand pro Einsatz am stärksten."
+      },
+      {
+        "t": "Gewählter Reinigungsturnus",
+        "d": "Wöchentliche Reinigung bedeutet mehr Einsätze, dafür ist jeder einzelne Einsatz meist schneller erledigt."
+      },
+      {
+        "t": "Keller und Nebenräume",
+        "d": "Kellergänge, Waschküche, Trockenraum und Aufzug erweitern den Umfang und fließen in den Preis ein."
+      },
+      {
+        "t": "Zustand und Bodenbelag",
+        "d": "Naturstein, Linoleum und Fliesen brauchen unterschiedliche Pflege, und stark verschmutzte Böden benötigen zu Beginn eine Grundreinigung."
+      }
+    ],
+    "priceNote": "Für Hausverwaltungen mit mehreren Objekten erstellen wir gern ein Rahmenangebot mit einheitlichen Konditionen.",
+    "areaText": "Wir reinigen Treppenhäuser im gesamten Schwarzwald, unter anderem in Freiburg, Offenburg, Lahr, Emmendingen, Villingen-Schwenningen, Rottweil und Pforzheim.",
+    "faq": [
+      {
+        "q": "Kann ich die Kosten auf die Mieter umlegen?",
+        "a": "Ja. Die Gebäudereinigung gehört nach § 2 Nr. 9 BetrKV zu den umlagefähigen Betriebskosten, sofern der Mietvertrag die Umlage vorsieht. Unser Nachweis je Einsatz erleichtert die Nebenkostenabrechnung."
+      },
+      {
+        "q": "Ersetzt Ihre Reinigung die Kehrwoche?",
+        "a": "Ja. Wenn wir Treppenhaus und Gemeinschaftsflächen übernehmen, entfällt die Kehrwoche für die Mieter. Was genau dazugehört, legen wir vorher gemeinsam im Leistungsverzeichnis fest."
+      },
+      {
+        "q": "Wie oft sollte ein Treppenhaus gereinigt werden?",
+        "a": "In den meisten Mehrfamilienhäusern ist eine wöchentliche Reinigung sinnvoll. Bei wenigen Parteien oder geringer Nutzung reicht oft ein vierzehntäglicher Turnus. Keller und Waschküche können seltener gereinigt werden."
+      },
+      {
+        "q": "Wie wird jede Reinigung nachgewiesen?",
+        "a": "Nach jedem Einsatz zeichnen wir den Reinigungsplan im Treppenhaus ab und senden der Hausverwaltung auf Wunsch eine kurze Bestätigung mit Datum und erledigten Arbeiten. So bleibt jede Reinigung nachvollziehbar."
+      },
+      {
+        "q": "Können Sie mehrere Häuser einer Hausverwaltung betreuen?",
+        "a": "Ja. Sie haben einen festen Ansprechpartner für alle Objekte, wir stimmen die Termine aufeinander ab und rechnen jedes Objekt getrennt ab."
+      },
+      {
+        "q": "Übernehmen Sie auch den Winterdienst?",
+        "a": "Ja, auf Wunsch kombinieren wir die Treppenhausreinigung mit dem Winterdienst. Welche Flächen geräumt und gestreut werden müssen, regelt die Satzung Ihrer Gemeinde zur Räum- und Streupflicht."
+      }
+    ]
+  },
+  "en": {
+    "name": "Stairwell cleaning",
+    "h1": "Stairwell cleaning in the Black Forest",
+    "metaTitle": "Stairwell cleaning in the Black Forest | EFK",
+    "metaDesc": "Stairwell cleaning for apartment buildings in the Black Forest: fixed rota, proof of cleaning per visit, recoverable from tenants as operating costs.",
+    "lead": "We clean stairwells and shared areas in apartment buildings on a fixed rota, so tenants, owners and property managers no longer have to organise the Kehrwoche.",
+    "usps": [
+      "Fixed weekly or fortnightly rota",
+      "Proof of cleaning every visit",
+      "One contact for all properties",
+      "Recoverable as operating costs"
+    ],
+    "introTitle": "Why professional stairwell cleaning pays off",
+    "intro": [
+      "The stairwell is the first thing visitors, buyers and new tenants see. When cleaning is left to the Kehrwoche, the tenants' cleaning rota traditional in Baden-Württemberg, the result is often uneven: one household mops thoroughly, the next forgets its turn, and the property manager ends up dealing with complaints and disputes between neighbours.",
+      "With a fixed cleaning schedule we take this task off your hands. Our team comes on agreed days, sweeps and mops stairs and landings, wipes handrails, letterboxes, entrance doors and the lift, and keeps basement corridors and the laundry room clean. After every visit the property manager receives proof of cleaning, so each clean is traceable and can be billed correctly.",
+      "Whether it is a single apartment building in Freiburg, a residential complex in Offenburg or several properties of a management company in Lahr, you have one fixed contact who knows every building. Under § 2 Nr. 9 BetrKV, the German operating costs regulation, stairwell cleaning counts as an operating cost that landlords may pass on to tenants if the tenancy agreement provides for it."
+    ],
+    "scopeTitle": "What we cover",
+    "scope": [
+      {
+        "t": "Stairs and landings",
+        "d": "Sweeping or vacuuming, then wet mopping of all steps, landings and corridors with a cleaner suited to the floor."
+      },
+      {
+        "t": "Banisters and handrails",
+        "d": "Damp wiping of banisters, handrails and balusters, so the most frequently touched surfaces in the building stay hygienic."
+      },
+      {
+        "t": "Letterboxes and doorbells",
+        "d": "Wiping of the letterbox unit, doorbell panel, light switches and window sills throughout the stairwell."
+      },
+      {
+        "t": "Entrance door and glass",
+        "d": "Cleaning of the front door, its glass panels and the entrance area, so the first impression is right."
+      },
+      {
+        "t": "Basement and laundry room",
+        "d": "Sweeping and mopping of basement corridors, laundry room, drying room and bicycle store at the agreed interval."
+      },
+      {
+        "t": "Lift, where fitted",
+        "d": "Cleaning of the lift car, mirror, control panel and doors, plus vacuuming the door sills on every floor."
+      },
+      {
+        "t": "Fixed rota",
+        "d": "Cleaning weekly, fortnightly or at another interval, always on the same days of the week."
+      },
+      {
+        "t": "Proof per visit",
+        "d": "After each clean we sign the stairwell rota sheet and record date and tasks for the property manager."
+      }
+    ],
+    "forTitle": "Who we clean stairwells for",
+    "for": [
+      "Property management companies",
+      "Owners' associations (WEG)",
+      "Private landlords of apartment buildings",
+      "Housing companies and cooperatives",
+      "Owners of mixed residential and commercial buildings",
+      "Medical centres and office buildings"
+    ],
+    "steps": [
+      {
+        "t": "Site visit",
+        "d": "We look at the stairwell, basement and shared rooms and agree the scope with you."
+      },
+      {
+        "t": "Quote",
+        "d": "You receive a written quote with a fixed price per visit or per month and a fixed cleaning schedule."
+      },
+      {
+        "t": "Regular cleaning",
+        "d": "Our team always cleans on the agreed days and gets to know the particulars of your building."
+      },
+      {
+        "t": "Proof",
+        "d": "After every visit the property manager receives proof of cleaning, and we report defects such as broken lights straight away."
+      }
+    ],
+    "priceTitle": "How much does stairwell cleaning cost?",
+    "priceIntro": "The price depends mainly on the size of the building and the chosen interval. After the site visit you receive a written fixed price per visit or per month.",
+    "priceFactors": [
+      {
+        "t": "Floors and stairs",
+        "d": "The number of storeys, flights of stairs and landings has the biggest effect on the time per visit."
+      },
+      {
+        "t": "Chosen cleaning interval",
+        "d": "Weekly cleaning means more visits, but each individual visit is usually quicker."
+      },
+      {
+        "t": "Basement and extra rooms",
+        "d": "Basement corridors, laundry room, drying room and lift widen the scope and are reflected in the price."
+      },
+      {
+        "t": "Condition and flooring",
+        "d": "Natural stone, linoleum and tiles need different care, and heavily soiled floors need a deep clean at the start."
+      }
+    ],
+    "priceNote": "For property managers with several buildings we are happy to prepare a framework offer with uniform terms.",
+    "areaText": "We clean stairwells across the Black Forest, including Freiburg, Offenburg, Lahr, Emmendingen, Villingen-Schwenningen, Rottweil and Pforzheim.",
+    "faq": [
+      {
+        "q": "Can I pass the costs on to my tenants?",
+        "a": "Yes. Under § 2 Nr. 9 BetrKV, the German operating costs regulation, building cleaning is an operating cost that can be passed on, provided the tenancy agreement allows it. Our proof of cleaning per visit makes the annual operating cost statement easier."
+      },
+      {
+        "q": "Does your service replace the Kehrwoche?",
+        "a": "Yes. Once we take over the stairwell and shared areas, tenants no longer have to do the Kehrwoche. We agree beforehand in a written specification exactly what is included."
+      },
+      {
+        "q": "How often should a stairwell be cleaned?",
+        "a": "In most apartment buildings weekly cleaning makes sense. With few households or light use, a fortnightly rota is often enough. The basement and laundry room can be cleaned less often."
+      },
+      {
+        "q": "How is each clean documented?",
+        "a": "After every visit we sign the cleaning rota in the stairwell and, if you wish, send the property manager a short confirmation with the date and tasks completed. That way every clean can be traced."
+      },
+      {
+        "q": "Can you look after several buildings for one property manager?",
+        "a": "Yes. You have one fixed contact for all properties, we coordinate the dates and invoice each property separately."
+      },
+      {
+        "q": "Do you also provide winter services?",
+        "a": "Yes, on request we combine stairwell cleaning with snow clearing and gritting. Which areas must be cleared and gritted is set by your municipality's bylaw on the Räum- und Streupflicht, the local duty to clear snow and ice."
+      }
+    ]
+  },
+  "tr": {
+    "name": "Merdiven temizliği",
+    "h1": "Kara Orman'da merdiven temizliği",
+    "metaTitle": "Kara Orman'da Merdiven Temizliği | EFK",
+    "metaDesc": "Kara Orman'da apartmanlar için merdiven ve ortak alan temizliği: sabit plan, her ziyarette temizlik kaydı, işletme gideri olarak kiracıya yansıtılabilir.",
+    "lead": "Apartmanlardaki merdiven boşluklarını ve ortak alanları sabit bir planla temizliyoruz; böylece kiracılar, ev sahipleri ve bina yönetimi (Hausverwaltung) Kehrwoche ile uğraşmak zorunda kalmaz.",
+    "usps": [
+      "Haftalık veya iki haftada bir",
+      "Her ziyaretten sonra temizlik kaydı",
+      "Tüm binalar için tek muhatap",
+      "Yan gider olarak yansıtılabilir"
+    ],
+    "introTitle": "Profesyonel merdiven temizliğinin avantajları",
+    "intro": [
+      "Merdiven boşluğu bir binanın vitrinidir; misafirler, alıcılar ve yeni kiracılar ilk önce onu görür. Temizlik, Baden-Württemberg'de yaygın olan ve kiracıların sırayla temizlik yaptığı Kehrwoche usulüne bırakıldığında sonuç çoğu zaman düzensiz olur: biri titizlikle siler, diğeri sırasını unutur, sonunda da komşular arasında tartışma çıkar ve bina yönetimine şikâyetler gelir.",
+      "Sabit bir temizlik planıyla bu işi tamamen üstleniyoruz. Ekibimiz belirlenen günlerde gelir, merdivenleri ve sahanlıkları süpürüp paspaslar, tırabzanları, posta kutularını, giriş kapısını ve asansörü siler, bodrum koridorlarını ve çamaşırhaneyi de temiz tutar. Her ziyaretten sonra bina yönetimi bir temizlik kaydı alır; böylece her temizlik belgelenir ve masraflar doğru şekilde faturalandırılır.",
+      "Freiburg'da tek bir apartman, Offenburg'da bir site ya da Lahr'da bir yönetim şirketinin birden fazla binası olsun: tüm binaları tanıyan tek bir sabit muhatabınız olur. § 2 Nr. 9 BetrKV'ye (Alman işletme giderleri yönetmeliği) göre merdiven temizliği, ev sahibinin kiracılara yansıtabileceği işletme giderleri (Betriebskosten) arasındadır; bunun için kira sözleşmesinde ilgili bir hüküm bulunmalıdır."
+    ],
+    "scopeTitle": "Hizmet kapsamımız",
+    "scope": [
+      {
+        "t": "Merdiven ve sahanlıklar",
+        "d": "Tüm basamakların, sahanlıkların ve koridorların süpürülmesi ve ardından zemine uygun temizlik maddesiyle ıslak paspaslanması."
+      },
+      {
+        "t": "Tırabzan ve küpeşteler",
+        "d": "Tırabzanların, küpeştelerin ve korkuluk çubuklarının nemli bezle silinmesi; böylece binada en çok dokunulan yüzeyler hijyenik kalır."
+      },
+      {
+        "t": "Posta kutuları ve ziller",
+        "d": "Posta kutusu ünitesinin, zil panelinin, ışık düğmelerinin ve pencere pervazlarının tüm merdiven boşluğunda silinmesi."
+      },
+      {
+        "t": "Giriş kapısı ve camlar",
+        "d": "Bina giriş kapısının, cam yüzeylerinin ve giriş alanının temizlenmesi; böylece bina ilk bakışta bakımlı görünür."
+      },
+      {
+        "t": "Bodrum ve çamaşırhane",
+        "d": "Bodrum koridorlarının, çamaşırhanenin, kurutma odasının ve bisiklet odasının kararlaştırılan aralıklarla süpürülüp silinmesi."
+      },
+      {
+        "t": "Asansör (varsa)",
+        "d": "Asansör kabininin, aynanın, kumanda panelinin ve kapıların silinmesi, her kattaki kapı eşiklerinin de elektrik süpürgesiyle temizlenmesi."
+      },
+      {
+        "t": "Sabit temizlik planı",
+        "d": "Temizlik haftalık, iki haftada bir veya başka bir aralıkla, her zaman haftanın aynı günlerinde yapılır."
+      },
+      {
+        "t": "Her ziyarette kayıt",
+        "d": "Her temizlikten sonra merdiven boşluğundaki çizelgeyi imzalıyor, tarih ve yapılan işleri bina yönetimi için kaydediyoruz."
+      }
+    ],
+    "forTitle": "Kimler için merdiven temizliği yapıyoruz",
+    "for": [
+      "Bina yönetim şirketleri (Hausverwaltung)",
+      "Kat malikleri toplulukları (WEG)",
+      "Apartman sahibi özel kişiler",
+      "Konut şirketleri ve kooperatifler",
+      "Karma kullanımlı bina sahipleri",
+      "Muayenehane ve ofis binaları"
+    ],
+    "steps": [
+      {
+        "t": "Keşif",
+        "d": "Merdiven boşluğunu, bodrumu ve ortak odaları inceler, istediğiniz kapsamı sizinle birlikte netleştiririz."
+      },
+      {
+        "t": "Teklif",
+        "d": "Ziyaret başına veya aylık sabit fiyatlı yazılı bir teklif ve sabit bir temizlik planı alırsınız."
+      },
+      {
+        "t": "Düzenli temizlik",
+        "d": "Ekibimiz her zaman kararlaştırılan günlerde temizlik yapar ve binanızın özelliklerini tanır."
+      },
+      {
+        "t": "Kayıt",
+        "d": "Her ziyaretten sonra bina yönetimi bir temizlik kaydı alır, bozuk lamba gibi arızaları da hemen bildiririz."
+      }
+    ],
+    "priceTitle": "Merdiven temizliği ne kadar tutar?",
+    "priceIntro": "Fiyat esas olarak binanın büyüklüğüne ve seçilen temizlik sıklığına bağlıdır. Yerinde keşiften sonra ziyaret başına veya aylık yazılı sabit fiyat alırsınız.",
+    "priceFactors": [
+      {
+        "t": "Kat ve merdiven sayısı",
+        "d": "Kat, merdiven kolu ve sahanlık sayısı, ziyaret başına harcanan süreyi en çok etkileyen unsurdur."
+      },
+      {
+        "t": "Seçilen temizlik sıklığı",
+        "d": "Haftalık temizlik daha fazla ziyaret demektir, ancak her ziyaret genellikle daha kısa sürer."
+      },
+      {
+        "t": "Bodrum ve ek alanlar",
+        "d": "Bodrum koridorları, çamaşırhane, kurutma odası ve asansör kapsamı genişletir ve fiyata yansır."
+      },
+      {
+        "t": "Durum ve zemin türü",
+        "d": "Doğal taş, linolyum ve fayans farklı bakım ister, çok kirli zeminler ise başlangıçta detaylı bir temizlik gerektirir."
+      }
+    ],
+    "priceNote": "Birden fazla binası olan yönetim şirketleri için tek tip koşullarla bir çerçeve teklif hazırlıyoruz.",
+    "areaText": "Kara Orman'ın tamamında, başta Freiburg, Offenburg, Lahr, Emmendingen, Villingen-Schwenningen, Rottweil ve Pforzheim olmak üzere merdiven temizliği yapıyoruz.",
+    "faq": [
+      {
+        "q": "Masrafları kiracılara yansıtabilir miyim?",
+        "a": "Evet. § 2 Nr. 9 BetrKV'ye göre bina temizliği, kira sözleşmesinde öngörülmüşse kiracılara yansıtılabilen işletme giderlerindendir (Betriebskosten). Her ziyaret için tuttuğumuz kayıt, yıllık yan gider hesaplamasını (Nebenkostenabrechnung) kolaylaştırır."
+      },
+      {
+        "q": "Hizmetiniz Kehrwoche'nin yerini alır mı?",
+        "a": "Evet. Merdiven boşluğunu ve ortak alanları biz üstlendiğimizde kiracıların Kehrwoche yapmasına gerek kalmaz. Neyin dahil olduğunu önceden yazılı bir hizmet listesinde (Leistungsverzeichnis) birlikte belirleriz."
+      },
+      {
+        "q": "Merdiven boşluğu ne sıklıkla temizlenmeli?",
+        "a": "Çoğu apartmanda haftalık temizlik uygundur. Daire sayısı az veya kullanım hafifse iki haftada bir genellikle yeterlidir. Bodrum ve çamaşırhane daha seyrek temizlenebilir."
+      },
+      {
+        "q": "Her temizlik nasıl belgeleniyor?",
+        "a": "Her ziyaretten sonra merdiven boşluğundaki temizlik çizelgesini imzalıyor, isterseniz bina yönetimine tarih ve yapılan işleri içeren kısa bir onay gönderiyoruz. Böylece her temizlik takip edilebilir."
+      },
+      {
+        "q": "Bir yönetim şirketinin birden fazla binasıyla ilgilenebilir misiniz?",
+        "a": "Evet. Tüm binalar için tek bir sabit muhatabınız olur; randevuları birbirine göre planlıyor ve her binayı ayrı faturalandırıyoruz."
+      },
+      {
+        "q": "Kış hizmeti de veriyor musunuz?",
+        "a": "Evet, isterseniz merdiven temizliğini kar temizleme ve buzlanmaya karşı serpme hizmetiyle (Winterdienst) birleştiriyoruz. Hangi alanların temizlenmesi gerektiğini belediyenizin Räum- und Streupflicht ile ilgili yönetmeliği (Satzung) belirler."
+      }
+    ]
+  }
+}

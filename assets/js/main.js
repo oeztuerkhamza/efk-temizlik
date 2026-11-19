@@ -1,22 +1,30 @@
-/* EFK Temizlik: etkileşim ve scroll efektleri */
+/* EFK: Interaktion und Scroll-Effekte */
 (() => {
   'use strict';
 
-  /* ---- DEĞİŞTİR: müşterinin gerçek WhatsApp numarası (ülke kodlu, + ve boşluk yok) ---- */
-  const WHATSAPP_NUMBER = '90XXXXXXXXXX';
+  /* ---- Kontaktdaten ---- */
+  const WHATSAPP_NUMBER = '491629763733';   // ohne + und Leerzeichen
+  const EMAIL = '';                         // z. B. 'kontakt@efk-reinigung.de'; leer = E-Mail-Elemente bleiben verborgen
 
   const $ = (s, c = document) => c.querySelector(s);
   const $$ = (s, c = document) => Array.from(c.querySelectorAll(s));
   const reduceMotion = matchMedia('(prefers-reduced-motion: reduce)').matches;
   const coarse = matchMedia('(pointer: coarse)').matches;
   const TAU = Math.PI * 2;
-
   const tt = (key) => (window.EFK_I18N ? window.EFK_I18N.t(key) : key);
-  const setYear = () => { const y = $('#yil'); if (y) y.textContent = new Date().getFullYear(); };
+  const setYear = () => $$('.year').forEach((y) => { y.textContent = new Date().getFullYear(); });
   setYear();
 
+  /* ---- E-Mail nur zeigen, wenn hinterlegt ---- */
+  if (EMAIL) {
+    const row = $('.contact-email');
+    if (row) { const a = $('a', row); a.href = `mailto:${EMAIL}`; a.textContent = EMAIL; row.hidden = false; }
+    const btn = $('.form-mail');
+    if (btn) btn.hidden = false;
+  }
+
   /* =========================================================
-     Header + menü
+     Header und Menü
      ========================================================= */
   const header = $('.site-header');
   const menuBtn = $('.menu-btn');
@@ -26,43 +34,64 @@
     header.classList.toggle('is-open', open);
     menuBtn.setAttribute('aria-expanded', String(open));
     document.documentElement.style.overflow = open ? 'hidden' : '';
-    if (lenis) open ? lenis.stop() : lenis.start();
+    document.documentElement.classList.toggle('menu-open', open);
+    if (lenis) { if (open) lenis.stop(); else lenis.start(); }
   }
   menuBtn.addEventListener('click', () => setMenu(!header.classList.contains('is-open')));
+  /* Mega-Menü Leistungen */
+  const mega = $('.has-mega');
+  const megaBtn = $('.nav-trigger');
+  const setMega = (open) => {
+    if (!mega) return;
+    mega.classList.toggle('is-open', open);
+    megaBtn.setAttribute('aria-expanded', String(open));
+  };
+  if (mega) {
+    megaBtn.addEventListener('click', () => setMega(!mega.classList.contains('is-open')));
+    document.addEventListener('click', (e) => { if (!mega.contains(e.target)) setMega(false); });
+    mega.addEventListener('focusout', (e) => { if (!mega.contains(e.relatedTarget) && window.innerWidth >= 1024) setMega(false); });
+  }
+
   document.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape' && header.classList.contains('is-open')) { setMenu(false); menuBtn.focus(); }
+    if (e.key !== 'Escape') return;
+    if (mega && mega.classList.contains('is-open')) { setMega(false); megaBtn.focus(); return; }
+    if (header.classList.contains('is-open')) { setMenu(false); menuBtn.focus(); }
   });
+
+  /* Leistungsseite: passende Leistung im Formular vorauswählen */
+  const svcIndex = Number(document.body.dataset.serviceIndex || 0);
+  if (svcIndex && $('#f-leistung')) $('#f-leistung').selectedIndex = svcIndex;
 
   let lastY = window.scrollY;
   function onScroll() {
     const y = window.scrollY;
     header.classList.toggle('is-solid', y > 40);
-    if (!header.classList.contains('is-open')) {
-      header.classList.toggle('is-hidden', y > lastY && y > 480);
-    }
+    if (!header.classList.contains('is-open')) header.classList.toggle('is-hidden', y > lastY && y > 520);
     lastY = y;
   }
   window.addEventListener('scroll', onScroll, { passive: true });
   onScroll();
 
-  /* =========================================================
-     Çapa linkleri
-     ========================================================= */
+  function scrollToEl(el, offset = 0) {
+    if (lenis) lenis.scrollTo(el, { offset });
+    else el.scrollIntoView({ behavior: reduceMotion ? 'auto' : 'smooth' });
+  }
+
   document.addEventListener('click', (e) => {
     const a = e.target.closest('a[href^="#"]');
     if (!a) return;
     const id = a.getAttribute('href');
-    const target = id.length > 1 ? $(id) : document.body;
-    if (!target) return;
+    const target = id.length > 1 ? $(id) : null;
+    if (id !== '#top' && !target) return;
     e.preventDefault();
     if (header.classList.contains('is-open')) setMenu(false);
-    if (lenis) lenis.scrollTo(id === '#top' ? 0 : target, { offset: id === '#top' ? 0 : -8 });
-    else target.scrollIntoView({ behavior: reduceMotion ? 'auto' : 'smooth' });
+    if (id === '#top') { if (lenis) lenis.scrollTo(0); else window.scrollTo({ top: 0, behavior: 'smooth' }); }
+    else scrollToEl(target, -8);
     history.replaceState(null, '', location.pathname + location.search + id);
   });
 
   /* =========================================================
-     SSS: tek seferde bir cevap açık
+     FAQ: immer nur eine Antwort offen
      ========================================================= */
   const faqs = $$('.faq-list details');
   faqs.forEach((d) => d.addEventListener('toggle', () => {
@@ -70,34 +99,69 @@
   }));
 
   /* =========================================================
-     Teklif formu -> WhatsApp
+     Kundengruppen-Tabs (WAI-ARIA)
      ========================================================= */
-  const form = $('#teklif-form');
-  const status = $('.form-status');
-  form.addEventListener('submit', (e) => {
-    e.preventDefault();
-    if (!form.reportValidity()) return;
-    const d = new FormData(form);
-    const lines = [
-      tt('wa.hello'),
-      `${tt('wa.name')}: ${d.get('ad')}`,
-      `${tt('wa.phone')}: ${d.get('tel')}`,
-      `${tt('wa.service')}: ${d.get('hizmet')}`,
-    ];
-    if (String(d.get('mesaj') || '').trim()) lines.push(`${tt('wa.note')}: ${String(d.get('mesaj')).trim()}`);
-    const url = `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(lines.join('\n'))}`;
-    window.open(url, '_blank', 'noopener');
-    status.textContent = tt('wa.status');
+  const tabs = $$('.tab');
+  function selectTab(tab, focus) {
+    tabs.forEach((t) => {
+      const on = t === tab;
+      t.setAttribute('aria-selected', String(on));
+      t.tabIndex = on ? 0 : -1;
+      const panel = document.getElementById(t.getAttribute('aria-controls'));
+      panel.hidden = !on;
+      if (on && !reduceMotion) {
+        panel.classList.remove('is-entering');
+        void panel.offsetWidth;
+        panel.classList.add('is-entering');
+      }
+    });
+    if (focus) tab.focus();
+    if (window.ScrollTrigger) ScrollTrigger.refresh();
+  }
+  tabs.forEach((t, i) => {
+    t.addEventListener('click', () => selectTab(t));
+    t.addEventListener('keydown', (e) => {
+      let n = null;
+      if (e.key === 'ArrowRight') n = tabs[(i + 1) % tabs.length];
+      if (e.key === 'ArrowLeft') n = tabs[(i - 1 + tabs.length) % tabs.length];
+      if (e.key === 'Home') n = tabs[0];
+      if (e.key === 'End') n = tabs[tabs.length - 1];
+      if (n) { e.preventDefault(); selectTab(n, true); }
+    });
   });
 
   /* =========================================================
-     Hareket kütüphaneleri yoksa ya da azaltılmışsa: statik sayfa
+     Anfrageformular -> WhatsApp oder E-Mail
      ========================================================= */
-  const hasGsap = typeof gsap !== 'undefined' && typeof ScrollTrigger !== 'undefined';
-  if (!hasGsap) return;
+  const form = $('#anfrage');
+  const status = $('.form-status');
+  if (form) form.addEventListener('submit', (e) => {
+    e.preventDefault();
+    if (!form.reportValidity()) return;
+    const via = (e.submitter && e.submitter.value) || 'wa';
+    const d = new FormData(form);
+    const rows = [
+      ['msg.name', d.get('name')], ['msg.phone', d.get('tel')], ['msg.mail', d.get('mail')],
+      ['msg.place', d.get('ort')], ['msg.service', d.get('leistung')], ['msg.freq', d.get('turnus')],
+      ['msg.note', d.get('msg')],
+    ].filter(([, v]) => String(v || '').trim());
+    const body = [tt('msg.hello'), '', ...rows.map(([k, v]) => `${tt(k)}: ${String(v).trim()}`)].join('\n');
+
+    if (via === 'mail' && EMAIL) {
+      location.href = `mailto:${EMAIL}?subject=${encodeURIComponent(tt('msg.subject'))}&body=${encodeURIComponent(body)}`;
+      status.textContent = tt('msg.mailStatus');
+    } else {
+      window.open(`https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(body)}`, '_blank', 'noopener');
+      status.textContent = tt('msg.waStatus');
+    }
+  });
+
+  /* =========================================================
+     Ohne GSAP: statische Seite
+     ========================================================= */
+  if (typeof gsap === 'undefined' || typeof ScrollTrigger === 'undefined') return;
   gsap.registerPlugin(ScrollTrigger);
 
-  /* ---- Lenis yumuşak kaydırma ---- */
   if (!reduceMotion && typeof Lenis !== 'undefined') {
     lenis = new Lenis({ duration: 1.1, easing: (t) => Math.min(1, 1.001 - Math.pow(2, -10 * t)) });
     lenis.on('scroll', ScrollTrigger.update);
@@ -106,11 +170,11 @@
   }
 
   /* =========================================================
-     HERO: buğulu cam
-     Sayfa açılınca otomatik bir silgi darbesi camın üst kısmını açar;
-     başlığın durduğu alt kısım buğulu kalır, ziyaretçi kalanını kendisi siler.
+     HERO: beschlagene Scheibe vor dem Schwarzwaldtal.
+     Ein automatischer Wischzug klärt den oberen Teil,
+     den Rest wischt der Besucher selbst frei.
      ========================================================= */
-  function initFog() {
+  (function initFog() {
     const hero = $('.hero');
     const canvas = $('.hero-fog');
     const img = $('.hero-media img');
@@ -119,8 +183,7 @@
 
     const ctx = canvas.getContext('2d');
     let W = 0, H = 0, dpr = 1, lastWidth = 0, sweeping = false, userWiped = false, last = null;
-
-    const radius = () => (coarse ? 50 : 86) * dpr;
+    const radius = () => (coarse ? 52 : 88) * dpr;
 
     function build() {
       dpr = Math.min(window.devicePixelRatio || 1, 1.5);
@@ -129,30 +192,24 @@
       lastWidth = window.innerWidth;
       ctx.globalCompositeOperation = 'source-over';
 
-      // fotoğrafın bulanık kopyası (küçült -> büyüt; ctx.filter gerektirmez)
-      const sw = Math.max(16, Math.round(W / 26));
-      const sh = Math.max(16, Math.round(H / 26));
+      const sw = Math.max(16, Math.round(W / 26)), sh = Math.max(16, Math.round(H / 26));
       const tmp = document.createElement('canvas');
       tmp.width = sw; tmp.height = sh;
-      const iw = img.naturalWidth, ih = img.naturalHeight;
-      const s = Math.max(sw / iw, sh / ih);
-      tmp.getContext('2d').drawImage(img, (sw - iw * s) * 0.5, (sh - ih * s) * 0.4, iw * s, ih * s);
+      const iw = img.naturalWidth, ih = img.naturalHeight, s = Math.max(sw / iw, sh / ih);
+      tmp.getContext('2d').drawImage(img, (sw - iw * s) * 0.5, (sh - ih * s) * 0.45, iw * s, ih * s);
       ctx.imageSmoothingEnabled = true;
       ctx.imageSmoothingQuality = 'high';
       ctx.drawImage(tmp, 0, 0, W, H);
-
-      // buğu tonu
-      ctx.fillStyle = 'rgba(238,247,250,.6)';
+      ctx.fillStyle = 'rgba(240,244,240,.62)';
       ctx.fillRect(0, 0, W, H);
 
-      // yoğuşma damlacıkları
       const n = Math.round((W * H) / (dpr * dpr) / 2000);
       for (let i = 0; i < n; i++) {
         const x = Math.random() * W, y = Math.random() * H;
         const r = (1.2 + Math.pow(Math.random(), 3) * 5.5) * dpr;
         ctx.beginPath(); ctx.arc(x, y, r, 0, TAU);
         ctx.fillStyle = 'rgba(255,255,255,.2)'; ctx.fill();
-        ctx.lineWidth = dpr * 0.8; ctx.strokeStyle = 'rgba(8,51,77,.15)'; ctx.stroke();
+        ctx.lineWidth = dpr * 0.8; ctx.strokeStyle = 'rgba(14,42,30,.14)'; ctx.stroke();
         ctx.beginPath(); ctx.arc(x - r * 0.3, y - r * 0.3, r * 0.34, 0, TAU);
         ctx.fillStyle = 'rgba(255,255,255,.75)'; ctx.fill();
       }
@@ -168,14 +225,12 @@
     }
     function wipeLine(x0, y0, x1, y1, r) {
       const dist = Math.hypot(x1 - x0, y1 - y0);
-      const step = Math.max(2, r * 0.22);
-      const n = Math.max(1, Math.ceil(dist / step));
+      const n = Math.max(1, Math.ceil(dist / Math.max(2, r * 0.22)));
       for (let i = 1; i <= n; i++) stamp(x0 + ((x1 - x0) * i) / n, y0 + ((y1 - y0) * i) / n, r);
     }
+    const showHint = (on) => { if (hint) hint.classList.toggle('is-on', on); };
 
-    function showHint(on) { if (hint) hint.classList.toggle('is-on', on); }
-
-    function pointerWipe(e) {
+    hero.addEventListener('pointermove', (e) => {
       if (sweeping) return;
       const rect = canvas.getBoundingClientRect();
       const x = ((e.clientX - rect.left) / rect.width) * W;
@@ -183,21 +238,16 @@
       if (last) wipeLine(last.x, last.y, x, y, radius()); else stamp(x, y, radius());
       last = { x, y };
       if (!userWiped) { userWiped = true; showHint(false); }
-    }
-    hero.addEventListener('pointermove', pointerWipe);
-    hero.addEventListener('pointerdown', () => { last = null; });
-    hero.addEventListener('pointerleave', () => { last = null; });
-    hero.addEventListener('pointercancel', () => { last = null; });
+    });
+    ['pointerdown', 'pointerleave', 'pointercancel'].forEach((ev) => hero.addEventListener(ev, () => { last = null; }));
 
-    // otomatik silgi darbesi: üstten alta 4 geçiş
     function sweep() {
-      const rows = [0.14, 0.26, 0.38];
-      const pts = [];
+      const rows = [0.13, 0.25, 0.37];
+      const px = [];
       rows.forEach((ry, i) => {
         const ltr = i % 2 === 0;
-        pts.push([ltr ? 0.03 : 0.99, ry], [ltr ? 0.99 : 0.03, ry]);
+        px.push({ x: (ltr ? 0.03 : 0.99) * W, y: ry * H }, { x: (ltr ? 0.99 : 0.03) * W, y: ry * H });
       });
-      const px = pts.map(([nx, ny]) => ({ x: nx * W, y: ny * H }));
       const lens = [0];
       for (let i = 1; i < px.length; i++) lens.push(lens[i - 1] + Math.hypot(px[i].x - px[i - 1].x, px[i].y - px[i - 1].y));
       const total = lens[lens.length - 1];
@@ -213,12 +263,8 @@
       sweeping = true;
       const o = { p: 0 };
       gsap.to(o, {
-        p: 1, duration: 2.6, delay: 0.55, ease: 'power1.inOut',
-        onUpdate() {
-          const cur = at(o.p);
-          wipeLine(prev.x, prev.y, cur.x, cur.y, r);
-          prev = cur;
-        },
+        p: 1, duration: 2.4, delay: 0.5, ease: 'power1.inOut',
+        onUpdate() { const cur = at(o.p); wipeLine(prev.x, prev.y, cur.x, cur.y, r); prev = cur; },
         onComplete() { sweeping = false; if (!userWiped) showHint(true); },
       });
     }
@@ -229,37 +275,29 @@
       let t;
       window.addEventListener('resize', () => {
         clearTimeout(t);
-        t = setTimeout(() => {
-          if (window.innerWidth === lastWidth) return; // mobilde adres çubuğu oynaması
-          build();
-        }, 200);
+        t = setTimeout(() => { if (window.innerWidth !== lastWidth) build(); }, 200);
       });
     }
-    if (img.complete && img.naturalWidth) start();
-    else img.addEventListener('load', start, { once: true });
+    if (img.complete && img.naturalWidth) start(); else img.addEventListener('load', start, { once: true });
+  })();
+
+  if ($('.hero')) {
+    gsap.to('.hero-media', { yPercent: 9, ease: 'none', scrollTrigger: { trigger: '.hero', start: 'top top', end: 'bottom top', scrub: true } });
+    gsap.to('.hero-inner', { yPercent: -8, opacity: 0.2, ease: 'none', scrollTrigger: { trigger: '.hero', start: 'top top', end: 'bottom 15%', scrub: true } });
   }
-  initFog();
 
-  /* ---- hero paralaks ---- */
-  gsap.to('.hero-media', {
-    yPercent: 9, ease: 'none',
-    scrollTrigger: { trigger: '.hero', start: 'top top', end: 'bottom top', scrub: true },
-  });
-  gsap.to('.hero-inner', {
-    yPercent: -10, opacity: 0.25, ease: 'none',
-    scrollTrigger: { trigger: '.hero', start: 'top top', end: 'bottom 20%', scrub: true },
-  });
+  /* ---- Landingpage: Bild im Hero leicht versetzt ---- */
+  if ($('.lp-hero-img') && !reduceMotion) {
+    gsap.fromTo('.lp-hero-img img', { scale: 1.12 }, { scale: 1, ease: 'none', scrollTrigger: { trigger: '.lp-hero', start: 'top top', end: 'bottom top', scrub: true } });
+  }
 
-  /* ---- bant: scroll hızına göre hızlanır, yön değişince ters döner ---- */
-  if (!reduceMotion) {
-    const loop = gsap.to('.tape-track', { xPercent: -50, ease: 'none', duration: 30, repeat: -1 });
+  /* ---- Ortsband: Tempo folgt der Scrollgeschwindigkeit ---- */
+  if (!reduceMotion && $('.towns-track')) {
+    const loop = gsap.to('.towns-track', { xPercent: -50, ease: 'none', duration: 40, repeat: -1 });
     let dir = 1, boost = 1, target = 1;
     ScrollTrigger.create({
       start: 0, end: 'max',
-      onUpdate: (self) => {
-        dir = self.direction || 1;
-        target = 1 + Math.min(Math.abs(self.getVelocity()) / 180, 7);
-      },
+      onUpdate: (self) => { dir = self.direction || 1; target = 1 + Math.min(Math.abs(self.getVelocity()) / 180, 7); },
     });
     gsap.ticker.add(() => {
       boost += (target - boost) * 0.08;
@@ -268,91 +306,72 @@
     });
   }
 
-  /* ---- giriş cümlesi: kirli gri -> temiz lacivert ---- */
+  /* ---- Intro: der Nebel lichtet sich Wort für Wort ---- */
   const statement = $('.statement');
   let statementTween = null;
   function initStatement() {
     if (!statement || reduceMotion) return;
-    if (statementTween) {
-      if (statementTween.scrollTrigger) statementTween.scrollTrigger.kill();
-      statementTween.kill();
-    }
-    statement.innerHTML = statement.textContent.trim().split(/\s+/)
-      .map((w) => `<span class="w">${w}</span>`).join(' ');
-    statementTween = gsap.fromTo($$('.w', statement), { color: '#b4c2c8' }, {
-      color: '#08334d', ease: 'none', stagger: 0.12,
-      scrollTrigger: { trigger: statement, start: 'top 82%', end: 'bottom 48%', scrub: true },
+    if (statementTween) { if (statementTween.scrollTrigger) statementTween.scrollTrigger.kill(); statementTween.kill(); }
+    statement.innerHTML = statement.textContent.trim().split(/\s+/).map((w) => `<span class="w">${w}</span>`).join(' ');
+    statementTween = gsap.fromTo($$('.w', statement), { opacity: 0.16, filter: 'blur(10px)' }, {
+      opacity: 1, filter: 'blur(0px)', ease: 'none', stagger: 0.1,
+      scrollTrigger: { trigger: statement, start: 'top 82%', end: 'bottom 50%', scrub: true },
     });
   }
   initStatement();
 
-  /* dil değişince: metin yeniden bölünür, yerleşim yeniden ölçülür */
-  window.addEventListener('efk:lang', () => {
-    setYear();
-    initStatement();
-    ScrollTrigger.refresh();
-  });
-
   /* =========================================================
-     Masaüstü: sabitlenen yatay hizmet akışı + genişleyen görsel
+     Leistungen: Bildstapel mit Index (nur Desktop)
      ========================================================= */
   const mm = gsap.matchMedia();
-  mm.add('(min-width: 900px) and (prefers-reduced-motion: no-preference)', () => {
-    const pin = $('.services-pin');
-    const track = $('.services-track');
-    const bar = $('.services-progress i');
-    const dist = () => Math.max(0, track.scrollWidth - window.innerWidth);
+  const articles = $$('.svc');
+  if ($('.svc-stack')) mm.add('(min-width: 1024px) and (prefers-reduced-motion: no-preference)', () => {
+    const section = $('.services');
+    const stack = $('.svc-stack');
+    const index = $('.svc-index');
+    section.classList.add('has-stack');
 
-    const move = gsap.to(track, {
-      x: () => -dist(), ease: 'none',
-      scrollTrigger: {
-        trigger: pin, start: 'top top', end: () => '+=' + dist(),
-        pin: true, scrub: true, anticipatePin: 1, invalidateOnRefresh: true,
-        onUpdate: (self) => { bar.style.transform = `scaleX(${self.progress})`; },
-      },
+    const imgs = articles.map((a) => {
+      const im = document.createElement('img');
+      im.src = $('img', a).getAttribute('src');
+      im.alt = '';
+      im.decoding = 'async';
+      stack.appendChild(im);
+      return im;
+    });
+    const buttons = articles.map((a) => {
+      const li = document.createElement('li');
+      const b = document.createElement('button');
+      b.type = 'button';
+      b.tabIndex = -1;
+      b.textContent = $('h3', a).textContent;
+      b.addEventListener('click', () => scrollToEl(a, 0));
+      li.appendChild(b);
+      index.appendChild(li);
+      return b;
     });
 
-    // fotoğraflar kartın içinde ters yönde kayar
-    $$('.svc-media img').forEach((im) => {
-      gsap.fromTo(im, { xPercent: -7 }, {
-        xPercent: 7, ease: 'none',
-        scrollTrigger: { trigger: im.closest('.svc'), containerAnimation: move, start: 'left right', end: 'right left', scrub: true },
-      });
-    });
+    let active = -1;
+    const setActive = (i) => {
+      if (i === active) return;
+      active = i;
+      imgs.forEach((im, k) => im.classList.toggle('is-shown', k <= i));
+      buttons.forEach((b, k) => b.classList.toggle('is-active', k === i));
+    };
+    setActive(0);
+    articles.forEach((a, i) => ScrollTrigger.create({
+      trigger: a, start: 'top 55%', end: 'bottom 55%',
+      onToggle: (self) => { if (self.isActive) setActive(i); },
+    }));
 
-    // genişleyen görsel
-    const frame = $('.expand-frame');
-    const frameImg = $('.expand-frame img');
-    const content = $('.expand-content');
-    gsap.fromTo(frame, { clipPath: 'inset(24% 30% 24% 30%)' }, {
-      clipPath: 'inset(0% 0% 0% 0%)', ease: 'none',
-      scrollTrigger: { trigger: '.expand', start: 'top 75%', end: 'top top', scrub: true },
-    });
-    gsap.fromTo(frameImg, { scale: 1.35 }, {
-      scale: 1, ease: 'none',
-      scrollTrigger: { trigger: '.expand', start: 'top 75%', end: 'bottom bottom', scrub: true },
-    });
-    gsap.to(content, {
-      opacity: 1, ease: 'none',
-      scrollTrigger: { trigger: '.expand', start: 'top 15%', end: 'top -15%', scrub: true },
-    });
+    return () => {
+      section.classList.remove('has-stack');
+      stack.innerHTML = '';
+      index.innerHTML = '';
+    };
   });
 
-  /* ---- sayaçlar ---- */
-  $$('.stat-num').forEach((el) => {
-    const to = Number(el.dataset.to);
-    if (!to) return;
-    if (reduceMotion) { el.textContent = to; return; }
-    const o = { v: 0 };
-    el.textContent = '0';
-    gsap.to(o, {
-      v: to, duration: 1.6, ease: 'power2.out', paused: true,
-      onUpdate: () => { el.textContent = Math.round(o.v); },
-      scrollTrigger: { trigger: el, start: 'top 85%', toggleActions: 'play none none none' },
-    });
-  });
-
-  /* ---- önce / sonra ---- */
+  /* ---- Vorher / Nachher ---- */
   const ba = $('.ba');
   const range = $('.ba-range');
   if (ba && range) {
@@ -369,7 +388,25 @@
     } else { set(50); range.value = 50; }
   }
 
-  /* ---- süreç çizgisi ---- */
+  /* ---- Karte: Rhein zeichnet sich, Orte erscheinen ---- */
+  const map = $('.map svg');
+  if (map && !reduceMotion) {
+    const rivers = $$('.map-river', map);
+    rivers.forEach((r) => { const L = r.getTotalLength(); r.style.strokeDasharray = L; r.style.strokeDashoffset = L; });
+    gsap.timeline({ scrollTrigger: { trigger: map, start: 'top 72%', toggleActions: 'play none none none' } })
+      .from('.map-forest', { opacity: 0, duration: 0.9, ease: 'power2.out' })
+      .to(rivers, { strokeDashoffset: 0, duration: 1.4, ease: 'power2.inOut' }, '-=.4')
+      .from('.map-label-region, .map-label-river, .map-peak', { opacity: 0, duration: 0.6 }, '-=1')
+      .from('.map-town', { scale: 0, opacity: 0, transformOrigin: '50% 50%', stagger: 0.05, duration: 0.5, ease: 'back.out(2.2)' }, '-=1');
+  }
+  if (!reduceMotion && $('.area-photo')) {
+    gsap.fromTo('.area-photo img', { yPercent: -10 }, {
+      yPercent: 0, ease: 'none',
+      scrollTrigger: { trigger: '.area-photo', start: 'top bottom', end: 'bottom top', scrub: true },
+    });
+  }
+
+  /* ---- Ablauf ---- */
   const steps = $('.steps');
   if (steps) {
     ScrollTrigger.create({
@@ -383,13 +420,21 @@
     }));
   }
 
-  /* ---- footer imzası: harfler aşağıdan yükselir ---- */
-  if (!reduceMotion) {
+  /* ---- Footer-Schriftzug ---- */
+  if (!reduceMotion && $('.wordmark')) {
     gsap.from('.wordmark i', {
       yPercent: 105, stagger: 0.1, ease: 'none',
       scrollTrigger: { trigger: '.footer', start: 'top 85%', end: 'bottom bottom', scrub: true },
     });
   }
+
+  /* ---- Sprachwechsel ---- */
+  window.addEventListener('efk:lang', () => {
+    setYear();
+    initStatement();
+    $$('.svc-index button').forEach((b, i) => { b.textContent = $('h3', articles[i]).textContent; });
+    ScrollTrigger.refresh();
+  });
 
   window.addEventListener('load', () => ScrollTrigger.refresh());
 })();

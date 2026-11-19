@@ -1,0 +1,195 @@
+{
+  "slug": "winterdienst",
+  "group": "laufend",
+  "img": "winterdienst.jpg",
+  "related": ["treppenhausreinigung", "industriereinigung", "unterhaltsreinigung"],
+  "de": {
+    "name": "Winterdienst und Außenanlagen",
+    "h1": "Winterdienst und Außenanlagen im Schwarzwald",
+    "metaTitle": "Winterdienst und Außenanlagen im Schwarzwald | EFK",
+    "metaDesc": "Winterdienst im Schwarzwald: Räumen und Streuen von Gehwegen, Zufahrten und Parkplätzen mit Streuprotokoll. Im Sommer Laub, Kehren und Mülltonnenservice.",
+    "lead": "Wir räumen und streuen Gehwege, Zufahrten und Parkplätze, dokumentieren jeden Einsatz und kümmern uns in der warmen Jahreszeit um Ihre Außenanlagen.",
+    "usps": [
+      "Räumen und Streuen nach Satzung",
+      "Jeder Einsatz mit Uhrzeit dokumentiert",
+      "Außenpflege das ganze Jahr",
+      "Kostenlose Besichtigung vor Ort"
+    ],
+    "introTitle": "Warum sich ein Winterdienst im Schwarzwald lohnt",
+    "intro": [
+      "Im Schwarzwald kommt der Winter früh und bleibt lange. In Höhenlagen fällt der erste Schnee oft schon im Oktober oder November, und Glätte hält sich bis weit ins Frühjahr. Die Räum- und Streupflicht für Gehwege regelt jede Gemeinde in ihrer eigenen Satzung, einschließlich der Uhrzeiten, zu denen geräumt und gestreut sein muss.",
+      "Diese Pflicht können Sie per Vertrag auf einen Dienstleister übertragen. Wir beobachten die Wetterlage, rücken bei Schnee und Glätte aus, auch früh am Morgen, und räumen und streuen die vereinbarten Flächen. Jeden Einsatz halten wir mit Datum, Uhrzeit und Maßnahme in einem Streuprotokoll fest. So haben Sie einen Nachweis, falls es nach einem Sturz Fragen gibt.",
+      "Ob Wohnanlage in Freudenstadt, Kundenparkplatz in Villingen-Schwenningen oder Ferienhaus in Titisee-Neustadt: Wir legen Flächen, Zeiten und Abläufe vor dem ersten Schnee mit Ihnen fest. In der warmen Jahreszeit kümmern wir uns um Laub, Kehren, Unkraut auf Wegen und den Mülltonnenservice, sodass Ihre Außenanlagen das ganze Jahr gepflegt sind."
+    ],
+    "scopeTitle": "Unser Leistungsumfang",
+    "scope": [
+      { "t": "Öffentliche Gehwege", "d": "Gehwege vor Ihrem Grundstück räumen und streuen wir zu den Zeiten, die Ihre Gemeindesatzung vorgibt." },
+      { "t": "Zufahrten und Hofflächen", "d": "Garagenzufahrten, Hofeinfahrten und Wege zum Haus frei halten, damit Bewohner und Lieferanten sicher ankommen." },
+      { "t": "Parkplätze und Stellflächen", "d": "Kunden- und Mitarbeiterparkplätze räumen wir vor Geschäftsbeginn, bei Bedarf maschinell und in mehreren Durchgängen." },
+      { "t": "Eingänge und Treppen", "d": "Hauseingänge, Außentreppen, Rampen und Wege zu den Mülltonnen räumen und gegen Glätte sichern." },
+      { "t": "Passende Streumittel", "d": "Wir streuen Splitt, Granulat oder Salz, je nachdem, was Ihre Gemeinde für die jeweilige Fläche zulässt." },
+      { "t": "Streuprotokoll als Nachweis", "d": "Jeder Einsatz wird mit Datum, Uhrzeit, Fläche und Maßnahme dokumentiert und steht Ihnen auf Anfrage zur Verfügung." },
+      { "t": "Laub, Kehren, Unkraut", "d": "Im Frühjahr, Sommer und Herbst entfernen wir Laub, kehren Wege und Höfe und beseitigen Unkraut aus Pflasterfugen." },
+      { "t": "Mülltonnenservice und Müllplatz", "d": "Wir stellen die Tonnen am Abfuhrtag an die Straße, holen sie zurück und halten den Müllplatz sauber." }
+    ],
+    "forTitle": "Für wen wir Winterdienst und Außenpflege übernehmen",
+    "for": [
+      "Hausverwaltungen und Eigentümergemeinschaften",
+      "Vermieter und private Eigentümer",
+      "Gewerbebetriebe mit Parkplätzen",
+      "Arztpraxen und Einzelhandel",
+      "Ferienwohnungen und Pensionen",
+      "Industrie- und Gewerbehallen"
+    ],
+    "steps": [
+      { "t": "Begehung", "d": "Wir sehen uns die Flächen vor der Saison an und gleichen die Zeiten mit der Satzung Ihrer Gemeinde ab." },
+      { "t": "Vertrag", "d": "Im Vertrag legen wir Flächen, Zeiten, Streumittel und Abrechnung fest, als Saisonpauschale oder pro Einsatz." },
+      { "t": "Einsatz", "d": "Bei Schnee und Glätte rücken wir aus und räumen und streuen die vereinbarten Flächen in fester Reihenfolge." },
+      { "t": "Streuprotokoll", "d": "Jeder Einsatz wird mit Datum und Uhrzeit protokolliert, und Sie können das Protokoll jederzeit anfordern." }
+    ],
+    "priceTitle": "Was kostet ein Winterdienst?",
+    "priceIntro": "Der Preis hängt von Flächen, Lage und Vertragsmodell ab. Nach der Besichtigung erhalten Sie ein schriftliches Angebot, als Saisonpauschale oder mit Abrechnung pro Einsatz.",
+    "priceFactors": [
+      { "t": "Flächen und Wege", "d": "Länge der Gehwege, Größe der Parkplätze und Zahl der Treppen bestimmen den Aufwand pro Einsatz." },
+      { "t": "Höhenlage und Schneemenge", "d": "In Höhenlagen sind Einsätze häufiger und länger als im Rheintal, das fließt in die Kalkulation ein." },
+      { "t": "Zeiten und Häufigkeit", "d": "Frühe Räumzeiten, Einsätze am Wochenende und mehrere Durchgänge bei Dauerschneefall erhöhen den Aufwand." },
+      { "t": "Pauschale oder Einzelabrechnung", "d": "Eine Saisonpauschale schafft feste Kosten, die Abrechnung pro Einsatz richtet sich nach dem tatsächlichen Winter." }
+    ],
+    "priceNote": "Wenn Sie Winterdienst und Außenpflege im Sommer kombinieren, erhalten Sie beides in einem Ganzjahresangebot.",
+    "areaText": "Wir übernehmen Winterdienst und Außenpflege im Schwarzwald, unter anderem in Freudenstadt, Villingen-Schwenningen, Titisee-Neustadt, Hinterzarten, Triberg, Donaueschingen und Waldkirch.",
+    "faq": [
+      { "q": "Kann ich die Räum- und Streupflicht an Sie übertragen?", "a": "Ja. Die Räum- und Streupflicht lässt sich per Vertrag auf einen Dienstleister übertragen. Im Vertrag legen wir genau fest, welche Flächen wir zu welchen Zeiten räumen und streuen." },
+      { "q": "Zu welchen Uhrzeiten muss geräumt sein?", "a": "Das legt die Satzung Ihrer Gemeinde fest, und die Zeiten unterscheiden sich von Ort zu Ort. Wir richten unsere Einsätze nach der Satzung, die für Ihr Grundstück gilt." },
+      { "q": "Wie dokumentieren Sie die Einsätze?", "a": "Jeder Einsatz kommt mit Datum, Uhrzeit, Fläche und Maßnahme in ein Streuprotokoll. Damit haben Sie einen Nachweis, falls es nach einem Sturz Fragen gibt." },
+      { "q": "Was passiert bei Dauerschneefall?", "a": "Bei anhaltendem Schneefall oder erneuter Glätte kommen wir mehrmals am Tag, so wie es im Vertrag vereinbart ist. Auch jeder weitere Einsatz steht im Streuprotokoll." },
+      { "q": "Wann sollte ich den Winterdienst beauftragen?", "a": "Am besten im Spätsommer oder frühen Herbst. Dann bleibt Zeit für die Begehung, und Ihre Flächen sind eingeplant, bevor in den Höhenlagen der erste Schnee fällt." },
+      { "q": "Was übernehmen Sie außerhalb des Winters?", "a": "Wir entfernen Laub, kehren Wege und Höfe, beseitigen Unkraut auf Wegen und Pflaster und übernehmen den Mülltonnenservice. So haben Sie für Ihre Außenanlagen das ganze Jahr einen festen Ansprechpartner." }
+    ]
+  },
+  "en": {
+    "name": "Winter service",
+    "h1": "Winter service and grounds care in the Black Forest",
+    "metaTitle": "Winter service and grounds care in the Black Forest | EFK",
+    "metaDesc": "Winter service in the Black Forest: clearing and gritting footpaths, driveways and car parks, with a gritting log. In summer, leaves, sweeping and bins.",
+    "lead": "We clear and grit footpaths, driveways and car parks, document every call-out and look after your grounds in the warmer months.",
+    "usps": [
+      "Clearing and gritting per local bylaw",
+      "Every call-out logged with time",
+      "Grounds care all year round",
+      "Free on-site visit"
+    ],
+    "introTitle": "Why winter service pays off in the Black Forest",
+    "intro": [
+      "In the Black Forest, winter comes early and stays long. At higher altitudes the first snow often falls in October or November, and ice can linger well into spring. Each municipality sets the duty to clear and grit footpaths (Räum- und Streupflicht) in its own bylaw (Satzung), including the times by which clearing and gritting must be done.",
+      "You can transfer this duty to a service provider by contract. We keep an eye on the weather, turn out when there is snow or ice, including early in the morning, and clear and grit the agreed areas. Every call-out is recorded with date, time and action in a gritting log (Streuprotokoll), so you have proof if questions arise after a fall.",
+      "Whether it is a residential complex in Freudenstadt, a customer car park in Villingen-Schwenningen or a holiday home in Titisee-Neustadt, we agree areas, times and routines with you before the first snow. In the warmer months we take care of leaves, sweeping, weeds on paths and the bin service, so your grounds are looked after all year."
+    ],
+    "scopeTitle": "What we do",
+    "scope": [
+      { "t": "Public footpaths", "d": "We clear and grit the footpaths in front of your property at the times your local bylaw requires." },
+      { "t": "Driveways and yards", "d": "Keeping garage driveways, yard entrances and paths to the house clear so residents and deliveries arrive safely." },
+      { "t": "Car parks", "d": "We clear customer and staff car parks before business hours, by machine and in several passes where needed." },
+      { "t": "Entrances and steps", "d": "Clearing entrances, outside steps, ramps and paths to the bins and keeping them safe from ice." },
+      { "t": "Suitable gritting material", "d": "We spread chippings, granules or salt, depending on what your municipality allows for each area." },
+      { "t": "Gritting log as proof", "d": "Every call-out is documented with date, time, area and action and is available to you on request." },
+      { "t": "Leaves, sweeping, weeds", "d": "In spring, summer and autumn we clear leaves, sweep paths and yards and remove weeds from paving joints." },
+      { "t": "Bin service", "d": "We put the bins out on collection day, bring them back in and keep the bin area tidy." }
+    ],
+    "forTitle": "Who we provide winter service and grounds care for",
+    "for": [
+      "Property managers and owners' associations",
+      "Landlords and private owners",
+      "Businesses with car parks",
+      "Medical practices and shops",
+      "Holiday flats and guesthouses",
+      "Industrial and commercial premises"
+    ],
+    "steps": [
+      { "t": "Site visit", "d": "We look at the areas before the season and check the times against your municipality's bylaw." },
+      { "t": "Contract", "d": "The contract sets out areas, times, gritting material and billing, either as a seasonal flat rate or per call-out." },
+      { "t": "Call-out", "d": "When there is snow or ice, we turn out and clear and grit the agreed areas in a fixed order." },
+      { "t": "Gritting log", "d": "Every call-out is entered in the gritting log with date and time, and you can request the log at any time." }
+    ],
+    "priceTitle": "How much does winter service cost?",
+    "priceIntro": "The price depends on the areas, the location and the contract model. After the site visit you receive a written quote, either as a seasonal flat rate or billed per call-out.",
+    "priceFactors": [
+      { "t": "Areas and paths", "d": "The length of footpaths, the size of car parks and the number of steps determine the effort per call-out." },
+      { "t": "Altitude and snowfall", "d": "At higher altitudes call-outs are more frequent and longer than in the Rhine valley, which is reflected in the price." },
+      { "t": "Times and frequency", "d": "Early clearing times, weekend call-outs and several passes during prolonged snowfall increase the effort." },
+      { "t": "Flat rate or call-outs", "d": "A seasonal flat rate gives you fixed costs, while billing per call-out follows the actual winter." }
+    ],
+    "priceNote": "If you combine winter service with grounds care in summer, you receive both in one year-round quote.",
+    "areaText": "We provide winter service and grounds care in the Black Forest, including Freudenstadt, Villingen-Schwenningen, Titisee-Neustadt, Hinterzarten, Triberg, Donaueschingen and Waldkirch.",
+    "faq": [
+      { "q": "Can I transfer the duty to clear and grit to you?", "a": "Yes. The Räum- und Streupflicht can be transferred to a service provider by contract. The contract specifies exactly which areas we clear and grit and at what times." },
+      { "q": "By what time must the footpath be cleared?", "a": "That is set by your municipality's bylaw (Satzung), and the times vary from place to place. We plan our call-outs according to the bylaw that applies to your property." },
+      { "q": "How do you document the call-outs?", "a": "Every call-out goes into a gritting log with date, time, area and action. This gives you proof if questions arise after a fall." },
+      { "q": "What happens during prolonged snowfall?", "a": "If snow keeps falling or ice forms again, we come several times a day, as agreed in the contract. Every additional call-out is also recorded in the gritting log." },
+      { "q": "When should I book winter service?", "a": "Ideally in late summer or early autumn. That leaves time for the site visit, and your areas are scheduled before the first snow falls at higher altitudes." },
+      { "q": "What do you do outside the winter months?", "a": "We clear leaves, sweep paths and yards, remove weeds from paths and paving and provide the bin service. That way you have one fixed contact person for your grounds all year." }
+    ]
+  },
+  "tr": {
+    "name": "Kış hizmeti",
+    "h1": "Kara Orman'da kış hizmeti ve dış alanlar",
+    "metaTitle": "Kara Orman'da kış hizmeti ve dış alanlar | EFK",
+    "metaDesc": "Kara Orman'da kış hizmeti: kaldırım, garaj yolu ve otoparklarda kar küreme ve tuzlama, her müdahale kayıtlı. Yazın yaprak, süpürme ve çöp konteyneri.",
+    "lead": "Kaldırımları, garaj yollarını ve otoparkları kardan temizler, tuzlarız. Her müdahaleyi kayda geçirir, sıcak aylarda dış alanlarınızın bakımını üstleniriz.",
+    "usps": [
+      "Yönetmeliğe göre kar küreme ve tuzlama",
+      "Her müdahale saatiyle kayıtlı",
+      "Yıl boyu dış alan bakımı",
+      "Ücretsiz yerinde keşif"
+    ],
+    "introTitle": "Kara Orman'da kış hizmeti neden önemlidir",
+    "intro": [
+      "Kara Orman'da kış erken gelir ve uzun sürer. Yüksek kesimlerde ilk kar çoğu zaman ekim ya da kasımda düşer, buzlanma ise baharın ortasına kadar sürebilir. Kaldırımlar için kar temizleme ve tuzlama yükümlülüğünü (Räum- und Streupflicht) her belediye kendi yönetmeliğinde (Satzung) belirler; temizliğin hangi saatlere kadar yapılmış olması gerektiği de buna dahildir.",
+      "Bu yükümlülüğü bir sözleşmeyle hizmet sağlayıcıya devredebilirsiniz. Hava durumunu takip eder, kar ve buzlanmada sabahın erken saatleri dahil yola çıkar, anlaşılan alanları kardan temizler ve tuzlarız. Her müdahaleyi tarih, saat ve yapılan işle birlikte tuzlama kaydına (Streuprotokoll) geçiririz. Böylece bir düşme olayından sonra soru çıkarsa elinizde kanıt olur.",
+      "Freudenstadt'ta bir site, Villingen-Schwenningen'de bir müşteri otoparkı ya da Titisee-Neustadt'ta bir tatil evi: Alanları, saatleri ve iş akışını ilk kar yağmadan önce sizinle birlikte belirleriz. Sıcak aylarda yaprakları toplar, yolları süpürür, yürüyüş yollarındaki yabani otları temizler ve çöp konteyneri hizmetini üstleniriz; böylece dış alanlarınız yıl boyu bakımlı kalır."
+    ],
+    "scopeTitle": "Hizmet kapsamımız",
+    "scope": [
+      { "t": "Kamuya açık kaldırımlar", "d": "Mülkünüzün önündeki kaldırımları belediye yönetmeliğinin öngördüğü saatlerde kardan temizler ve tuzlarız." },
+      { "t": "Garaj yolları ve avlular", "d": "Garaj yollarını, avlu girişlerini ve eve giden yolları açık tutarız; böylece oturanlar ve kuryeler güvenle ulaşır." },
+      { "t": "Otopark ve park yerleri", "d": "Müşteri ve personel otoparklarını mesai başlamadan, gerektiğinde makineyle ve birkaç turda temizleriz." },
+      { "t": "Girişler ve merdivenler", "d": "Bina girişlerini, dış merdivenleri, rampaları ve çöp konteynerlerine giden yolları temizler, buzlanmaya karşı güvenli hale getiririz." },
+      { "t": "Uygun serpme malzemesi", "d": "Belediyenizin ilgili alan için izin verdiğine göre mıcır, granül ya da tuz serperiz." },
+      { "t": "Kanıt olarak tuzlama kaydı", "d": "Her müdahale tarih, saat, alan ve yapılan işle birlikte kaydedilir ve istediğinizde size verilir." },
+      { "t": "Yaprak, süpürme, yabani ot", "d": "İlkbahar, yaz ve sonbaharda yaprakları toplar, yolları ve avluları süpürür, parke taşı derzlerindeki otları temizleriz." },
+      { "t": "Çöp konteyneri hizmeti", "d": "Toplama gününde konteynerleri yola çıkarır, sonra geri yerine koyar ve çöp alanını temiz tutarız." }
+    ],
+    "forTitle": "Kimler için kış hizmeti ve dış alan bakımı yapıyoruz",
+    "for": [
+      "Site yönetimleri ve kat malikleri",
+      "Ev sahipleri ve mülk sahipleri",
+      "Otoparkı olan işletmeler",
+      "Muayenehaneler ve mağazalar",
+      "Tatil daireleri ve pansiyonlar",
+      "Sanayi ve ticari tesisler"
+    ],
+    "steps": [
+      { "t": "Keşif", "d": "Sezondan önce alanları inceler, saatleri belediyenizin yönetmeliğiyle karşılaştırırız." },
+      { "t": "Sözleşme", "d": "Sözleşmede alanları, saatleri, serpme malzemesini ve faturalandırmayı sezonluk sabit ücret ya da müdahale başına belirleriz." },
+      { "t": "Müdahale", "d": "Kar ve buzlanmada yola çıkar, anlaşılan alanları belirli bir sırayla temizler ve tuzlarız." },
+      { "t": "Tuzlama kaydı", "d": "Her müdahale tarih ve saatiyle kayda geçer, bu kaydı istediğiniz zaman talep edebilirsiniz." }
+    ],
+    "priceTitle": "Kış hizmeti ne kadar tutar?",
+    "priceIntro": "Fiyat alanlara, konuma ve sözleşme modeline bağlıdır. Keşiften sonra sezonluk sabit ücretli ya da müdahale başına hesaplanan yazılı bir teklif alırsınız.",
+    "priceFactors": [
+      { "t": "Alanlar ve yollar", "d": "Kaldırımların uzunluğu, otoparkların büyüklüğü ve merdiven sayısı her müdahaledeki iş yükünü belirler." },
+      { "t": "Rakım ve kar miktarı", "d": "Yüksek kesimlerde müdahaleler Ren vadisine göre daha sık ve uzun sürer, bu da fiyata yansır." },
+      { "t": "Saatler ve sıklık", "d": "Erken temizlik saatleri, hafta sonu müdahaleleri ve uzun süren kar yağışında birden fazla tur iş yükünü artırır." },
+      { "t": "Sabit veya müdahale ücreti", "d": "Sezonluk sabit ücret masraflarınızı sabitler, müdahale başına hesaplama ise kışın gerçek seyrine göre değişir." }
+    ],
+    "priceNote": "Kış hizmetini yazın dış alan bakımıyla birleştirirseniz ikisini tek bir yıllık teklifte alırsınız.",
+    "areaText": "Kış hizmeti ve dış alan bakımını Kara Orman'da, örneğin Freudenstadt, Villingen-Schwenningen, Titisee-Neustadt, Hinterzarten, Triberg, Donaueschingen ve Waldkirch'te yapıyoruz.",
+    "faq": [
+      { "q": "Kar temizleme ve tuzlama yükümlülüğünü size devredebilir miyim?", "a": "Evet. Räum- und Streupflicht bir sözleşmeyle hizmet sağlayıcıya devredilebilir. Sözleşmede hangi alanları hangi saatlerde temizleyip tuzlayacağımızı tam olarak belirleriz." },
+      { "q": "Kaldırım saat kaça kadar temizlenmiş olmalı?", "a": "Bunu belediyenizin yönetmeliği (Satzung) belirler ve saatler yerden yere değişir. Müdahalelerimizi mülkünüz için geçerli olan yönetmeliğe göre planlarız." },
+      { "q": "Müdahaleleri nasıl belgeliyorsunuz?", "a": "Her müdahale tarih, saat, alan ve yapılan işle birlikte tuzlama kaydına geçer. Böylece bir düşme olayından sonra soru çıkarsa elinizde kanıt olur." },
+      { "q": "Kar uzun süre yağarsa ne olur?", "a": "Kar yağmaya devam eder ya da yeniden buzlanma olursa sözleşmede anlaşıldığı şekilde gün içinde birkaç kez geliriz. Her ek müdahale de tuzlama kaydına geçer." },
+      { "q": "Kış hizmetini ne zaman ayarlamalıyım?", "a": "En iyisi yaz sonunda ya da sonbahar başında. Böylece keşif için zaman kalır ve yüksek kesimlere ilk kar düşmeden alanlarınız planlanmış olur." },
+      { "q": "Kış dışında neler yapıyorsunuz?", "a": "Yaprakları toplar, yolları ve avluları süpürür, yollardaki ve parke taşlarındaki yabani otları temizler, çöp konteyneri hizmetini üstleniriz. Böylece dış alanlarınız için yıl boyu sabit bir muhatabınız olur." }
+    ]
+  }
+}

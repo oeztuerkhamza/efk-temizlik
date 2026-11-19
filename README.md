@@ -1,24 +1,36 @@
-# EFK Temizlik web sitesi
+# EFK, Gebäudereinigung im Schwarzwald
 
-Statik tek sayfa site (HTML, CSS, JS). Derleme gerekmez. Dil: Türkçe (varsayılan), İngilizce, Almanca.
+Statische Website (HTML, CSS, JS), gehostet auf GitHub Pages. Sprachen: Deutsch (Standard), Englisch, Türkisch.
 
-## Yayından önce değiştirilecekler
+## Aufbau
 
-- `assets/js/main.js` içinde `WHATSAPP_NUMBER`: müşterinin gerçek WhatsApp numarası (`905xxxxxxxxx` biçimi).
-- `index.html` içinde `0 (5XX) XXX XX XX` telefon yer tutucusu (`data-edit="phone"`).
-- "Önce / Sonra" bölümündeki görsel örnektir (aynı fotoğrafın filtreli hali). Gerçek proje fotoğraflarıyla değiştirilmeli.
-- Sayılar (8 hizmet alanı, 24 saat, 7 gün) ve SSS cevapları taslak metindir; müşteriyle teyit edilmeli.
+- `index.html`: Startseite. Kopf, Fußbereich und Kontaktformular werden von hier in alle Unterseiten übernommen.
+- `content/services/<slug>.json`: Inhalte der 10 Leistungsseiten (de, en, tr). Schema und Schreibregeln: `content/BRIEF.md`.
+- `tools/build.mjs`: erzeugt `leistungen/<slug>/index.html`, `impressum.html`, `datenschutz.html`, `sitemap.xml`, `robots.txt`.
+- `assets/js/i18n.js`: Übersetzungen der Startseite und gemeinsame Texte. Deutsch steht im HTML.
+- `assets/js/main.js`: Interaktion und Scroll-Effekte (GSAP, ScrollTrigger, Lenis, lokal in `assets/vendor`).
+- Schrift Archivo liegt lokal in `assets/fonts` (keine Verbindung zu Google, DSGVO).
 
-## Çeviriler
+Nach jeder Änderung an `index.html` oder `content/services/*.json`:
 
-Türkçe metin `index.html` içindedir. İngilizce ve Almanca metinler `assets/js/i18n.js` içindeki `dict` nesnesindedir. Yeni metin eklemek için öğeye `data-i18n="anahtar"` yazın, anahtarı her iki dile ekleyin. Bağlantı: `?lang=en`, `?lang=de`.
+```bash
+node tools/build.mjs
+```
 
-## Yerelde çalıştırma
+Lokal ansehen:
 
 ```bash
 python -m http.server 5173
 ```
 
-## Görseller
+## Vor dem Livegang ergänzen
 
-Fotoğraflar [Unsplash](https://unsplash.com) üzerinden alınmıştır (Unsplash License, ticari kullanım serbest).
+- Impressum und Datenschutz: gelb markierte Platzhalter (Inhaber, Anschrift, E-Mail, USt-IdNr., Handwerkskammer) ausfüllen und rechtlich prüfen lassen.
+- E-Mail-Adresse: in `assets/js/main.js` bei `EMAIL` eintragen, dann erscheinen E-Mail-Zeile und E-Mail-Button.
+- Aussagen bestätigen: Versicherung, Antwort in 24 Stunden, Erreichbarkeit Mo bis Sa 7 bis 19 Uhr, Einsatzgebiet.
+- Vorher/Nachher-Bild ist ein gefiltertes Beispielfoto. Durch echte Projektfotos ersetzen.
+- Eigene Domain: `SITE` in `tools/build.mjs` und die Canonical-/JSON-LD-Adresse in `index.html` anpassen.
+
+## Bilder
+
+Fotos von [Unsplash](https://unsplash.com) (Unsplash-Lizenz, kommerzielle Nutzung erlaubt).

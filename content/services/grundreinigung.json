@@ -1,0 +1,397 @@
+{
+  "slug": "grundreinigung",
+  "group": "spezial",
+  "img": "daire.jpg",
+  "related": [
+    "bodenpflege",
+    "polsterreinigung",
+    "glasreinigung"
+  ],
+  "de": {
+    "name": "Grund- und Umzugsreinigung",
+    "h1": "Grund- und Umzugsreinigung im Schwarzwald",
+    "metaTitle": "Grund- und Umzugsreinigung im Schwarzwald | EFK",
+    "metaDesc": "Grundreinigung und Endreinigung bei Auszug im Schwarzwald: Küche, Bad, Fenster und Böden gründlich sauber zur Wohnungsübergabe. Kostenlose Besichtigung.",
+    "lead": "Wir reinigen Wohnungen und Häuser einmalig und gründlich, ob vor dem Einzug, nach dem Auszug oder nach einer Renovierung. So können Sie der Wohnungsübergabe gelassen entgegensehen.",
+    "usps": [
+      "Übergabefertig zum vereinbarten Termin",
+      "Küche inklusive Backofen und Kühlschrank",
+      "Kostenlose Besichtigung vor Ort",
+      "Steuerlich absetzbar nach § 35a EStG"
+    ],
+    "introTitle": "Warum sich eine professionelle Grundreinigung lohnt",
+    "intro": [
+      "Bei der Wohnungsübergabe schaut der Vermieter genau hin: Kalk an Armaturen, Fett im Backofen, Staub auf Türrahmen und Schmutz in Fensterecken fallen sofort auf. Wer nach dem Umzug noch selbst putzen muss, hat dafür selten Zeit und Kraft. Bleiben Mängel, drohen Diskussionen über die Kaution oder ein zweiter Übergabetermin.",
+      "Unsere Teams arbeiten Raum für Raum nach einer festen Checkliste: Küche mit allen Geräten und Schränken innen, Bad mit Entkalkung, Fenster mit Rahmen, Böden, Türen, Schalter und Sockelleisten. Reinigungsmittel und Geräte bringen wir mit. Am Ende gehen wir die Räume mit Ihnen ab, damit Sie sicher sind, dass nichts übersehen wurde.",
+      "Ob Mietwohnung in Freiburg, Einfamilienhaus in Emmendingen vor dem Verkauf oder renovierte Altbauwohnung in Baden-Baden: Wir passen den Umfang an Ihr Objekt an. Privathaushalte können nach § 35a EStG 20 % der Arbeitskosten von der Steuerschuld abziehen, höchstens 4.000 Euro im Jahr, wenn sie die Rechnung per Überweisung bezahlen."
+    ],
+    "scopeTitle": "Unser Leistungsumfang",
+    "scope": [
+      {
+        "t": "Küche und Geräte",
+        "d": "Backofen, Herd, Dunstabzugshaube, Kühlschrank und Spülmaschine innen und außen entfetten und reinigen."
+      },
+      {
+        "t": "Schränke von innen",
+        "d": "Alle Küchen- und Einbauschränke werden innen und außen ausgewischt, einschließlich der Schubladen, Griffe und Oberseiten."
+      },
+      {
+        "t": "Bad und Entkalkung",
+        "d": "Fliesen, Fugen, Armaturen, Dusche, Wanne, WC und Spiegel gründlich reinigen und von Kalk befreien."
+      },
+      {
+        "t": "Fenster und Rahmen",
+        "d": "Glasflächen innen und außen, Rahmen, Falze und Fensterbänke, auf Wunsch auch Rollläden und Balkontüren."
+      },
+      {
+        "t": "Böden aller Art",
+        "d": "Saugen und Nassreinigung von Fliesen, Laminat, Parkett und Vinyl, materialgerecht und ohne Rückstände."
+      },
+      {
+        "t": "Türen, Schalter, Sockelleisten",
+        "d": "Feuchtes Abwischen von Türen, Zargen, Lichtschaltern, Steckdosen, Heizkörpern und Sockelleisten in allen Räumen."
+      },
+      {
+        "t": "Nach der Renovierung",
+        "d": "Entfernen von Staub, Farbspritzern und Klebstoffresten, wenn nach Malerarbeiten oder kleinen Umbauten noch Spuren bleiben."
+      },
+      {
+        "t": "Keller, Balkon, Nebenräume",
+        "d": "Auf Wunsch reinigen wir auch Keller, Dachboden, Balkon, Terrasse und Garage, soweit sie zur Wohnungsübergabe gehören."
+      }
+    ],
+    "forTitle": "Für wen wir Grund- und Umzugsreinigungen übernehmen",
+    "for": [
+      "Mieter beim Auszug oder Einzug",
+      "Vermieter vor der Neuvermietung",
+      "Eigentümer vor dem Hausverkauf",
+      "Makler vor Besichtigungen",
+      "Hausverwaltungen beim Mieterwechsel",
+      "Familien nach einer Haushaltsauflösung"
+    ],
+    "steps": [
+      {
+        "t": "Besichtigung",
+        "d": "Wir sehen uns Wohnung oder Haus an, gern auch vorab per Fotos oder Video, und klären den Übergabetermin."
+      },
+      {
+        "t": "Festpreis",
+        "d": "Sie erhalten einen schriftlichen Festpreis mit einer klaren Liste aller vereinbarten Leistungen."
+      },
+      {
+        "t": "Reinigung",
+        "d": "Unser Team reinigt die leeren Räume von oben nach unten, meist in den Tagen zwischen Auszug und Übergabe."
+      },
+      {
+        "t": "Abnahme",
+        "d": "Wir gehen die Räume mit Ihnen ab und bessern sofort nach, falls Ihnen noch etwas auffällt."
+      }
+    ],
+    "priceTitle": "Was kostet eine Grund- oder Umzugsreinigung?",
+    "priceIntro": "Der Preis richtet sich nach Größe, Zustand und gewünschtem Umfang. Nach der Besichtigung erhalten Sie einen schriftlichen Festpreis.",
+    "priceFactors": [
+      {
+        "t": "Wohnfläche und Räume",
+        "d": "Quadratmeter, Zimmerzahl und Anzahl der Bäder bestimmen den Zeitaufwand am stärksten."
+      },
+      {
+        "t": "Zustand der Räume",
+        "d": "Starke Kalk- und Fettablagerungen oder langjähriger Schmutz brauchen mehr Zeit als eine gepflegte Wohnung."
+      },
+      {
+        "t": "Küche und Fenster",
+        "d": "Ein stark verschmutzter Backofen, viele Fenster oder Rollläden erhöhen den Aufwand spürbar."
+      },
+      {
+        "t": "Leere oder möblierte Räume",
+        "d": "In leeren Räumen arbeiten wir schneller als zwischen Möbeln und Umzugskartons."
+      }
+    ],
+    "priceNote": "Wenn Sie die Rechnung per Überweisung bezahlen, können Sie als Privathaushalt einen Teil der Arbeitskosten nach § 35a EStG steuerlich geltend machen.",
+    "areaText": "Wir übernehmen Grund- und Umzugsreinigungen im gesamten Schwarzwald, unter anderem in Freiburg, Emmendingen, Waldkirch, Offenburg, Baden-Baden, Lörrach und Titisee-Neustadt.",
+    "faq": [
+      {
+        "q": "Was ist der Unterschied zwischen Grundreinigung und Umzugsreinigung?",
+        "a": "Die Grundreinigung ist eine gründliche Reinigung aller Räume, auch in bewohnten Wohnungen. Die Umzugsreinigung ist eine Grundreinigung der leeren Wohnung direkt vor der Übergabe an den Vermieter oder vor dem Einzug."
+      },
+      {
+        "q": "Was passiert, wenn der Vermieter bei der Übergabe etwas beanstandet?",
+        "a": "Wir gehen die Wohnung vorher mit Ihnen ab. Fällt bei der Übergabe trotzdem ein Reinigungsmangel aus unserem vereinbarten Umfang auf, kommen wir nach Absprache zur Nachbesserung."
+      },
+      {
+        "q": "Wann sollte die Endreinigung bei Auszug stattfinden?",
+        "a": "Wenn alle Möbel und Kartons aus der Wohnung sind, idealerweise ein bis zwei Tage vor der Übergabe. Dann sind die Räume leer und alle Flächen frei zugänglich."
+      },
+      {
+        "q": "Kann ich die Kosten von der Steuer absetzen?",
+        "a": "Ja, als Privathaushalt nach § 35a EStG. Sie können 20 % der Arbeitskosten von Ihrer Steuerschuld abziehen, höchstens 4.000 Euro im Jahr. Voraussetzung sind eine Rechnung und die Zahlung per Überweisung."
+      },
+      {
+        "q": "Brauchen Sie Wasser und Strom vor Ort?",
+        "a": "Ja. Reinigungsmittel und Geräte bringen wir mit, Wasser und Strom sollten in der Wohnung aber noch angeschlossen sein."
+      },
+      {
+        "q": "Reinigen Sie auch Teppiche und Polstermöbel?",
+        "a": "Ja, auf Wunsch reinigen wir Teppichböden und Polster im Sprühextraktionsverfahren. Das kombinieren wir gern mit der Grundreinigung, etwa vor einer Neuvermietung."
+      }
+    ]
+  },
+  "en": {
+    "name": "Deep cleaning",
+    "h1": "Deep and move-out cleaning in the Black Forest",
+    "metaTitle": "Deep and move-out cleaning in the Black Forest | EFK",
+    "metaDesc": "Deep cleaning and end-of-tenancy cleaning in the Black Forest: kitchen, bathroom, windows and floors cleaned thoroughly for the handover. Free site visit.",
+    "lead": "We give flats and houses a thorough one-off clean before you move in, after you move out or after a renovation, so you can face the handover with your landlord with confidence.",
+    "usps": [
+      "Ready on the agreed handover date",
+      "Oven and fridge included",
+      "Free on-site visit",
+      "Tax-deductible under § 35a EStG"
+    ],
+    "introTitle": "Why professional deep cleaning pays off",
+    "intro": [
+      "At the handover landlords look closely: limescale on taps, grease in the oven, dust on door frames and dirt in window corners stand out immediately. After a move, few people have the time or energy to scrub the old flat themselves. If defects remain, there may be arguments about the deposit or a second handover appointment.",
+      "Our teams work room by room to a fixed checklist: the kitchen with all appliances and the insides of cupboards, the bathroom including descaling, windows and frames, floors, doors, switches and skirting boards. We bring our own products and equipment. At the end we walk through the rooms with you, so you can be sure nothing has been missed.",
+      "Whether a rented flat in Freiburg, a house in Emmendingen before sale or a renovated period flat in Baden-Baden, we adapt the scope to your property. Under § 35a EStG, the German tax rule for household services, private households can deduct 20% of the labour costs from their income tax, up to 4,000 euros a year, provided they pay the invoice by bank transfer."
+    ],
+    "scopeTitle": "What we cover",
+    "scope": [
+      {
+        "t": "Kitchen and appliances",
+        "d": "Degreasing and cleaning the oven, hob, cooker hood, fridge and dishwasher inside and out."
+      },
+      {
+        "t": "Cupboards inside",
+        "d": "All kitchen and fitted cupboards wiped inside and out, including drawers, handles and tops."
+      },
+      {
+        "t": "Bathroom and descaling",
+        "d": "Tiles, grout, taps, shower, bath, toilet and mirror cleaned thoroughly and descaled."
+      },
+      {
+        "t": "Windows and frames",
+        "d": "Glass inside and out, frames, seals and sills, and on request roller shutters and balcony doors."
+      },
+      {
+        "t": "All types of floor",
+        "d": "Vacuuming and wet cleaning of tiles, laminate, parquet and vinyl, suited to the material and leaving no residue."
+      },
+      {
+        "t": "Doors, switches, skirting",
+        "d": "Damp wiping of doors, frames, light switches, sockets, radiators and skirting boards in every room."
+      },
+      {
+        "t": "After renovation",
+        "d": "Removing dust, paint splashes and adhesive residue left behind after decorating or minor building work."
+      },
+      {
+        "t": "Cellar, balcony, extras",
+        "d": "On request we also clean the cellar, loft, balcony, terrace and garage where they are part of the handover."
+      }
+    ],
+    "forTitle": "Who we provide deep and move-out cleaning for",
+    "for": [
+      "Tenants moving in or out",
+      "Landlords before re-letting",
+      "Owners before selling a house",
+      "Estate agents before viewings",
+      "Property managers between tenancies",
+      "Families after a house clearance"
+    ],
+    "steps": [
+      {
+        "t": "Site visit",
+        "d": "We look at the flat or house, or at photos and a video beforehand if you prefer, and confirm the handover date."
+      },
+      {
+        "t": "Fixed price",
+        "d": "You receive a written fixed price with a clear list of everything included."
+      },
+      {
+        "t": "Cleaning",
+        "d": "Our team cleans the empty rooms from top to bottom, usually in the days between move-out and handover."
+      },
+      {
+        "t": "Walk-through",
+        "d": "We walk through the rooms with you and touch up straight away if you spot anything."
+      }
+    ],
+    "priceTitle": "How much does deep or move-out cleaning cost?",
+    "priceIntro": "The price depends on size, condition and the scope you need. After the site visit you receive a written fixed price.",
+    "priceFactors": [
+      {
+        "t": "Floor area and rooms",
+        "d": "Square metres, number of rooms and number of bathrooms have the biggest effect on the time needed."
+      },
+      {
+        "t": "Condition of the rooms",
+        "d": "Heavy limescale, grease build-up or years of dirt take longer than a well-kept flat."
+      },
+      {
+        "t": "Kitchen and windows",
+        "d": "A heavily soiled oven, many windows or roller shutters noticeably increase the work."
+      },
+      {
+        "t": "Empty or furnished rooms",
+        "d": "We work faster in empty rooms than between furniture and moving boxes."
+      }
+    ],
+    "priceNote": "If you pay the invoice by bank transfer, you can claim part of the labour costs as a private household under § 35a EStG.",
+    "areaText": "We provide deep and move-out cleaning across the Black Forest, including Freiburg, Emmendingen, Waldkirch, Offenburg, Baden-Baden, Lörrach and Titisee-Neustadt.",
+    "faq": [
+      {
+        "q": "What is the difference between deep cleaning and move-out cleaning?",
+        "a": "Deep cleaning is a thorough clean of every room and can also be done in a lived-in home. Move-out cleaning, also called end-of-tenancy cleaning, is a deep clean of the empty flat just before it is handed back to the landlord. The same applies before you move in."
+      },
+      {
+        "q": "What happens if the landlord finds something at the handover?",
+        "a": "We walk through the flat with you beforehand. If a cleaning defect within our agreed scope is still found at the handover, we come back by arrangement and put it right."
+      },
+      {
+        "q": "When should the move-out clean take place?",
+        "a": "Once all furniture and boxes are out, ideally one or two days before the handover. The rooms are then empty and every surface is easy to reach."
+      },
+      {
+        "q": "Can I deduct the costs from my tax?",
+        "a": "Yes, as a private household under § 35a EStG. You can deduct 20% of the labour costs from your income tax, up to 4,000 euros a year. You need an invoice and must pay by bank transfer."
+      },
+      {
+        "q": "Do you need water and electricity on site?",
+        "a": "Yes. We bring our own products and equipment, but water and electricity should still be connected in the flat."
+      },
+      {
+        "q": "Do you also clean carpets and upholstery?",
+        "a": "Yes, on request we clean fitted carpets and upholstery using spray extraction. We are happy to combine this with the deep clean, for example before re-letting."
+      }
+    ]
+  },
+  "tr": {
+    "name": "Detaylı temizlik",
+    "h1": "Kara Orman'da detaylı ve taşınma temizliği",
+    "metaTitle": "Kara Orman'da Detaylı ve Taşınma Temizliği | EFK",
+    "metaDesc": "Kara Orman'da detaylı temizlik ve taşınma temizliği: mutfak, banyo, pencereler ve zeminler ev teslimi için baştan sona temiz. Ücretsiz yerinde keşif.",
+    "lead": "Daireleri ve evleri taşınmadan önce, taşındıktan sonra veya tadilattan sonra tek seferlik ve detaylı olarak temizliyoruz. Böylece ev sahibiyle yapılacak teslime (Wohnungsübergabe) gönül rahatlığıyla gidersiniz.",
+    "usps": [
+      "Kararlaştırılan teslim tarihine hazır",
+      "Fırın ve buzdolabı dahil",
+      "Ücretsiz yerinde keşif",
+      "§ 35a EStG ile vergiden düşülebilir"
+    ],
+    "introTitle": "Profesyonel detaylı temizliğin avantajları",
+    "intro": [
+      "Ev tesliminde ev sahibi her yere dikkatle bakar: armatürlerdeki kireç, fırındaki yağ, kapı kasalarındaki toz ve pencere köşelerindeki kir hemen göze çarpar. Taşınmanın ardından eski evi kendiniz temizlemeye çoğu zaman ne vaktiniz ne de gücünüz kalır. Eksikler kalırsa depozito (Kaution) konusunda tartışmalar veya ikinci bir teslim randevusu gündeme gelebilir.",
+      "Ekiplerimiz sabit bir kontrol listesiyle oda oda çalışır: tüm cihazları ve dolap içleriyle birlikte mutfak, kireç çözme dahil banyo, çerçeveleriyle pencereler, zeminler, kapılar, prizler, düğmeler ve süpürgelikler. Temizlik malzemelerini ve ekipmanı kendimiz getiririz. Sonunda odaları sizinle birlikte dolaşır, hiçbir şeyin gözden kaçmadığından emin olmanızı sağlarız.",
+      "Freiburg'da kiralık bir daire, Emmendingen'de satış öncesi bir ev ya da Baden-Baden'de tadilatı biten bir daire olsun, kapsamı evinize göre belirleriz. § 35a EStG'ye (Alman Gelir Vergisi Kanunu) göre özel haneler, işçilik masraflarının %20'sini, yılda en fazla 4.000 Euro olmak üzere, gelir vergisinden düşebilir; bunun için fatura ve banka havalesiyle ödeme gerekir."
+    ],
+    "scopeTitle": "Hizmet kapsamımız",
+    "scope": [
+      {
+        "t": "Mutfak ve cihazlar",
+        "d": "Fırın, ocak, aspiratör, buzdolabı ve bulaşık makinesinin içten ve dıştan yağının alınıp temizlenmesi."
+      },
+      {
+        "t": "Dolapların içi",
+        "d": "Tüm mutfak ve gömme dolapların çekmeceler, kulplar ve üst yüzeyler dahil içten ve dıştan silinmesi."
+      },
+      {
+        "t": "Banyo ve kireç çözme",
+        "d": "Fayansların, derzlerin, armatürlerin, duş, küvet, klozet ve aynanın detaylı temizlenmesi ve kireçten arındırılması."
+      },
+      {
+        "t": "Pencere ve çerçeveler",
+        "d": "Camların içten ve dıştan, çerçevelerin, contaların ve denizliklerin, isteğe bağlı olarak panjur ve balkon kapılarının temizlenmesi."
+      },
+      {
+        "t": "Her tür zemin",
+        "d": "Fayans, laminat, parke ve vinil zeminlerin malzemeye uygun şekilde ve iz bırakmadan süpürülüp ıslak silinmesi."
+      },
+      {
+        "t": "Kapı, priz, süpürgelik",
+        "d": "Tüm odalarda kapıların, kasaların, ışık düğmelerinin, prizlerin, peteklerin ve süpürgeliklerin nemli bezle silinmesi."
+      },
+      {
+        "t": "Tadilat sonrası",
+        "d": "Boya veya küçük tadilat işlerinden sonra kalan tozun, boya lekelerinin ve yapıştırıcı kalıntılarının giderilmesi."
+      },
+      {
+        "t": "Bodrum, balkon, ek alanlar",
+        "d": "İsteğe bağlı olarak, teslime dahil olan bodrumu, çatı arasını, balkonu, terası ve garajı da temizliyoruz."
+      }
+    ],
+    "forTitle": "Kimler için detaylı ve taşınma temizliği yapıyoruz",
+    "for": [
+      "Taşınan veya yeni taşınan kiracılar",
+      "Yeniden kiraya vermeden önce ev sahipleri",
+      "Evini satmadan önce mülk sahipleri",
+      "Gösterim öncesi emlakçılar",
+      "Kiracı değişiminde bina yönetimleri",
+      "Ev boşaltma sonrası aileler"
+    ],
+    "steps": [
+      {
+        "t": "Keşif",
+        "d": "Daireyi veya evi yerinde inceler, isterseniz önceden fotoğraf veya video üzerinden de bakar ve teslim tarihini netleştiririz."
+      },
+      {
+        "t": "Sabit fiyat",
+        "d": "Tüm hizmetlerin açıkça listelendiği yazılı bir sabit fiyat teklifi alırsınız."
+      },
+      {
+        "t": "Temizlik",
+        "d": "Ekibimiz boş odaları yukarıdan aşağıya temizler, genellikle taşınma ile teslim arasındaki günlerde."
+      },
+      {
+        "t": "Kontrol",
+        "d": "Odaları sizinle birlikte dolaşır, gözünüze takılan bir şey olursa hemen düzeltiriz."
+      }
+    ],
+    "priceTitle": "Detaylı veya taşınma temizliği ne kadar tutar?",
+    "priceIntro": "Fiyat, evin büyüklüğüne, durumuna ve istediğiniz kapsama göre belirlenir. Yerinde keşiften sonra yazılı bir sabit fiyat alırsınız.",
+    "priceFactors": [
+      {
+        "t": "Alan ve oda sayısı",
+        "d": "Metrekare, oda sayısı ve banyo sayısı gereken süreyi en çok etkileyen unsurlardır."
+      },
+      {
+        "t": "Odaların durumu",
+        "d": "Yoğun kireç, yağ birikintisi veya yıllanmış kir, bakımlı bir daireye göre daha fazla zaman alır."
+      },
+      {
+        "t": "Mutfak ve pencereler",
+        "d": "Çok kirli bir fırın, çok sayıda pencere veya panjur iş yükünü belirgin şekilde artırır."
+      },
+      {
+        "t": "Boş veya eşyalı",
+        "d": "Boş odalarda, mobilya ve taşınma kolileri arasında olduğundan daha hızlı çalışırız."
+      }
+    ],
+    "priceNote": "Faturayı banka havalesiyle öderseniz, özel hane olarak işçilik masraflarının bir kısmını § 35a EStG'ye göre vergiden düşebilirsiniz.",
+    "areaText": "Kara Orman'ın tamamında, başta Freiburg, Emmendingen, Waldkirch, Offenburg, Baden-Baden, Lörrach ve Titisee-Neustadt olmak üzere detaylı ve taşınma temizliği yapıyoruz.",
+    "faq": [
+      {
+        "q": "Detaylı temizlik ile taşınma temizliği arasındaki fark nedir?",
+        "a": "Detaylı temizlik, tüm odaların baştan sona temizlenmesidir ve içinde yaşanan bir evde de yapılabilir. Taşınma temizliği ise boş dairenin, ev sahibine teslimden veya yeni taşınmadan hemen önce yapılan detaylı temizliğidir."
+      },
+      {
+        "q": "Ev sahibi teslimde bir eksik bulursa ne olur?",
+        "a": "Daireyi teslimden önce sizinle birlikte kontrol ederiz. Teslimde yine de anlaştığımız kapsama giren bir temizlik eksiği çıkarsa, randevulaşarak gelir ve düzeltiriz."
+      },
+      {
+        "q": "Taşınma temizliği ne zaman yapılmalı?",
+        "a": "Tüm mobilyalar ve koliler çıkarıldıktan sonra, ideal olarak teslimden bir iki gün önce. O zaman odalar boştur ve tüm yüzeylere rahatça ulaşılır."
+      },
+      {
+        "q": "Masrafları vergiden düşebilir miyim?",
+        "a": "Evet, özel hane olarak § 35a EStG'ye göre düşebilirsiniz. İşçilik masraflarının %20'sini, yılda en fazla 4.000 Euro olmak üzere, gelir vergisinden düşersiniz. Bunun için fatura ve banka havalesiyle ödeme gerekir."
+      },
+      {
+        "q": "Yerinde su ve elektrik gerekiyor mu?",
+        "a": "Evet. Temizlik malzemelerini ve ekipmanı biz getiririz, ancak dairede su ve elektriğin hâlâ bağlı olması gerekir."
+      },
+      {
+        "q": "Halı ve döşemeli mobilyaları da temizliyor musunuz?",
+        "a": "Evet, isteğe bağlı olarak duvardan duvara halıları ve döşemeleri püskürtme ve emme yöntemiyle (Sprühextraktion) temizliyoruz. Bunu, örneğin yeniden kiraya vermeden önce, detaylı temizlikle birleştirebiliriz."
+      }
+    ]
+  }
+}

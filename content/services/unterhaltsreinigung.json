@@ -1,0 +1,397 @@
+{
+  "slug": "unterhaltsreinigung",
+  "group": "laufend",
+  "img": "ofis.jpg",
+  "related": [
+    "glasreinigung",
+    "bodenpflege",
+    "treppenhausreinigung"
+  ],
+  "de": {
+    "name": "Unterhaltsreinigung",
+    "h1": "Unterhaltsreinigung im Schwarzwald",
+    "metaTitle": "Unterhaltsreinigung im Schwarzwald | EFK",
+    "metaDesc": "Büro- und Praxisreinigung im Schwarzwald nach festem Reinigungsplan: täglich oder wöchentlich, außerhalb Ihrer Geschäftszeiten und mit festem Team.",
+    "lead": "Wir halten Büros, Praxen, Kanzleien und Ladenflächen dauerhaft sauber, nach einem festen Reinigungsplan und zu Zeiten, in denen Ihr Betrieb nicht gestört wird.",
+    "usps": [
+      "Fester Reinigungsplan oder Leistungsverzeichnis",
+      "Feste Teams, fester Ansprechpartner",
+      "Außerhalb Ihrer Geschäftszeiten",
+      "Regelmäßige Qualitätskontrollen vor Ort"
+    ],
+    "introTitle": "Warum sich eine feste Unterhaltsreinigung lohnt",
+    "intro": [
+      "Kunden, Patienten und Mandanten bilden sich in wenigen Sekunden ein Urteil. Staub auf dem Empfangstresen, volle Papierkörbe oder ein ungepflegtes WC fallen sofort auf. Für Ihre Mitarbeiter ist ein sauberer Arbeitsplatz ebenso wichtig, denn in Küchen, an Türklinken und auf Tastaturen sammeln sich Keime, die im Alltag schnell übersehen werden.",
+      "Deshalb legen wir gemeinsam mit Ihnen einen Reinigungsplan oder ein Leistungsverzeichnis fest: welche Räume, welche Arbeiten, in welchem Turnus. Sanitärräume reinigen wir mit getrennten, farblich gekennzeichneten Tüchern, damit keine Keime verschleppt werden. Ein festes Team kennt Ihre Räume, Ihre Wünsche und Ihre Schließregeln und arbeitet jedes Mal nach demselben Ablauf.",
+      "Ob Arztpraxis in Freiburg, Steuerkanzlei in Offenburg oder Ladengeschäft in Lahr: Wir reinigen früh morgens, abends oder am Wochenende, also dann, wenn Ihr Betrieb ruht. Die Schlüsselübergabe halten wir schriftlich fest, und regelmäßige Kontrollen sorgen dafür, dass die Qualität auch nach Monaten noch stimmt."
+    ],
+    "scopeTitle": "Unser Leistungsumfang",
+    "scope": [
+      {
+        "t": "Arbeitsplätze und Büros",
+        "d": "Schreibtische, Ablagen, Fensterbänke und Telefone feucht abwischen und Papierkörbe täglich oder im vereinbarten Turnus leeren."
+      },
+      {
+        "t": "Sanitärräume und WCs",
+        "d": "WCs, Urinale, Waschbecken und Armaturen reinigen und bei Bedarf desinfizieren, mit getrennten Tüchern für jeden Bereich."
+      },
+      {
+        "t": "Teeküchen und Sozialräume",
+        "d": "Arbeitsflächen, Spülen, Kühlschrankfronten und Kaffeemaschinen reinigen, Geschirrspüler nach Absprache ein- und ausräumen."
+      },
+      {
+        "t": "Praxis- und Behandlungsräume",
+        "d": "Böden, Ablagen und Kontaktflächen in Wartezimmer und Behandlungsräumen nach Ihrem Hygieneplan reinigen."
+      },
+      {
+        "t": "Empfang und Eingangsbereich",
+        "d": "Tresen, Glastüren, Fußmatten und Sitzbereiche so pflegen, dass der erste Eindruck bei jedem Besuch stimmt."
+      },
+      {
+        "t": "Abfall und Mülltrennung",
+        "d": "Papier, Verpackungen, Bioabfall und Restmüll getrennt sammeln und zu den vorgesehenen Behältern bringen."
+      },
+      {
+        "t": "Verbrauchsmaterial auffüllen",
+        "d": "Seife, Papierhandtücher und Toilettenpapier nachfüllen und den Vorrat im Blick behalten, damit nichts ausgeht."
+      },
+      {
+        "t": "Böden aller Art",
+        "d": "Teppichböden saugen, Hartböden wie Linoleum, Fliesen oder Parkett materialgerecht nebelfeucht oder nass wischen."
+      }
+    ],
+    "forTitle": "Für wen wir die Unterhaltsreinigung übernehmen",
+    "for": [
+      "Büros und Verwaltungen",
+      "Arzt- und Zahnarztpraxen",
+      "Therapie- und Physiotherapiepraxen",
+      "Anwalts- und Steuerkanzleien",
+      "Einzelhandel und Ladengeschäfte",
+      "Agenturen und Schulungsräume"
+    ],
+    "steps": [
+      {
+        "t": "Besichtigung",
+        "d": "Wir sehen uns Ihre Räume an und klären Flächen, Nutzung, Öffnungszeiten und besondere Hygieneanforderungen."
+      },
+      {
+        "t": "Reinigungsplan",
+        "d": "Sie erhalten ein Leistungsverzeichnis mit Turnus und Uhrzeiten sowie ein schriftliches Angebot mit Festpreis oder Stundensatz."
+      },
+      {
+        "t": "Einsatz",
+        "d": "Ihr festes Team beginnt nach dokumentierter Schlüsselübergabe und arbeitet jedes Mal nach demselben Plan."
+      },
+      {
+        "t": "Kontrolle",
+        "d": "Wir prüfen die Qualität regelmäßig vor Ort und passen den Plan an, wenn sich Ihr Bedarf ändert."
+      }
+    ],
+    "priceTitle": "Was kostet eine Unterhaltsreinigung?",
+    "priceIntro": "Die Kosten hängen von Fläche, Turnus und Leistungsumfang ab. Nach der Besichtigung erhalten Sie ein schriftliches Angebot mit Festpreis oder Stundensatz.",
+    "priceFactors": [
+      {
+        "t": "Fläche und Raumart",
+        "d": "Büroflächen sind schneller gereinigt als Sanitärräume, Küchen oder Praxisräume mit hohen Hygieneanforderungen."
+      },
+      {
+        "t": "Turnus und Häufigkeit",
+        "d": "Eine tägliche Reinigung verteilt den Aufwand anders als ein wöchentlicher oder zweiwöchentlicher Rhythmus."
+      },
+      {
+        "t": "Umfang der Leistungen",
+        "d": "Zusatzarbeiten wie Geschirrspüler, Verbrauchsmaterial oder Glastüren verlängern die Einsatzzeit pro Termin."
+      },
+      {
+        "t": "Zeitfenster und Zugang",
+        "d": "Einsätze am frühen Morgen, abends oder am Wochenende sowie die Erreichbarkeit der Räume fließen in die Kalkulation ein."
+      }
+    ],
+    "priceNote": "Wenn sich Ihr Bedarf ändert, passen wir Leistungsverzeichnis und Angebot unkompliziert an.",
+    "areaText": "Wir übernehmen die Unterhaltsreinigung im gesamten Schwarzwald, unter anderem in Freiburg, Offenburg, Lahr, Emmendingen, Kehl, Waldkirch und Lörrach.",
+    "faq": [
+      {
+        "q": "Was ist der Unterschied zwischen Unterhaltsreinigung und Grundreinigung?",
+        "a": "Die Unterhaltsreinigung ist die laufende, regelmäßige Reinigung nach festem Plan. Die Grundreinigung ist eine intensive Reinigung in größeren Abständen, bei der auch hartnäckige Verschmutzungen und alte Pflegefilme entfernt werden."
+      },
+      {
+        "q": "Wie oft sollte gereinigt werden?",
+        "a": "Das hängt von Nutzung und Besucherverkehr ab. Sanitärräume und Praxen reinigen wir meist täglich, ruhigere Büroflächen oft zwei- bis dreimal pro Woche."
+      },
+      {
+        "q": "Reinigen Sie auch außerhalb unserer Öffnungszeiten?",
+        "a": "Ja. Wir arbeiten früh morgens, abends oder am Wochenende, damit Ihr Betrieb nicht gestört wird."
+      },
+      {
+        "q": "Wie wird die Schlüsselübergabe geregelt?",
+        "a": "Die Übergabe von Schlüsseln oder Transpondern dokumentieren wir schriftlich. Nur das zuständige Team hat Zugang, und Sie wissen jederzeit, wer bei Ihnen reinigt."
+      },
+      {
+        "q": "Haben wir immer dasselbe Reinigungsteam?",
+        "a": "Ja, wir setzen feste Teams ein. Ihr Team kennt Ihre Räume und Abläufe, und bei Urlaub oder Krankheit übernimmt eine eingewiesene Vertretung."
+      },
+      {
+        "q": "Bringen Sie Reinigungsmittel und Geräte mit?",
+        "a": "Ja. Wir arbeiten mit eigenen Geräten und Reinigungsmitteln. Verbrauchsmaterial wie Seife und Papierhandtücher füllen wir nach Absprache nach."
+      }
+    ]
+  },
+  "en": {
+    "name": "Regular office cleaning",
+    "h1": "Regular office cleaning in the Black Forest",
+    "metaTitle": "Regular office cleaning in the Black Forest | EFK",
+    "metaDesc": "Office and practice cleaning in the Black Forest to a fixed cleaning schedule: daily or weekly, outside your opening hours and with a regular team.",
+    "lead": "We keep offices, medical practices, law firms and shops clean on an ongoing basis, to a fixed cleaning schedule and at times that do not disrupt your business.",
+    "usps": [
+      "Fixed schedule or service specification",
+      "Regular team, one contact person",
+      "Outside your business hours",
+      "Regular on-site quality checks"
+    ],
+    "introTitle": "Why regular maintenance cleaning pays off",
+    "intro": [
+      "Customers, patients and clients form an opinion within seconds. Dust on the reception desk, overflowing bins or a neglected toilet are noticed straight away. A clean workplace matters just as much to your staff, because germs collect in kitchens, on door handles and on keyboards and are easily overlooked in day-to-day work.",
+      "That is why we agree a cleaning schedule or a written service specification with you: which rooms, which tasks and how often. We clean sanitary areas with separate, colour-coded cloths so that germs are not carried from one area to another. A regular team gets to know your premises, preferences and locking-up rules and works to the same plan every time.",
+      "Whether it is a medical practice in Freiburg, a tax adviser's office in Offenburg or a shop in Lahr, we clean early in the morning, in the evening or at weekends, when your business is closed. We document the key handover in writing, and regular checks make sure the quality is still right months later."
+    ],
+    "scopeTitle": "What we cover",
+    "scope": [
+      {
+        "t": "Desks and offices",
+        "d": "Damp-wiping desks, shelves, window sills and telephones and emptying bins daily or at the agreed interval."
+      },
+      {
+        "t": "Toilets and washrooms",
+        "d": "Cleaning toilets, urinals, basins and taps and disinfecting where needed, with separate cloths for each area."
+      },
+      {
+        "t": "Kitchenettes and staff rooms",
+        "d": "Cleaning worktops, sinks, fridge fronts and coffee machines, and loading or emptying the dishwasher if agreed."
+      },
+      {
+        "t": "Practice and treatment rooms",
+        "d": "Cleaning floors, surfaces and touch points in waiting and treatment rooms according to your hygiene plan."
+      },
+      {
+        "t": "Reception and entrance",
+        "d": "Looking after the desk, glass doors, mats and seating so that every visitor gets the right first impression."
+      },
+      {
+        "t": "Waste and recycling",
+        "d": "Collecting paper, packaging, organic waste and general waste separately and taking it to the right bins."
+      },
+      {
+        "t": "Restocking consumables",
+        "d": "Refilling soap, paper towels and toilet paper and keeping an eye on stock so that nothing runs out."
+      },
+      {
+        "t": "All types of flooring",
+        "d": "Vacuuming carpets and damp or wet mopping hard floors such as linoleum, tiles or parquet, as the material requires."
+      }
+    ],
+    "forTitle": "Who we provide regular cleaning for",
+    "for": [
+      "Offices and administration",
+      "Medical and dental practices",
+      "Therapy and physiotherapy practices",
+      "Law firms and tax advisers",
+      "Retail and shops",
+      "Agencies and training rooms"
+    ],
+    "steps": [
+      {
+        "t": "Site visit",
+        "d": "We look at your premises and clarify floor areas, use, opening hours and any special hygiene requirements."
+      },
+      {
+        "t": "Cleaning plan",
+        "d": "You receive a service specification with intervals and times, plus a written quote with a fixed price or hourly rate."
+      },
+      {
+        "t": "Start",
+        "d": "Your regular team starts after a documented key handover and follows the same plan every time."
+      },
+      {
+        "t": "Quality check",
+        "d": "We check the quality on site regularly and adjust the plan when your needs change."
+      }
+    ],
+    "priceTitle": "How much does regular office cleaning cost?",
+    "priceIntro": "The cost depends on floor area, frequency and the scope of work. After the site visit you receive a written quote with a fixed price or hourly rate.",
+    "priceFactors": [
+      {
+        "t": "Area and room type",
+        "d": "Office space is quicker to clean than washrooms, kitchens or practice rooms with strict hygiene requirements."
+      },
+      {
+        "t": "Cleaning frequency",
+        "d": "Daily cleaning spreads the work differently from a weekly or fortnightly schedule."
+      },
+      {
+        "t": "Scope of services",
+        "d": "Extra tasks such as the dishwasher, consumables or glass doors add time to each visit."
+      },
+      {
+        "t": "Time slot and access",
+        "d": "Early morning, evening or weekend visits and how easily the rooms can be reached are factored into the calculation."
+      }
+    ],
+    "priceNote": "If your needs change, we adjust the service specification and the quote without fuss.",
+    "areaText": "We provide regular office cleaning across the Black Forest, including Freiburg, Offenburg, Lahr, Emmendingen, Kehl, Waldkirch and Lörrach.",
+    "faq": [
+      {
+        "q": "What is the difference between maintenance cleaning and deep cleaning?",
+        "a": "Maintenance cleaning is the ongoing, regular cleaning to a fixed schedule. Deep cleaning (Grundreinigung) is an intensive clean at longer intervals that also removes stubborn dirt and old layers of floor polish."
+      },
+      {
+        "q": "How often should cleaning take place?",
+        "a": "That depends on how the rooms are used and how many visitors you have. We usually clean washrooms and medical practices daily, quieter office areas often two or three times a week."
+      },
+      {
+        "q": "Do you clean outside our opening hours?",
+        "a": "Yes. We work early in the morning, in the evening or at weekends so that your business is not disrupted."
+      },
+      {
+        "q": "How is the key handover handled?",
+        "a": "We document the handover of keys or transponders in writing. Only the assigned team has access, and you always know who is cleaning your premises."
+      },
+      {
+        "q": "Will we always have the same cleaning team?",
+        "a": "Yes, we work with regular teams. Your team knows your rooms and routines, and if someone is on holiday or off sick, a briefed stand-in takes over."
+      },
+      {
+        "q": "Do you bring your own cleaning products and equipment?",
+        "a": "Yes. We work with our own equipment and products. We refill consumables such as soap and paper towels as agreed."
+      }
+    ]
+  },
+  "tr": {
+    "name": "Düzenli ofis temizliği",
+    "h1": "Kara Orman'da düzenli ofis temizliği",
+    "metaTitle": "Kara Orman'da düzenli ofis temizliği | EFK",
+    "metaDesc": "Kara Orman'da sabit temizlik planıyla ofis ve muayenehane temizliği: günlük veya haftalık, çalışma saatleriniz dışında ve sabit ekiple.",
+    "lead": "Ofisleri, muayenehaneleri, hukuk bürolarını ve mağazaları sabit bir temizlik planıyla, işinizi aksatmayacak saatlerde sürekli temiz tutuyoruz.",
+    "usps": [
+      "Sabit plan veya hizmet listesi",
+      "Sabit ekip, sabit muhatap",
+      "Çalışma saatleriniz dışında",
+      "Yerinde düzenli kalite kontrolü"
+    ],
+    "introTitle": "Düzenli bakım temizliği neden önemli?",
+    "intro": [
+      "Müşteriler, hastalar ve müvekkiller birkaç saniye içinde fikir edinir. Resepsiyon bankosundaki toz, dolmuş çöp kutuları ya da bakımsız bir tuvalet hemen göze çarpar. Temiz bir çalışma ortamı çalışanlarınız için de aynı derecede önemlidir, çünkü mutfaklarda, kapı kollarında ve klavyelerde günlük koşuşturmada kolayca gözden kaçan mikroplar birikir.",
+      "Bu yüzden sizinle birlikte bir temizlik planı veya hizmet listesi (Leistungsverzeichnis) belirliyoruz: hangi odalar, hangi işler, hangi sıklıkta. Mikropların bir alandan diğerine taşınmaması için tuvalet ve lavaboları ayrı, renk kodlu bezlerle temizliyoruz. Sabit bir ekip mekânınızı, isteklerinizi ve kapı kilitleme kurallarınızı tanır ve her seferinde aynı plana göre çalışır.",
+      "Freiburg'da bir muayenehane, Offenburg'da bir mali müşavirlik bürosu ya da Lahr'da bir mağaza olsun, işletmeniz kapalıyken, yani sabah erken saatlerde, akşamları veya hafta sonları temizlik yapıyoruz. Anahtar teslimini yazılı olarak kayıt altına alıyor, düzenli kontrollerle kalitenin aylar sonra da yerinde olmasını sağlıyoruz."
+    ],
+    "scopeTitle": "Hizmet kapsamımız",
+    "scope": [
+      {
+        "t": "Masalar ve ofisler",
+        "d": "Masaların, rafların, pencere önlerinin ve telefonların nemli silinmesi, çöp kutularının her gün veya kararlaştırılan aralıklarla boşaltılması."
+      },
+      {
+        "t": "Tuvalet ve lavabolar",
+        "d": "Klozet, pisuvar, lavabo ve armatürlerin temizlenmesi ve gerektiğinde dezenfekte edilmesi; her alan için ayrı bez kullanılır."
+      },
+      {
+        "t": "Mutfak ve dinlenme odaları",
+        "d": "Tezgâh, evye, buzdolabı kapakları ve kahve makinelerinin temizlenmesi, anlaşmaya göre bulaşık makinesinin doldurulup boşaltılması."
+      },
+      {
+        "t": "Muayene ve tedavi odaları",
+        "d": "Bekleme ve tedavi odalarındaki zeminlerin, yüzeylerin ve sık dokunulan noktaların hijyen planınıza göre temizlenmesi."
+      },
+      {
+        "t": "Resepsiyon ve giriş",
+        "d": "Banko, cam kapılar, paspaslar ve oturma alanlarının her ziyaretçide doğru ilk izlenimi bırakacak şekilde bakımı."
+      },
+      {
+        "t": "Atık ve geri dönüşüm",
+        "d": "Kâğıt, ambalaj, organik atık ve evsel atığın ayrı toplanıp ilgili konteynerlere götürülmesi."
+      },
+      {
+        "t": "Sarf malzemesi takviyesi",
+        "d": "Sabun, kâğıt havlu ve tuvalet kâğıdının doldurulması, hiçbir şeyin bitmemesi için stokun takip edilmesi."
+      },
+      {
+        "t": "Her tür zemin",
+        "d": "Halıların süpürülmesi, linolyum, fayans veya parke gibi sert zeminlerin malzemeye uygun şekilde nemli ya da ıslak silinmesi."
+      }
+    ],
+    "forTitle": "Kimler için düzenli temizlik yapıyoruz",
+    "for": [
+      "Ofisler ve idari birimler",
+      "Doktor ve diş hekimi muayenehaneleri",
+      "Terapi ve fizyoterapi merkezleri",
+      "Avukatlık ve mali müşavirlik büroları",
+      "Perakende ve mağazalar",
+      "Ajanslar ve eğitim salonları"
+    ],
+    "steps": [
+      {
+        "t": "Keşif",
+        "d": "Mekânınızı görüyor; alanları, kullanım şeklini, açılış saatlerini ve özel hijyen gereksinimlerini netleştiriyoruz."
+      },
+      {
+        "t": "Temizlik planı",
+        "d": "Sıklık ve saatleri içeren bir hizmet listesi ile sabit fiyatlı veya saat ücretli yazılı bir teklif alırsınız."
+      },
+      {
+        "t": "Başlangıç",
+        "d": "Sabit ekibiniz, belgelenmiş anahtar tesliminden sonra işe başlar ve her seferinde aynı plana göre çalışır."
+      },
+      {
+        "t": "Kontrol",
+        "d": "Kaliteyi düzenli olarak yerinde kontrol ediyor, ihtiyacınız değiştiğinde planı uyarlıyoruz."
+      }
+    ],
+    "priceTitle": "Düzenli ofis temizliği ne kadar tutar?",
+    "priceIntro": "Maliyet; alan, temizlik sıklığı ve hizmet kapsamına göre değişir. Keşiften sonra sabit fiyatlı veya saat ücretli yazılı bir teklif alırsınız.",
+    "priceFactors": [
+      {
+        "t": "Alan ve oda türü",
+        "d": "Ofis alanları, yüksek hijyen gereksinimi olan tuvalet, mutfak veya muayene odalarından daha hızlı temizlenir."
+      },
+      {
+        "t": "Temizlik sıklığı",
+        "d": "Günlük temizlik, iş yükünü haftalık veya iki haftalık bir düzenden farklı dağıtır."
+      },
+      {
+        "t": "Hizmet kapsamı",
+        "d": "Bulaşık makinesi, sarf malzemesi veya cam kapılar gibi ek işler her ziyaretteki süreyi uzatır."
+      },
+      {
+        "t": "Saat ve erişim",
+        "d": "Sabah erken, akşam veya hafta sonu yapılan işler ve odalara erişim kolaylığı hesaplamaya dahil edilir."
+      }
+    ],
+    "priceNote": "İhtiyacınız değişirse hizmet listesini ve teklifi kolayca uyarlıyoruz.",
+    "areaText": "Düzenli ofis temizliğini Kara Orman genelinde, aralarında Freiburg, Offenburg, Lahr, Emmendingen, Kehl, Waldkirch ve Lörrach'ın da bulunduğu birçok yerde yapıyoruz.",
+    "faq": [
+      {
+        "q": "Düzenli temizlik ile esaslı temizlik arasındaki fark nedir?",
+        "a": "Düzenli temizlik (Unterhaltsreinigung), sabit bir plana göre sürekli yapılan temizliktir. Esaslı temizlik (Grundreinigung) ise daha uzun aralıklarla yapılan ve inatçı kirleri ile eski bakım katmanlarını da gideren yoğun bir temizliktir."
+      },
+      {
+        "q": "Ne sıklıkla temizlik yapılmalı?",
+        "a": "Bu, mekânın kullanımına ve ziyaretçi yoğunluğuna bağlıdır. Tuvaletleri ve muayenehaneleri genellikle her gün, daha sakin ofis alanlarını ise çoğu zaman haftada iki ya da üç kez temizliyoruz."
+      },
+      {
+        "q": "Çalışma saatlerimiz dışında da temizlik yapıyor musunuz?",
+        "a": "Evet. İşleyişinizi aksatmamak için sabah erken saatlerde, akşamları veya hafta sonları çalışıyoruz."
+      },
+      {
+        "q": "Anahtar teslimi nasıl yapılıyor?",
+        "a": "Anahtar veya transponder teslimini yazılı olarak belgeliyoruz. Erişim yalnızca sorumlu ekipte olur ve mekânınızı kimin temizlediğini her zaman bilirsiniz."
+      },
+      {
+        "q": "Her zaman aynı ekip mi gelir?",
+        "a": "Evet, sabit ekiplerle çalışıyoruz. Ekibiniz mekânınızı ve işleyişinizi tanır; izin veya hastalık durumunda bilgilendirilmiş bir yedek görevli devralır."
+      },
+      {
+        "q": "Temizlik malzemelerini ve ekipmanı siz mi getiriyorsunuz?",
+        "a": "Evet. Kendi ekipmanımız ve temizlik ürünlerimizle çalışıyoruz. Sabun ve kâğıt havlu gibi sarf malzemelerini anlaşmaya göre dolduruyoruz."
+      }
+    ]
+  }
+}

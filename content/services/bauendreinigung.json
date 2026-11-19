@@ -1,0 +1,397 @@
+{
+  "slug": "bauendreinigung",
+  "group": "spezial",
+  "img": "insaat.jpg",
+  "related": [
+    "grundreinigung",
+    "glasreinigung",
+    "bodenpflege"
+  ],
+  "de": {
+    "name": "Bauendreinigung",
+    "h1": "Bauendreinigung im Schwarzwald",
+    "metaTitle": "Bauendreinigung im Schwarzwald | EFK",
+    "metaDesc": "Bauendreinigung und Bauzwischenreinigung im Schwarzwald: Baustaub, Farb- und Silikonreste entfernen, übergabefertig zur Abnahme. Kostenlose Besichtigung.",
+    "lead": "Nach Rohbau, Ausbau oder Renovierung machen wir Ihr Objekt übergabefertig: staubfrei, streifenfrei und pünktlich zum Abnahmetermin.",
+    "usps": [
+      "Termingerecht zur Abnahme",
+      "Grob-, Zwischen- und Feinreinigung",
+      "Abstimmung mit Bauleitung und Gewerken",
+      "Kostenlose Besichtigung vor Ort"
+    ],
+    "introTitle": "Warum sich eine professionelle Bauendreinigung lohnt",
+    "intro": [
+      "Auf jeder Baustelle bleibt mehr zurück, als man auf den ersten Blick sieht: feiner Gips- und Zementstaub in Fugen und Lüftungsgittern, Farbspritzer auf Fliesen, Silikonreste auf Glas und Schutzfolien an Fenstern und Türen. Wer hier mit Haushaltsmitteln arbeitet, verkratzt schnell neue Oberflächen.",
+      "Unsere Teams arbeiten mit Industriesaugern, Glasschabern, passenden Spezialreinigern und einem festen Ablauf von oben nach unten. So wird jede Fläche sauber, ohne dass Material oder Beschichtung Schaden nehmen. Empfindliche Beläge wie geöltes Parkett, Naturstein oder beschichtetes Glas behandeln wir nach Herstellerangaben.",
+      "Ob Einfamilienhaus in Offenburg, Wohnanlage in Freiburg oder Gewerbeeinheit in Villingen-Schwenningen: Wir planen die Reinigung passend zu Ihrem Bauzeitenplan und übergeben das Objekt so, dass Bauherr, Käufer oder Mieter sofort einziehen können. Auf Wunsch übernehmen wir auch die Zwischenreinigungen während der Bauphase."
+    ],
+    "scopeTitle": "Unser Leistungsumfang",
+    "scope": [
+      {
+        "t": "Grobreinigung",
+        "d": "Entfernen von Bauschutt, Verpackung und grobem Schmutz während oder direkt nach der Bauphase."
+      },
+      {
+        "t": "Bauzwischenreinigung",
+        "d": "Reinigung zwischen den Gewerken, damit Maler, Bodenleger und Elektriker auf sauberem Untergrund arbeiten."
+      },
+      {
+        "t": "Fenster und Rahmen",
+        "d": "Glasflächen, Rahmen, Falze und Fensterbänke, inklusive Entfernen von Folien, Etiketten und Silikonresten."
+      },
+      {
+        "t": "Böden und Treppen",
+        "d": "Saugen und Nassreinigung aller Beläge und Fliesenfugen, schonend für neues Parkett und Naturstein."
+      },
+      {
+        "t": "Sanitär und Küche",
+        "d": "Armaturen, Waschbecken, Duschen, WCs und Einbauküchen von Baustaub und Montageresten befreien."
+      },
+      {
+        "t": "Türen, Zargen, Heizkörper",
+        "d": "Feuchte Reinigung aller Türen, Zargen, Heizkörper, Schalter und Steckdosen."
+      },
+      {
+        "t": "Treppenhaus und Keller",
+        "d": "Gemeinschaftsflächen, Technik- und Kellerräume so, wie sie bei der Abnahme geprüft werden."
+      },
+      {
+        "t": "Entsorgung",
+        "d": "Abtransport von Folien, Kartonagen und Kleinmüll nach Absprache."
+      }
+    ],
+    "forTitle": "Für wen wir Bauendreinigungen übernehmen",
+    "for": [
+      "Bauträger und Projektentwickler",
+      "Architekturbüros und Bauleitung",
+      "Handwerksbetriebe und Generalunternehmer",
+      "Private Bauherren",
+      "Hausverwaltungen nach einer Sanierung",
+      "Gewerbebetriebe nach einem Umbau"
+    ],
+    "steps": [
+      {
+        "t": "Besichtigung",
+        "d": "Wir sehen uns Baustelle und Bauzeitenplan an und klären, welche Gewerke noch arbeiten."
+      },
+      {
+        "t": "Festpreis",
+        "d": "Sie erhalten einen Festpreis für Grob-, Zwischen- und Feinreinigung oder für einzelne Etappen."
+      },
+      {
+        "t": "Reinigung",
+        "d": "Unser Team reinigt in fester Reihenfolge von oben nach unten und von innen nach außen."
+      },
+      {
+        "t": "Übergabe",
+        "d": "Wir gehen das Objekt mit Ihnen ab, damit bei der Abnahme nichts mehr zu beanstanden ist."
+      }
+    ],
+    "priceTitle": "Was kostet eine Bauendreinigung?",
+    "priceIntro": "Der Preis richtet sich nach dem tatsächlichen Aufwand. Nach der Besichtigung erhalten Sie einen schriftlichen Festpreis.",
+    "priceFactors": [
+      {
+        "t": "Fläche und Raumzahl",
+        "d": "Quadratmeter und Anzahl der Fenster bestimmen den Zeitaufwand am stärksten."
+      },
+      {
+        "t": "Verschmutzungsgrad",
+        "d": "Feinstaub nach Trockenbau verlangt mehr Durchgänge als die Renovierung einzelner Räume."
+      },
+      {
+        "t": "Glas und Rückstände",
+        "d": "Viele Fenster, Folien und Silikonreste erhöhen den Aufwand für die Glasreinigung."
+      },
+      {
+        "t": "Termin und Zugang",
+        "d": "Kurzfristige Einsätze, Wochenendarbeit oder ein fehlender Aufzug fließen in die Kalkulation ein."
+      }
+    ],
+    "priceNote": "Für Bauträger mit mehreren Einheiten erstellen wir gern ein Rahmenangebot.",
+    "areaText": "Wir übernehmen Bauendreinigungen im gesamten Schwarzwald, unter anderem in Freiburg, Offenburg, Lahr, Emmendingen, Baden-Baden, Freudenstadt und Villingen-Schwenningen.",
+    "faq": [
+      {
+        "q": "Was ist der Unterschied zwischen Bauzwischen- und Bauendreinigung?",
+        "a": "Die Bauzwischenreinigung findet während der Bauphase zwischen den Gewerken statt. Die Bauendreinigung ist die letzte, gründliche Reinigung vor Abnahme und Einzug."
+      },
+      {
+        "q": "Wann sollte die Bauendreinigung stattfinden?",
+        "a": "Wenn alle Gewerke fertig sind und keine staubenden Arbeiten mehr anstehen, idealerweise ein bis drei Tage vor der Abnahme."
+      },
+      {
+        "q": "Entfernen Sie auch Farb- und Silikonreste?",
+        "a": "Ja. Wir entfernen Farbspritzer sowie Silikon-, Mörtel- und Kleberreste mit passenden Werkzeugen und Mitteln, ohne Glas oder Oberflächen zu verkratzen."
+      },
+      {
+        "q": "Brauchen Sie Wasser und Strom vor Ort?",
+        "a": "Ja. Reinigungsmittel und Maschinen bringen wir mit, Wasser und Strom sollten auf der Baustelle verfügbar sein."
+      },
+      {
+        "q": "Wie lange dauert eine Bauendreinigung?",
+        "a": "Ein Einfamilienhaus schaffen wir in der Regel an einem Tag. Bei größeren Objekten setzen wir mehrere Teams parallel ein."
+      },
+      {
+        "q": "Können Sie kurzfristig einspringen?",
+        "a": "Oft ja. Wenn sich der Abnahmetermin verschiebt, rufen Sie uns an. Wir prüfen sofort, welches Team verfügbar ist."
+      }
+    ]
+  },
+  "en": {
+    "name": "Post-construction cleaning",
+    "h1": "Post-construction cleaning in the Black Forest",
+    "metaTitle": "Post-construction cleaning in the Black Forest | EFK",
+    "metaDesc": "Builders' cleaning in the Black Forest: we remove construction dust, paint and silicone residue and hand over ready for inspection. Free on-site visit.",
+    "lead": "After shell construction, fit-out or renovation we get your property ready for handover: dust-free, streak-free and on time for the final inspection.",
+    "usps": [
+      "On time for the inspection",
+      "Rough, interim and final cleaning",
+      "Coordinated with site management and trades",
+      "Free on-site visit"
+    ],
+    "introTitle": "Why professional post-construction cleaning pays off",
+    "intro": [
+      "Every building site leaves behind more than you see at first glance: fine plaster and cement dust in joints and ventilation grilles, paint splashes on tiles, silicone residue on glass and protective film on windows and doors. Anyone tackling this with household products can easily scratch brand-new surfaces.",
+      "Our teams work with industrial vacuum cleaners, glass scrapers and suitable specialist cleaning agents, following a fixed sequence from top to bottom. That way every surface comes out properly clean, and neither the material nor its finish is damaged, whether it is new parquet, natural stone or coated window frames.",
+      "Whether it is a detached house in Offenburg, a residential complex in Freiburg or a commercial unit in Villingen-Schwenningen, we plan the cleaning around your construction schedule and hand the property over so that the client, buyer or tenant can move in straight away."
+    ],
+    "scopeTitle": "What we cover",
+    "scope": [
+      {
+        "t": "Rough cleaning",
+        "d": "Removing building rubble, packaging and coarse dirt during the construction phase or straight after it."
+      },
+      {
+        "t": "Interim builders' clean",
+        "d": "Cleaning between trades so that painters, floor layers and electricians can work on a clean surface."
+      },
+      {
+        "t": "Windows and frames",
+        "d": "Glass, frames, rebates and sills, including removal of protective film, labels and silicone residue."
+      },
+      {
+        "t": "Floors and stairs",
+        "d": "Vacuuming and wet cleaning of all floor coverings and tile joints, gentle on new parquet and natural stone."
+      },
+      {
+        "t": "Bathrooms and kitchen",
+        "d": "Freeing taps, basins, showers, toilets and fitted kitchens from construction dust and installation residue."
+      },
+      {
+        "t": "Doors, frames, radiators",
+        "d": "Damp cleaning of all doors, door frames, radiators, light switches and sockets."
+      },
+      {
+        "t": "Stairwell and basement",
+        "d": "Communal areas, plant rooms and cellars, cleaned to the standard checked at the handover inspection."
+      },
+      {
+        "t": "Waste removal",
+        "d": "Taking away film, cardboard and small waste as agreed with you beforehand."
+      }
+    ],
+    "forTitle": "Who we provide post-construction cleaning for",
+    "for": [
+      "Property developers",
+      "Architects and site managers",
+      "Trade businesses and general contractors",
+      "Private homebuilders",
+      "Property management companies after refurbishment",
+      "Businesses after a conversion"
+    ],
+    "steps": [
+      {
+        "t": "Site visit",
+        "d": "We look at the site and the construction schedule and check which trades are still working."
+      },
+      {
+        "t": "Fixed price",
+        "d": "You receive a fixed price for rough, interim and final cleaning, or for individual stages."
+      },
+      {
+        "t": "Cleaning",
+        "d": "Our team cleans in a fixed order, from top to bottom and from the inside out."
+      },
+      {
+        "t": "Handover",
+        "d": "We walk through the property with you so that nothing is flagged at the final inspection."
+      }
+    ],
+    "priceTitle": "How much does post-construction cleaning cost?",
+    "priceIntro": "The price depends on the actual workload. After the site visit you receive a written fixed price.",
+    "priceFactors": [
+      {
+        "t": "Floor area and rooms",
+        "d": "Square metres and the number of windows have the biggest influence on the time needed."
+      },
+      {
+        "t": "Level of dirt",
+        "d": "Fine dust after drywall work needs more passes than the renovation of a few individual rooms."
+      },
+      {
+        "t": "Glass and residue",
+        "d": "Many windows, protective film and silicone residue increase the effort for the glass cleaning."
+      },
+      {
+        "t": "Timing and access",
+        "d": "Short-notice jobs, weekend work or a missing lift are factored into the calculation."
+      }
+    ],
+    "priceNote": "For developers with several units we are happy to prepare a framework quote.",
+    "areaText": "We carry out post-construction cleaning across the whole Black Forest, including Freiburg, Offenburg, Lahr, Emmendingen, Baden-Baden, Freudenstadt and Villingen-Schwenningen.",
+    "faq": [
+      {
+        "q": "What is the difference between interim and final builders' cleaning?",
+        "a": "Interim cleaning takes place during the construction phase, between the different trades. The final clean is the last thorough cleaning before the handover inspection and moving in."
+      },
+      {
+        "q": "When should the final clean take place?",
+        "a": "Once all trades have finished and no more dusty work is planned, ideally one to three days before the handover inspection."
+      },
+      {
+        "q": "Do you also remove paint and silicone residue?",
+        "a": "Yes. We remove paint splashes as well as silicone, mortar and adhesive residue with suitable tools and products, without scratching glass or other surfaces."
+      },
+      {
+        "q": "Do you need water and electricity on site?",
+        "a": "Yes. We bring our own cleaning products and machines, but water and power should be available on the site."
+      },
+      {
+        "q": "How long does post-construction cleaning take?",
+        "a": "We can usually finish a detached house in one day. For larger properties we deploy several teams in parallel."
+      },
+      {
+        "q": "Can you step in at short notice?",
+        "a": "Often, yes. If the inspection date moves, give us a call and we will check straight away which team is available."
+      }
+    ]
+  },
+  "tr": {
+    "name": "İnşaat sonrası temizlik",
+    "h1": "Kara Orman'da inşaat sonrası temizlik",
+    "metaTitle": "Kara Orman'da inşaat sonrası temizlik | EFK",
+    "metaDesc": "Kara Orman'da inşaat sonrası ve ara temizlik: inşaat tozu, boya ve silikon kalıntılarını temizliyor, binayı teslime hazırlıyoruz. Ücretsiz keşif.",
+    "lead": "Kaba inşaat, iç tadilat veya renovasyondan sonra binanızı teslime hazırlıyoruz: tozsuz, iz bırakmadan ve teslim tarihine tam zamanında.",
+    "usps": [
+      "Teslim tarihine tam zamanında",
+      "Kaba, ara ve ince temizlik",
+      "Şantiye şefi ve ustalarla koordinasyon",
+      "Ücretsiz yerinde keşif"
+    ],
+    "introTitle": "Profesyonel inşaat sonrası temizlik neden önemli?",
+    "intro": [
+      "Her şantiyede ilk bakışta görünenden fazlası kalır: derzlerde ve havalandırma ızgaralarında ince alçı ve çimento tozu, fayanslarda boya lekeleri, camlarda silikon kalıntıları, pencere ve kapılarda koruyucu folyolar. Bunları sıradan ev tipi temizlik ürünleriyle temizlemeye çalışırsanız, yeni yüzeyleri kolayca çizip kalıcı hasara yol açabilirsiniz.",
+      "Ekiplerimiz endüstriyel süpürgeler, cam kazıyıcılar ve yüzeye uygun özel temizlik maddeleriyle çalışır ve her zaman yukarıdan aşağıya doğru sabit bir sırayı izler. Yeni parke, doğal taş veya kaplamalı pencere çerçevesi; hangi yüzey olursa olsun, malzemeye ve kaplamaya zarar vermeden tertemiz hale getiririz.",
+      "Offenburg'da müstakil bir ev, Freiburg'da çok daireli bir konut projesi ya da Villingen-Schwenningen'de bir ticari birim olsun, temizliği inşaat takviminize göre, gerekirse etaplar halinde planlıyoruz. Binayı, mal sahibi, alıcı ya da kiracı hiç beklemeden taşınabilecek şekilde temiz ve eksiksiz olarak teslim ediyoruz."
+    ],
+    "scopeTitle": "Hizmet kapsamımız",
+    "scope": [
+      {
+        "t": "Kaba temizlik",
+        "d": "İnşaat sırasında veya hemen sonrasında moloz, ambalaj ve kaba kirlerin uzaklaştırılması."
+      },
+      {
+        "t": "İnşaat ara temizliği",
+        "d": "Boyacı, zemin döşemecisi ve elektrikçinin temiz bir zeminde çalışabilmesi için iş kolları arasında yapılan temizlik."
+      },
+      {
+        "t": "Pencere ve çerçeveler",
+        "d": "Cam yüzeyler, çerçeveler, kasa olukları ve denizlikler; folyo, etiket ve silikon kalıntılarının sökülmesi de dahil."
+      },
+      {
+        "t": "Zeminler ve merdivenler",
+        "d": "Tüm zemin kaplamaları ve fayans derzleri için süpürme ve ıslak temizlik, yeni parke ve doğal taşa özen göstererek."
+      },
+      {
+        "t": "Banyo ve mutfak",
+        "d": "Armatürler, lavabolar, duşlar, klozetler ve mutfak dolaplarının inşaat tozu ve montaj artıklarından arındırılması."
+      },
+      {
+        "t": "Kapı, kasa, radyatör",
+        "d": "Tüm kapıların, kapı kasalarının, radyatörlerin, elektrik düğmelerinin ve prizlerin nemli bezle silinmesi."
+      },
+      {
+        "t": "Merdiven boşluğu ve bodrum",
+        "d": "Ortak alanlar, teknik odalar ve bodrum katları, teslim kontrolünde incelendikleri standarda göre temizlenir."
+      },
+      {
+        "t": "Atık bertarafı",
+        "d": "Folyo, karton ve küçük atıkların önceden yapılan anlaşmaya göre şantiyeden götürülmesi."
+      }
+    ],
+    "forTitle": "Kimler için inşaat sonrası temizlik yapıyoruz",
+    "for": [
+      "Müteahhitler ve proje geliştiriciler",
+      "Mimarlık ofisleri ve şantiye şefleri",
+      "Zanaat işletmeleri ve genel yükleniciler",
+      "Kendi evini yaptıran özel kişiler",
+      "Renovasyon sonrası bina yönetim şirketleri",
+      "Tadilat sonrası ticari işletmeler"
+    ],
+    "steps": [
+      {
+        "t": "Keşif",
+        "d": "Şantiyeyi ve inşaat takvimini inceliyor, hangi ustaların hâlâ çalıştığını netleştiriyoruz."
+      },
+      {
+        "t": "Sabit fiyat",
+        "d": "Kaba, ara ve ince temizlik için ya da tek tek etaplar için sabit bir fiyat alırsınız."
+      },
+      {
+        "t": "Temizlik",
+        "d": "Ekibimiz sabit bir sırayla, yukarıdan aşağıya ve içeriden dışarıya doğru temizlik yapar."
+      },
+      {
+        "t": "Teslim",
+        "d": "Teslim kontrolünde hiçbir eksik çıkmaması için binayı sizinle birlikte geziyoruz."
+      }
+    ],
+    "priceTitle": "İnşaat sonrası temizlik ne kadar tutar?",
+    "priceIntro": "Fiyat, gerçek iş yüküne göre belirlenir. Keşiften sonra size yazılı bir sabit fiyat teklifi sunarız.",
+    "priceFactors": [
+      {
+        "t": "Alan ve oda sayısı",
+        "d": "Metrekare ve pencere sayısı, harcanacak süreyi en çok belirleyen etkenlerdir."
+      },
+      {
+        "t": "Kirlilik derecesi",
+        "d": "Alçıpan işlerinden sonra kalan ince toz, tek tek odaların yenilenmesine göre daha fazla temizlik turu gerektirir."
+      },
+      {
+        "t": "Cam ve kalıntılar",
+        "d": "Çok sayıda pencere, folyo ve silikon kalıntısı cam temizliğinin iş yükünü artırır."
+      },
+      {
+        "t": "Tarih ve erişim",
+        "d": "Kısa vadeli talepler, hafta sonu çalışması ya da asansörün olmaması fiyata yansır."
+      }
+    ],
+    "priceNote": "Birden fazla birimi olan müteahhitler için memnuniyetle çerçeve teklif hazırlarız.",
+    "areaText": "İnşaat sonrası temizliği Kara Orman'ın tamamında, aralarında Freiburg, Offenburg, Lahr, Emmendingen, Baden-Baden, Freudenstadt ve Villingen-Schwenningen'in de bulunduğu birçok yerde üstleniyoruz.",
+    "faq": [
+      {
+        "q": "İnşaat ara temizliği ile inşaat sonrası temizlik arasındaki fark nedir?",
+        "a": "Ara temizlik, inşaat sürerken farklı iş kolları arasında yapılır. İnşaat sonrası temizlik ise teslim ve taşınmadan önceki son ve kapsamlı temizliktir."
+      },
+      {
+        "q": "İnşaat sonrası temizlik ne zaman yapılmalı?",
+        "a": "Tüm ustalar işini bitirdiğinde ve tozlu bir iş kalmadığında, ideal olarak teslimden bir ile üç gün önce."
+      },
+      {
+        "q": "Boya ve silikon kalıntılarını da temizliyor musunuz?",
+        "a": "Evet. Boya lekelerini, silikon, harç ve yapıştırıcı kalıntılarını uygun alet ve ürünlerle, camı veya yüzeyleri çizmeden temizliyoruz."
+      },
+      {
+        "q": "Şantiyede su ve elektriğe ihtiyacınız var mı?",
+        "a": "Evet. Temizlik malzemelerini ve makineleri biz getiriyoruz, ancak şantiyede su ve elektrik bulunmalıdır."
+      },
+      {
+        "q": "İnşaat sonrası temizlik ne kadar sürer?",
+        "a": "Müstakil bir evi genellikle bir günde bitiriyoruz. Daha büyük binalarda birden fazla ekibi aynı anda çalıştırıyoruz."
+      },
+      {
+        "q": "Kısa sürede gelebilir misiniz?",
+        "a": "Çoğu zaman evet. Teslim tarihi değişirse bizi arayın, hangi ekibin müsait olduğunu hemen kontrol edelim."
+      }
+    ]
+  }
+}
